@@ -1,11 +1,4 @@
-def tag_image(img_path):
-    # Extract features from the image
-    features = extract_features(img_path)
-
-    # Use the trained model to predict the tags
-    tags = clf.predict([features])[0]
-    return tags
-
+"""Ce script permet de déterminer la couleur prédominante d'une image."""
 
 def get_main_color(image):
     # Vérifier que l'image existe

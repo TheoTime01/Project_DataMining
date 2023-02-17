@@ -40,4 +40,5 @@ In the data visualization task, I will visualize the different characteristics o
 ## Recommendation System
 For the recommendation system task, I will build the recommendation system using a collaborative filtering, content-based, or hybrid approach. I will build a user-preference profile for each user, based on the information I have collected about their favorite images. I will evaluate the limitations of my proposed approach.
 # Pokemon Image Classification
-https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset?select=pokemon_jpg
+1. https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset?select=pokemon_jpg
+2. https://www.kaggle.com/datasets/abcsds/pokemon?resource=download

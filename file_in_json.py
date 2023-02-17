@@ -1,9 +1,11 @@
+"""ce script permet de creer un fichier json avec les metadatas des images"""
+
 from PIL import Image
 import os
 import json
 from datetime import datetime
 
-img_dir = r"C:\Users\Tototime\Desktop\Project_DataMining\pokemon_jpg"
+img_dir = r"C:\Users\Tototime\Desktop\Project_DataMining\pokemon_jpg" # path to the directory containing the images
 
 # initialize a dictionary to store the metadata for all images
 all_metadata = {}
@@ -18,6 +20,7 @@ for img_filename in os.listdir(img_dir):
         with Image.open(img_path) as img:
 
             # extract the image metadata
+            img_filename= img.filename
             img_format = img.format
             img_size = img.size
             img_orientation = "landscape" if img_size[0] > img_size[1] else "portrait"
@@ -25,6 +28,8 @@ for img_filename in os.listdir(img_dir):
 
             # create a dictionary of metadata for this image
             metadata = {
+                #on veut juste le nom de l'image
+                "id": (img_filename.split("\\")[-1]).split(".")[0],
                 "format": img_format,
                 "size": img_size,
                 "orientation": img_orientation,
@@ -32,7 +37,8 @@ for img_filename in os.listdir(img_dir):
             }
 
             # add the metadata for this image to the dictionary of all metadata
-            all_metadata[img_filename] = metadata
+            all_metadata[img_filename.split("\\")[-1]] = metadata
+
 
 # specify the path to the output JSON file
 json_path = r"C:\Users\Tototime\Desktop\Project_DataMining\database.json"
