@@ -3,7 +3,7 @@ import os
 import json
 from datetime import datetime
 
-img_dir = r"C:\Users\Tototime\Desktop\Project_DataMining\Ramen"
+img_dir = r"C:\Users\Tototime\Desktop\Project_DataMining\pokemon_jpg"
 
 # initialize a dictionary to store the metadata for all images
 all_metadata = {}
