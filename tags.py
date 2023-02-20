@@ -14,10 +14,10 @@ with open(r'C:\Users\Tototime\Desktop\Project_DataMining\data\Pokemon.csv', newl
         image_id = row[0]
         # on recupere les tags 
         for i in range(1, len(row)):
-            if row[i] != '':
+            if row[i] != '': # si le tag n'est pas vide
                 # on ajoute le tag dans le dictionnaire
                 if image_id in tags_dict:
-                    tags_dict[image_id].append(columns[i]+':'+row[i])
+                    tags_dict[image_id] = tags_dict[image_id] + [columns[i] + ':' + row[i]]
                 else:
                     tags_dict[image_id] = [columns[i] + ':' + row[i]]
 
