@@ -46,3 +46,4 @@ json_path = r"C:\Users\Tototime\Desktop\Project_DataMining\database.json"
 # save the metadata for all images in a JSON file
 with open(json_path, "w") as f:
     json.dump(all_metadata, f, indent=4)
+
