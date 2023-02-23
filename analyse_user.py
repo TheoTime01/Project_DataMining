@@ -1,5 +1,5 @@
 import json
-from random import randint
+from random import randint, choice
 import os
 
 # Fonction pour charger les caractéristiques d'une image
@@ -19,7 +19,6 @@ def load(filename):
 def filter_images(images, color, legendary):
     filtered_images = []
     img = []
-    out_images = []
     for image in images.values():
             if 'tags' in image:
                 for tags in image['tags']:
@@ -47,8 +46,8 @@ def filter_images(images, color, legendary):
 def get_user_preferences(images):
     color_t=["rouge","bleu","vert"]
     legendary_t=[True,False]
-    color = color_t[randint(0, len(color_t)-1)]
-    legendary = legendary_t[randint(0, len(legendary_t)-1)]
+    color = choice(color_t)
+    legendary = choice(legendary_t)
     filtered_images = filter_images(images, color, legendary)
     return filtered_images
 
@@ -56,15 +55,18 @@ def get_user_preferences(images):
 #simulation de l'utilisateur
 img=load("database.json")
 favorite_t=["Favorite","NotFavorite"]
-result=[]
 all_user={}
 
-for i in range(100):#100 utilisateurs
+for i in range(10):#100 utilisateurs
+    result=[]
     data=get_user_preferences(img)
     for k in range(len(data)):
         result.append(favorite_t[randint(0, len(favorite_t)-1)])
     all_user[i]={'data':data,'result':result}
-
+    print("__________________")
+    print(len(result))
+    print(len(data))
+    print("__________________")
 
 
 
