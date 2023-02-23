@@ -18,41 +18,59 @@ def load(filename):
 # Fonction de filtrage en fonction des préférences utilisateur
 def filter_images(images, color, legendary):
     filtered_images = []
-    for image in images.values(): #on prend les 577 premiers pokemons
+    img = []
+    out_images = []
+    for image in images.values():
             if 'tags' in image:
                 for tags in image['tags']:
                     if image["couleur"]["couleur dominante"] == color:
                         if tags.split(":")[0] == 'Legendary':
                             if tags.split(":")[1] == str(legendary):     
-                                filtered_images.append((image))
-    return filtered_images
+                                filtered_images.append(image.get("tags"))
+    for item in filtered_images:
+        name, type1, type2,generation = "", "", "", ""
+        for attr in item:
+            key, value = attr.split(":")
+            if key == "Name":
+                name = value
+            elif key == "Type 1":
+                type1 = value
+            elif key == "Type 2":
+                type2 = value
+            elif key == "Generation":
+                generation = value
+        img.append([name, type1, type2, generation]+[color, legendary])
+    return img
 
 
-# Fonction pour demander les préférences utilisateur et filtrer les images en conséquence
+
 def get_user_preferences(images):
     color_t=["rouge","bleu","vert"]
     legendary_t=[True,False]
     color = color_t[randint(0, len(color_t)-1)]
     legendary = legendary_t[randint(0, len(legendary_t)-1)]
-    like=randint(0,1) # 0 pour dislike et 1 pour like
     filtered_images = filter_images(images, color, legendary)
-    return [filtered_images, color, legendary,like]
+    return filtered_images
 
 
 #simulation de l'utilisateur
 img=load("database.json")
-all_user = {}
-for i in range(100):
-    user_fav= get_user_preferences(img)
+favorite_t=["Favorite","NotFavorite"]
+data=[]
+result=[]
+all_user={}
 
-    user= {
-        "like": user_fav[3],
-        "color": user_fav[1],
-        "legendary": user_fav[2],
-        "pokemons": user_fav[0],
-    }
+for i in range(100):#100 utilisateurs
+    for j in range(13): #13 pokemons par utilisateur
+        data.append(get_user_preferences(img))
+    for k in range(13):
+        result.append(favorite_t[randint(0, len(favorite_t)-1)])
+    all_user.append(data)
+    all_user.append(result)
 
-    all_user['id_user'+':'+str(i)] = user
-# sauvegarder les préférences utilisateur
+
+
+#sauvegarde des données
 with open("user.json", "w") as f:
     json.dump(all_user, f, indent=4)
+
