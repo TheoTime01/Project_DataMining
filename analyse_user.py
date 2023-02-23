@@ -56,17 +56,15 @@ def get_user_preferences(images):
 #simulation de l'utilisateur
 img=load("database.json")
 favorite_t=["Favorite","NotFavorite"]
-data=[]
 result=[]
 all_user={}
 
 for i in range(100):#100 utilisateurs
-    for j in range(13): #13 pokemons par utilisateur
-        data.append(get_user_preferences(img))
-    for k in range(13):
+    data=get_user_preferences(img)
+    for k in range(len(data)):
         result.append(favorite_t[randint(0, len(favorite_t)-1)])
-    all_user.append(data)
-    all_user.append(result)
+    all_user[i]={'data':data,'result':result}
+
 
 
 
