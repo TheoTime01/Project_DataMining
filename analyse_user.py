@@ -27,18 +27,16 @@ def filter_images(images, color, legendary):
                             if tags.split(":")[1] == str(legendary):     
                                 filtered_images.append(image.get("tags"))
     for item in filtered_images:
-        name, type1, type2,generation = "", "", "", ""
+        type1, type2,generation = "", "", ""
         for attr in item:
             key, value = attr.split(":")
-            if key == "Name":
-                name = value
-            elif key == "Type 1":
+            if key == "Type 1":
                 type1 = value
             elif key == "Type 2":
                 type2 = value
             elif key == "Generation":
                 generation = value
-        img.append([name, type1, type2, generation]+[color, legendary])
+        img.append([type1, type2, generation]+[color, legendary])
     return img
 
 
@@ -57,7 +55,7 @@ img=load("database.json")
 favorite_t=["Favorite","NotFavorite"]
 all_user={}
 
-for i in range(10):#100 utilisateurs
+for i in range(100):#100 utilisateurs
     result=[]
     data=get_user_preferences(img)
     for k in range(len(data)):

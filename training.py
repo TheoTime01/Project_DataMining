@@ -4,6 +4,7 @@ from sklearn.preprocessing import LabelEncoder
 import graphviz
 import pydotplus
 from IPython.display import Image, display
+import pickle
 
 #import user.json as a dict
 user = load("user.json")
@@ -49,3 +50,7 @@ graph = graphviz.Source(dot_data)
 pydot_graph = pydotplus.graph_from_dot_data(dot_data)
 img = Image(pydot_graph.create_png())
 display(img)
+
+# Enregistrement du modèle dans un fichier
+with open('model.pickle', 'wb') as f:
+    pickle.dump(dtc, f)
