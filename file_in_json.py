@@ -19,6 +19,10 @@ for img_filename in os.listdir(img_dir):
         # open the image file
         with Image.open(img_path) as img:
 
+            # remove images with a name which are not this format: 1.jpg, 2.jpg, 3.jpg, etc.
+            if not img_filename.split(".")[0].isdigit():
+                continue
+
             # extract the image metadata
             img_filename= img.filename
             img_format = img.format
@@ -29,11 +33,12 @@ for img_filename in os.listdir(img_dir):
             # create a dictionary of metadata for this image
             metadata = {
                 #on veut juste le nom de l'image
-                "id": (img_filename.split("\\")[-1]).split(".")[0],
+                "id": int((img_filename.split("\\")[-1]).split(".")[0]),
                 "format": img_format,
                 "size": img_size,
                 "orientation": img_orientation,
-                "creation_date": creation_date
+                "creation_date": creation_date,
+                "tags": ""
             }
 
             # add the metadata for this image to the dictionary of all metadata
