@@ -29,7 +29,11 @@ for key in data_d:
         if data_d[key]["id"] == data_t[i]["id"]:
             data_d[key]["tags"] = data_t[i]
 
+#Enlever l'id de data_d["tags"]
+for key in data_d:
+    data_d[key]["tags"].pop("id")
+
 # Enregistrer les données dans database.json
 with open('database.json', 'w') as f:
     json.dump(data_d, f, indent=4)
-    
+

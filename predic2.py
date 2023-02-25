@@ -8,11 +8,11 @@ import json
 import pickle
 
 # Importer le modèle
-with open('model.pkl', 'rb') as file:
+with open('prediction_model.pkl', 'rb') as file:
     dtc_model = pickle.load(file)
 
 # Créer un dataframe pour le nouveau Pokémon
-golurk = pd.DataFrame([["Grass", "Poison", "1", "vert", False]], columns=["Type 1", "Type 2","Generation", "color", "legendary"])
+golurk = pd.DataFrame([["Grass", "Poison", "3", "vert", False]], columns=["Type 1", "Type 2","Generation", "color", "legendary"])
 
 # Prétraiter les données pour les encoder
 le1 = LabelEncoder()

@@ -12,6 +12,7 @@ for img_filename in os.listdir(img_dir):
         img_path = os.path.join(img_dir, img_filename)
         # Ouvrir l'image
         with Image.open(img_path) as img:
+            
             # Extraire la matrice de pixels
             pixel_matrix = np.array(img)
 
@@ -56,5 +57,6 @@ with open(json_path, 'r+') as f:
     f.seek(0) # rewind
     json.dump(data, f, indent=4)  # save the colors for all images in a JSON file
     f.truncate() # remove remaining part
+
 
 
