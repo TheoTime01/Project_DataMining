@@ -6,6 +6,11 @@ import pydotplus
 from IPython.display import Image, display
 import json
 import pickle
+import numpy as np
+import matplotlib.pyplot as plt
+import os
+import random
+
 
 # Importer le modèle
 with open('prediction_model.pkl', 'rb') as file:
@@ -36,3 +41,8 @@ if prediction[0] == 0:
     print("Le Pokémon sera favori")
 else:
     print("Le Pokémon ne sera pas favori")
+
+with open('database.json') as f:
+    data=json.load(f)
+
+print(len(data))
