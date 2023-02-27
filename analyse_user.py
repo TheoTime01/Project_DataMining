@@ -4,14 +4,16 @@ import os
 
 # Fonction pour charger les caractéristiques d'une image
 def load(filename):
-    result={}
+    train={}
+    test={}
     with open(filename, "r") as f:
         data=json.load(f)
-    #on prend les 577 premiers pokemons (80% du dataset)
-    while len(result)<577:
-        for i in data:
-            result[i]=data[i]
-    return result
+    for i in data:
+        if data[i]["id"]<598:
+            train[i]=data[i] #85% des données
+        else:
+            test[i]=data[i] #15% des données
+    return train,test
 
 
 
@@ -38,7 +40,7 @@ def get_user_preferences(images):
 
 
 #simulation de l'utilisateur
-img=load("database.json")
+img,test=load("database.json")
 favorite_t=["Favorite","NotFavorite"]
 all_user={}
 
@@ -52,4 +54,8 @@ for i in range(500):#100 utilisateurs
 #sauvegarde des données
 with open("user.json", "w") as f:
     json.dump(all_user, f, indent=4)
+
+#sauvegarder les données de test dans un fichier json
+with open("test.json", "w") as f:
+    json.dump(test, f, indent=4)
 

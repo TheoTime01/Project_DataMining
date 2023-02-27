@@ -1,0 +1,2762 @@
+{
+    "598.jpg": {
+        "id": 598,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Ferrothorn",
+            "Type 1": "Grass",
+            "Type 2": "Steel",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 221.65370178222656,
+            "vert": 226.1406707763672,
+            "bleu": 223.3753662109375
+        }
+    },
+    "599.jpg": {
+        "id": 599,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Klink",
+            "Type 1": "Steel",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 206.3040313720703,
+            "vert": 208.64093017578125,
+            "bleu": 210.3040313720703
+        }
+    },
+    "600.jpg": {
+        "id": 600,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Klang",
+            "Type 1": "Steel",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 199.35768127441406,
+            "vert": 202.6605224609375,
+            "bleu": 204.44874572753906
+        }
+    },
+    "601.jpg": {
+        "id": 601,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Klinklang",
+            "Type 1": "Steel",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 217.6317901611328,
+            "vert": 219.58677673339844,
+            "bleu": 221.8231201171875
+        }
+    },
+    "602.jpg": {
+        "id": 602,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Tynamo",
+            "Type 1": "Electric",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 234.33999633789062,
+            "vert": 238.1143035888672,
+            "bleu": 240.75421142578125
+        }
+    },
+    "603.jpg": {
+        "id": 603,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Eelektrik",
+            "Type 1": "Electric",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 213.48675537109375,
+            "vert": 209.02337646484375,
+            "bleu": 205.8523712158203
+        }
+    },
+    "604.jpg": {
+        "id": 604,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Eelektross",
+            "Type 1": "Electric",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 217.08299255371094,
+            "vert": 217.67770385742188,
+            "bleu": 217.3365478515625
+        }
+    },
+    "605.jpg": {
+        "id": 605,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Elgyem",
+            "Type 1": "Psychic",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 208.27304077148438,
+            "vert": 225.03749084472656,
+            "bleu": 222.18435668945312
+        }
+    },
+    "606.jpg": {
+        "id": 606,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Beheeyem",
+            "Type 1": "Psychic",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 222.84315490722656,
+            "vert": 214.4727020263672,
+            "bleu": 211.24819946289062
+        }
+    },
+    "607.jpg": {
+        "id": 607,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Litwick",
+            "Type 1": "Ghost",
+            "Type 2": "Fire",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 224.49777221679688,
+            "vert": 227.13218688964844,
+            "bleu": 237.84889221191406
+        }
+    },
+    "608.jpg": {
+        "id": 608,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Lampent",
+            "Type 1": "Ghost",
+            "Type 2": "Fire",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 207.47926330566406,
+            "vert": 209.30490112304688,
+            "bleu": 211.9418182373047
+        }
+    },
+    "609.jpg": {
+        "id": 609,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Chandelure",
+            "Type 1": "Ghost",
+            "Type 2": "Fire",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 205.1130828857422,
+            "vert": 206.3429412841797,
+            "bleu": 211.65634155273438
+        }
+    },
+    "610.jpg": {
+        "id": 610,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Axew",
+            "Type 1": "Dragon",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 204.7805938720703,
+            "vert": 208.63111877441406,
+            "bleu": 200.42726135253906
+        }
+    },
+    "611.jpg": {
+        "id": 611,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Fraxure",
+            "Type 1": "Dragon",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 186.64527893066406,
+            "vert": 186.63951110839844,
+            "bleu": 180.1629180908203
+        }
+    },
+    "612.jpg": {
+        "id": 612,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Haxorus",
+            "Type 1": "Dragon",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 208.7854766845703,
+            "vert": 203.302001953125,
+            "bleu": 186.90621948242188
+        }
+    },
+    "613.jpg": {
+        "id": 613,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Cubchoo",
+            "Type 1": "Ice",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 216.64964294433594,
+            "vert": 227.92288208007812,
+            "bleu": 237.1300048828125
+        }
+    },
+    "614.jpg": {
+        "id": 614,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Beartic",
+            "Type 1": "Ice",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 233.30557250976562,
+            "vert": 238.90423583984375,
+            "bleu": 241.1251220703125
+        }
+    },
+    "615.jpg": {
+        "id": 615,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Cryogonal",
+            "Type 1": "Ice",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 166.75454711914062,
+            "vert": 181.0266571044922,
+            "bleu": 202.8594512939453
+        }
+    },
+    "616.jpg": {
+        "id": 616,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Shelmet",
+            "Type 1": "Bug",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 207.5350341796875,
+            "vert": 196.5947723388672,
+            "bleu": 194.3741455078125
+        }
+    },
+    "617.jpg": {
+        "id": 617,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Accelgor",
+            "Type 1": "Bug",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 208.7882080078125,
+            "vert": 203.6455078125,
+            "bleu": 208.5408477783203
+        }
+    },
+    "618.jpg": {
+        "id": 618,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Stunfisk",
+            "Type 1": "Ground",
+            "Type 2": "Electric",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 232.61392211914062,
+            "vert": 221.9015350341797,
+            "bleu": 211.02145385742188
+        }
+    },
+    "619.jpg": {
+        "id": 619,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Mienfoo",
+            "Type 1": "Fighting",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 230.1118927001953,
+            "vert": 212.54721069335938,
+            "bleu": 200.30072021484375
+        }
+    },
+    "620.jpg": {
+        "id": 620,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Mienshao",
+            "Type 1": "Fighting",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 237.97549438476562,
+            "vert": 235.5145721435547,
+            "bleu": 237.4778594970703
+        }
+    },
+    "621.jpg": {
+        "id": 621,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Druddigon",
+            "Type 1": "Dragon",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 174.61688232421875,
+            "vert": 188.67913818359375,
+            "bleu": 195.39878845214844
+        }
+    },
+    "622.jpg": {
+        "id": 622,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Golett",
+            "Type 1": "Ground",
+            "Type 2": "Ghost",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 169.74795532226562,
+            "vert": 186.71336364746094,
+            "bleu": 183.5048065185547
+        }
+    },
+    "623.jpg": {
+        "id": 623,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Golurk",
+            "Type 1": "Ground",
+            "Type 2": "Ghost",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 172.08108520507812,
+            "vert": 186.384033203125,
+            "bleu": 183.08322143554688
+        }
+    },
+    "624.jpg": {
+        "id": 624,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Pawniard",
+            "Type 1": "Dark",
+            "Type 2": "Steel",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 227.02633666992188,
+            "vert": 221.4943389892578,
+            "bleu": 222.01182556152344
+        }
+    },
+    "625.jpg": {
+        "id": 625,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Bisharp",
+            "Type 1": "Dark",
+            "Type 2": "Steel",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 225.3416748046875,
+            "vert": 218.7171630859375,
+            "bleu": 218.4320831298828
+        }
+    },
+    "626.jpg": {
+        "id": 626,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Bouffalant",
+            "Type 1": "Normal",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 199.09835815429688,
+            "vert": 191.376953125,
+            "bleu": 181.30735778808594
+        }
+    },
+    "627.jpg": {
+        "id": 627,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Rufflet",
+            "Type 1": "Normal",
+            "Type 2": "Flying",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 222.23233032226562,
+            "vert": 219.38714599609375,
+            "bleu": 216.38381958007812
+        }
+    },
+    "628.jpg": {
+        "id": 628,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Braviary",
+            "Type 1": "Normal",
+            "Type 2": "Flying",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 201.1790008544922,
+            "vert": 191.6592254638672,
+            "bleu": 192.41928100585938
+        }
+    },
+    "629.jpg": {
+        "id": 629,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Vullaby",
+            "Type 1": "Dark",
+            "Type 2": "Flying",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 207.09649658203125,
+            "vert": 202.2984161376953,
+            "bleu": 200.2149658203125
+        }
+    },
+    "630.jpg": {
+        "id": 630,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Mandibuzz",
+            "Type 1": "Dark",
+            "Type 2": "Flying",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 201.31695556640625,
+            "vert": 194.775146484375,
+            "bleu": 192.43487548828125
+        }
+    },
+    "631.jpg": {
+        "id": 631,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Heatmor",
+            "Type 1": "Fire",
+            "Type 2": null,
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 215.2986297607422,
+            "vert": 199.192626953125,
+            "bleu": 192.12939453125
+        }
+    },
+    "632.jpg": {
+        "id": 632,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Durant",
+            "Type 1": "Bug",
+            "Type 2": "Steel",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 215.2657470703125,
+            "vert": 214.8907470703125,
+            "bleu": 215.37989807128906
+        }
+    },
+    "633.jpg": {
+        "id": 633,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Deino",
+            "Type 1": "Dark",
+            "Type 2": "Dragon",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 202.02183532714844,
+            "vert": 202.091064453125,
+            "bleu": 204.92115783691406
+        }
+    },
+    "634.jpg": {
+        "id": 634,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Zweilous",
+            "Type 1": "Dark",
+            "Type 2": "Dragon",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 175.2660675048828,
+            "vert": 173.89520263671875,
+            "bleu": 176.21112060546875
+        }
+    },
+    "635.jpg": {
+        "id": 635,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Hydreigon",
+            "Type 1": "Dark",
+            "Type 2": "Dragon",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 197.6572723388672,
+            "vert": 193.99085998535156,
+            "bleu": 199.30587768554688
+        }
+    },
+    "636.jpg": {
+        "id": 636,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Larvesta",
+            "Type 1": "Bug",
+            "Type 2": "Fire",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 211.11817932128906,
+            "vert": 201.21157836914062,
+            "bleu": 198.44082641601562
+        }
+    },
+    "637.jpg": {
+        "id": 637,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Volcarona",
+            "Type 1": "Bug",
+            "Type 2": "Fire",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 223.10684204101562,
+            "vert": 200.48191833496094,
+            "bleu": 194.42660522460938
+        }
+    },
+    "638.jpg": {
+        "id": 638,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Cobalion",
+            "Type 1": "Steel",
+            "Type 2": "Fighting",
+            "Generation": 5,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 209.6781005859375,
+            "vert": 222.15426635742188,
+            "bleu": 223.35877990722656
+        }
+    },
+    "639.jpg": {
+        "id": 639,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Terrakion",
+            "Type 1": "Rock",
+            "Type 2": "Fighting",
+            "Generation": 5,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 191.45556640625,
+            "vert": 185.6144561767578,
+            "bleu": 180.910400390625
+        }
+    },
+    "640.jpg": {
+        "id": 640,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Virizion",
+            "Type 1": "Grass",
+            "Type 2": "Fighting",
+            "Generation": 5,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 230.13058471679688,
+            "vert": 234.39903259277344,
+            "bleu": 220.72064208984375
+        }
+    },
+    "643.jpg": {
+        "id": 643,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Reshiram",
+            "Type 1": "Dragon",
+            "Type 2": "Fire",
+            "Generation": 5,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 229.5071563720703,
+            "vert": 232.5896759033203,
+            "bleu": 237.68321228027344
+        }
+    },
+    "644.jpg": {
+        "id": 644,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Zekrom",
+            "Type 1": "Dragon",
+            "Type 2": "Electric",
+            "Generation": 5,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 184.88255310058594,
+            "vert": 186.67025756835938,
+            "bleu": 187.2771453857422
+        }
+    },
+    "646.jpg": {
+        "id": 646,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "KyuremWhite Kyurem",
+            "Type 1": "Dragon",
+            "Type 2": "Ice",
+            "Generation": 5,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 211.37771606445312,
+            "vert": 214.89161682128906,
+            "bleu": 216.2601318359375
+        }
+    },
+    "648.jpg": {
+        "id": 648,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "MeloettaPirouette Forme",
+            "Type 1": "Normal",
+            "Type 2": "Fighting",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 231.2306365966797,
+            "vert": 232.6721954345703,
+            "bleu": 227.90420532226562
+        }
+    },
+    "649.jpg": {
+        "id": 649,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Genesect",
+            "Type 1": "Bug",
+            "Type 2": "Steel",
+            "Generation": 5,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 203.9917449951172,
+            "vert": 192.39495849609375,
+            "bleu": 205.72349548339844
+        }
+    },
+    "650.jpg": {
+        "id": 650,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Chespin",
+            "Type 1": "Grass",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 223.7646026611328,
+            "vert": 219.1151885986328,
+            "bleu": 203.9981231689453
+        }
+    },
+    "651.jpg": {
+        "id": 651,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Quilladin",
+            "Type 1": "Grass",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 201.23558044433594,
+            "vert": 195.74322509765625,
+            "bleu": 176.9822998046875
+        }
+    },
+    "652.jpg": {
+        "id": 652,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Chesnaught",
+            "Type 1": "Grass",
+            "Type 2": "Fighting",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 227.89686584472656,
+            "vert": 228.5859832763672,
+            "bleu": 218.2863006591797
+        }
+    },
+    "653.jpg": {
+        "id": 653,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Fennekin",
+            "Type 1": "Fire",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 241.54241943359375,
+            "vert": 224.05958557128906,
+            "bleu": 203.3129119873047
+        }
+    },
+    "654.jpg": {
+        "id": 654,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Braixen",
+            "Type 1": "Fire",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 234.7613067626953,
+            "vert": 225.3748016357422,
+            "bleu": 212.66433715820312
+        }
+    },
+    "655.jpg": {
+        "id": 655,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Delphox",
+            "Type 1": "Fire",
+            "Type 2": "Psychic",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 231.50518798828125,
+            "vert": 210.94041442871094,
+            "bleu": 201.0418701171875
+        }
+    },
+    "656.jpg": {
+        "id": 656,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Froakie",
+            "Type 1": "Water",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 188.0624542236328,
+            "vert": 209.8327178955078,
+            "bleu": 208.56851196289062
+        }
+    },
+    "657.jpg": {
+        "id": 657,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Frogadier",
+            "Type 1": "Water",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 211.66578674316406,
+            "vert": 222.70599365234375,
+            "bleu": 229.55776977539062
+        }
+    },
+    "658.jpg": {
+        "id": 658,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Greninja",
+            "Type 1": "Water",
+            "Type 2": "Dark",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 232.30076599121094,
+            "vert": 231.22915649414062,
+            "bleu": 235.9652557373047
+        }
+    },
+    "659.jpg": {
+        "id": 659,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Bunnelby",
+            "Type 1": "Normal",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 223.29415893554688,
+            "vert": 219.42796325683594,
+            "bleu": 216.1575164794922
+        }
+    },
+    "660.jpg": {
+        "id": 660,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Diggersby",
+            "Type 1": "Normal",
+            "Type 2": "Ground",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 213.437744140625,
+            "vert": 207.6159210205078,
+            "bleu": 198.68077087402344
+        }
+    },
+    "661.jpg": {
+        "id": 661,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Fletchling",
+            "Type 1": "Normal",
+            "Type 2": "Flying",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 223.7363739013672,
+            "vert": 214.04498291015625,
+            "bleu": 210.9772186279297
+        }
+    },
+    "662.jpg": {
+        "id": 662,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Fletchinder",
+            "Type 1": "Fire",
+            "Type 2": "Flying",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 215.1363067626953,
+            "vert": 203.50306701660156,
+            "bleu": 196.8892822265625
+        }
+    },
+    "663.jpg": {
+        "id": 663,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Talonflame",
+            "Type 1": "Fire",
+            "Type 2": "Flying",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 235.7170867919922,
+            "vert": 228.0836181640625,
+            "bleu": 223.41485595703125
+        }
+    },
+    "664.jpg": {
+        "id": 664,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Scatterbug",
+            "Type 1": "Bug",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 220.1780242919922,
+            "vert": 219.18377685546875,
+            "bleu": 218.16729736328125
+        }
+    },
+    "665.jpg": {
+        "id": 665,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Spewpa",
+            "Type 1": "Bug",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 212.86170959472656,
+            "vert": 208.88479614257812,
+            "bleu": 208.58909606933594
+        }
+    },
+    "666.jpg": {
+        "id": 666,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Vivillon",
+            "Type 1": "Bug",
+            "Type 2": "Flying",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 217.05259704589844,
+            "vert": 188.1403045654297,
+            "bleu": 199.00057983398438
+        }
+    },
+    "667.jpg": {
+        "id": 667,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Litleo",
+            "Type 1": "Fire",
+            "Type 2": "Normal",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 185.47520446777344,
+            "vert": 171.48458862304688,
+            "bleu": 159.86793518066406
+        }
+    },
+    "668.jpg": {
+        "id": 668,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Pyroar",
+            "Type 1": "Fire",
+            "Type 2": "Normal",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 219.6104736328125,
+            "vert": 190.45314025878906,
+            "bleu": 170.67056274414062
+        }
+    },
+    "669.jpg": {
+        "id": 669,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Flab\u00e9b\u00e9",
+            "Type 1": "Fairy",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 229.53402709960938,
+            "vert": 210.35336303710938,
+            "bleu": 199.03248596191406
+        }
+    },
+    "670.jpg": {
+        "id": 670,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Floette",
+            "Type 1": "Fairy",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 222.1560821533203,
+            "vert": 215.0718536376953,
+            "bleu": 211.00674438476562
+        }
+    },
+    "671.jpg": {
+        "id": 671,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Florges",
+            "Type 1": "Fairy",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 203.71119689941406,
+            "vert": 214.45166015625,
+            "bleu": 210.8594512939453
+        }
+    },
+    "672.jpg": {
+        "id": 672,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Skiddo",
+            "Type 1": "Grass",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 178.3739471435547,
+            "vert": 190.87535095214844,
+            "bleu": 182.16067504882812
+        }
+    },
+    "673.jpg": {
+        "id": 673,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Gogoat",
+            "Type 1": "Grass",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 183.46029663085938,
+            "vert": 192.50669860839844,
+            "bleu": 179.41909790039062
+        }
+    },
+    "674.jpg": {
+        "id": 674,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Pancham",
+            "Type 1": "Fighting",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 211.66195678710938,
+            "vert": 210.81492614746094,
+            "bleu": 206.63145446777344
+        }
+    },
+    "675.jpg": {
+        "id": 675,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Pangoro",
+            "Type 1": "Fighting",
+            "Type 2": "Dark",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 197.66026306152344,
+            "vert": 197.9569854736328,
+            "bleu": 199.754638671875
+        }
+    },
+    "676.jpg": {
+        "id": 676,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Furfrou",
+            "Type 1": "Normal",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 231.5296630859375,
+            "vert": 233.3806915283203,
+            "bleu": 228.53854370117188
+        }
+    },
+    "677.jpg": {
+        "id": 677,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Espurr",
+            "Type 1": "Psychic",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 204.5799102783203,
+            "vert": 203.91525268554688,
+            "bleu": 211.2700958251953
+        }
+    },
+    "678.jpg": {
+        "id": 678,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "MeowsticFemale",
+            "Type 1": "Psychic",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 178.96310424804688,
+            "vert": 188.4334259033203,
+            "bleu": 206.2530059814453
+        }
+    },
+    "679.jpg": {
+        "id": 679,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Honedge",
+            "Type 1": "Steel",
+            "Type 2": "Ghost",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 213.5038299560547,
+            "vert": 217.84927368164062,
+            "bleu": 219.77236938476562
+        }
+    },
+    "680.jpg": {
+        "id": 680,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Doublade",
+            "Type 1": "Steel",
+            "Type 2": "Ghost",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 220.92755126953125,
+            "vert": 203.51791381835938,
+            "bleu": 209.36898803710938
+        }
+    },
+    "681.jpg": {
+        "id": 681,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "AegislashShield Forme",
+            "Type 1": "Steel",
+            "Type 2": "Ghost",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 227.7446746826172,
+            "vert": 224.53219604492188,
+            "bleu": 219.31243896484375
+        }
+    },
+    "682.jpg": {
+        "id": 682,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Spritzee",
+            "Type 1": "Fairy",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 225.02423095703125,
+            "vert": 197.0425262451172,
+            "bleu": 203.28610229492188
+        }
+    },
+    "683.jpg": {
+        "id": 683,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Aromatisse",
+            "Type 1": "Fairy",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 221.7998504638672,
+            "vert": 193.4848175048828,
+            "bleu": 205.9784393310547
+        }
+    },
+    "684.jpg": {
+        "id": 684,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Swirlix",
+            "Type 1": "Fairy",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 245.1434783935547,
+            "vert": 241.81170654296875,
+            "bleu": 243.82093811035156
+        }
+    },
+    "685.jpg": {
+        "id": 685,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Slurpuff",
+            "Type 1": "Fairy",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 228.47314453125,
+            "vert": 210.56724548339844,
+            "bleu": 217.5087432861328
+        }
+    },
+    "686.jpg": {
+        "id": 686,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Inkay",
+            "Type 1": "Dark",
+            "Type 2": "Psychic",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 221.3896942138672,
+            "vert": 218.65440368652344,
+            "bleu": 221.38726806640625
+        }
+    },
+    "687.jpg": {
+        "id": 687,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Malamar",
+            "Type 1": "Dark",
+            "Type 2": "Psychic",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 218.46339416503906,
+            "vert": 214.1055145263672,
+            "bleu": 222.16732788085938
+        }
+    },
+    "688.jpg": {
+        "id": 688,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Binacle",
+            "Type 1": "Rock",
+            "Type 2": "Water",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 212.49285888671875,
+            "vert": 206.82020568847656,
+            "bleu": 200.18038940429688
+        }
+    },
+    "689.jpg": {
+        "id": 689,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Barbaracle",
+            "Type 1": "Rock",
+            "Type 2": "Water",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 213.9553985595703,
+            "vert": 209.19638061523438,
+            "bleu": 206.47642517089844
+        }
+    },
+    "690.jpg": {
+        "id": 690,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Skrelp",
+            "Type 1": "Poison",
+            "Type 2": "Water",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 214.37478637695312,
+            "vert": 205.981201171875,
+            "bleu": 204.06529235839844
+        }
+    },
+    "691.jpg": {
+        "id": 691,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Dragalge",
+            "Type 1": "Poison",
+            "Type 2": "Dragon",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 230.44248962402344,
+            "vert": 222.13758850097656,
+            "bleu": 221.0712890625
+        }
+    },
+    "692.jpg": {
+        "id": 692,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Clauncher",
+            "Type 1": "Water",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 222.4405975341797,
+            "vert": 233.1664276123047,
+            "bleu": 236.4525146484375
+        }
+    },
+    "693.jpg": {
+        "id": 693,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Clawitzer",
+            "Type 1": "Water",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 221.4658203125,
+            "vert": 229.94189453125,
+            "bleu": 233.92251586914062
+        }
+    },
+    "694.jpg": {
+        "id": 694,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Helioptile",
+            "Type 1": "Electric",
+            "Type 2": "Normal",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 231.3505096435547,
+            "vert": 228.24606323242188,
+            "bleu": 213.0036163330078
+        }
+    },
+    "695.jpg": {
+        "id": 695,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Heliolisk",
+            "Type 1": "Electric",
+            "Type 2": "Normal",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 239.94390869140625,
+            "vert": 235.94146728515625,
+            "bleu": 226.16114807128906
+        }
+    },
+    "696.jpg": {
+        "id": 696,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Tyrunt",
+            "Type 1": "Rock",
+            "Type 2": "Dragon",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 199.3614959716797,
+            "vert": 190.69471740722656,
+            "bleu": 187.25302124023438
+        }
+    },
+    "697.jpg": {
+        "id": 697,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Tyrantrum",
+            "Type 1": "Rock",
+            "Type 2": "Dragon",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 222.84817504882812,
+            "vert": 207.48695373535156,
+            "bleu": 205.21751403808594
+        }
+    },
+    "698.jpg": {
+        "id": 698,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Amaura",
+            "Type 1": "Rock",
+            "Type 2": "Ice",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 231.9001922607422,
+            "vert": 238.64089965820312,
+            "bleu": 241.10301208496094
+        }
+    },
+    "699.jpg": {
+        "id": 699,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Aurorus",
+            "Type 1": "Rock",
+            "Type 2": "Ice",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 221.0090789794922,
+            "vert": 226.80177307128906,
+            "bleu": 230.5008544921875
+        }
+    },
+    "700.jpg": {
+        "id": 700,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Sylveon",
+            "Type 1": "Fairy",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 240.16314697265625,
+            "vert": 233.3032989501953,
+            "bleu": 236.46754455566406
+        }
+    },
+    "701.jpg": {
+        "id": 701,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Hawlucha",
+            "Type 1": "Fighting",
+            "Type 2": "Flying",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 220.6195831298828,
+            "vert": 219.79026794433594,
+            "bleu": 213.64163208007812
+        }
+    },
+    "702.jpg": {
+        "id": 702,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Dedenne",
+            "Type 1": "Electric",
+            "Type 2": "Fairy",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 211.7527313232422,
+            "vert": 196.10069274902344,
+            "bleu": 165.76779174804688
+        }
+    },
+    "703.jpg": {
+        "id": 703,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Carbink",
+            "Type 1": "Rock",
+            "Type 2": "Fairy",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 207.9852752685547,
+            "vert": 210.62379455566406,
+            "bleu": 216.96630859375
+        }
+    },
+    "704.jpg": {
+        "id": 704,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Goomy",
+            "Type 1": "Dragon",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 214.4798126220703,
+            "vert": 208.94686889648438,
+            "bleu": 215.6226043701172
+        }
+    },
+    "705.jpg": {
+        "id": 705,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Sliggoo",
+            "Type 1": "Dragon",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 234.99755859375,
+            "vert": 231.7243194580078,
+            "bleu": 236.1237335205078
+        }
+    },
+    "706.jpg": {
+        "id": 706,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Goodra",
+            "Type 1": "Dragon",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 230.62454223632812,
+            "vert": 226.62893676757812,
+            "bleu": 232.42572021484375
+        }
+    },
+    "707.jpg": {
+        "id": 707,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Klefki",
+            "Type 1": "Steel",
+            "Type 2": "Fairy",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 237.3011016845703,
+            "vert": 235.8851776123047,
+            "bleu": 235.29522705078125
+        }
+    },
+    "708.jpg": {
+        "id": 708,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Phantump",
+            "Type 1": "Ghost",
+            "Type 2": "Grass",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 196.2157745361328,
+            "vert": 193.47862243652344,
+            "bleu": 189.45201110839844
+        }
+    },
+    "709.jpg": {
+        "id": 709,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Trevenant",
+            "Type 1": "Ghost",
+            "Type 2": "Grass",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 202.1651153564453,
+            "vert": 205.3695068359375,
+            "bleu": 198.42274475097656
+        }
+    },
+    "710.jpg": {
+        "id": 710,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "PumpkabooSuper Size",
+            "Type 1": "Ghost",
+            "Type 2": "Grass",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 191.84217834472656,
+            "vert": 179.94273376464844,
+            "bleu": 168.71432495117188
+        }
+    },
+    "711.jpg": {
+        "id": 711,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "GourgeistSuper Size",
+            "Type 1": "Ghost",
+            "Type 2": "Grass",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 217.62017822265625,
+            "vert": 203.3710174560547,
+            "bleu": 191.04666137695312
+        }
+    },
+    "712.jpg": {
+        "id": 712,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Bergmite",
+            "Type 1": "Ice",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 225.3728790283203,
+            "vert": 232.77308654785156,
+            "bleu": 240.25819396972656
+        }
+    },
+    "713.jpg": {
+        "id": 713,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Avalugg",
+            "Type 1": "Ice",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 222.1143035888672,
+            "vert": 229.49671936035156,
+            "bleu": 239.81124877929688
+        }
+    },
+    "714.jpg": {
+        "id": 714,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Noibat",
+            "Type 1": "Flying",
+            "Type 2": "Dragon",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 211.23292541503906,
+            "vert": 202.29820251464844,
+            "bleu": 213.27511596679688
+        }
+    },
+    "715.jpg": {
+        "id": 715,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Noivern",
+            "Type 1": "Flying",
+            "Type 2": "Dragon",
+            "Generation": 6,
+            "Legendary": false
+        },
+        "color": {
+            "couleur dominante": "bleu",
+            "rouge": 202.77137756347656,
+            "vert": 197.8442840576172,
+            "bleu": 203.7751922607422
+        }
+    },
+    "716.jpg": {
+        "id": 716,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Xerneas",
+            "Type 1": "Fairy",
+            "Type 2": null,
+            "Generation": 6,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 232.49642944335938,
+            "vert": 232.27952575683594,
+            "bleu": 230.93516540527344
+        }
+    },
+    "717.jpg": {
+        "id": 717,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Yveltal",
+            "Type 1": "Dark",
+            "Type 2": "Flying",
+            "Generation": 6,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 210.30917358398438,
+            "vert": 194.38551330566406,
+            "bleu": 194.52804565429688
+        }
+    },
+    "718.jpg": {
+        "id": 718,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Zygarde50% Forme",
+            "Type 1": "Dragon",
+            "Type 2": "Ground",
+            "Generation": 6,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "vert",
+            "rouge": 195.459228515625,
+            "vert": 197.70870971679688,
+            "bleu": 182.47866821289062
+        }
+    },
+    "719.jpg": {
+        "id": 719,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "DiancieMega Diancie",
+            "Type 1": "Rock",
+            "Type 2": "Fairy",
+            "Generation": 6,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 235.65570068359375,
+            "vert": 230.61074829101562,
+            "bleu": 234.64004516601562
+        }
+    },
+    "720.jpg": {
+        "id": 720,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "HoopaHoopa Unbound",
+            "Type 1": "Psychic",
+            "Type 2": "Dark",
+            "Generation": 6,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 224.55674743652344,
+            "vert": 216.37539672851562,
+            "bleu": 213.8788604736328
+        }
+    },
+    "721.jpg": {
+        "id": 721,
+        "format": "JPEG",
+        "size": [
+            256,
+            256
+        ],
+        "orientation": "portrait",
+        "creation_date": "17/02/2023",
+        "tags": {
+            "Name": "Volcanion",
+            "Type 1": "Fire",
+            "Type 2": "Water",
+            "Generation": 6,
+            "Legendary": true
+        },
+        "color": {
+            "couleur dominante": "rouge",
+            "rouge": 199.27586364746094,
+            "vert": 172.7747344970703,
+            "bleu": 171.09019470214844
+        }
+    }
+}

@@ -30,7 +30,7 @@ def visualisation(id):
             print("Type du pokemon: ", data[key]["tags"]["Type 2"])
             print("Generation: ", data[key]["tags"]["Generation"])
             print("Legendary: ", data[key]["tags"]["Legendary"])
-            print("Total: ", data[key]["tags"]["Total"])
+            # print("Total: ", data[key]["tags"]["Total"])
 
     for img_filename in os.listdir(img_dir):
     if img_filename.endswith(".jpg") or img_filename.endswith(".png"):
@@ -67,12 +67,9 @@ def visualisation(id):
             leg.append(legendary)
     plt.pie([leg.count(False),leg.count(True)], labels=["False","True"], autopct='%1.1f%%', shadow=True, startangle=90)
     plt.axis('equal')
-    
-
 
     plt.show()
 
     
 
-    
-    
+visualisation(1)

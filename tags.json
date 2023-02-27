@@ -4,7 +4,6 @@
         "Name": "Bulbasaur",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 318,
         "Generation": 1,
         "Legendary": false
     },
@@ -13,7 +12,6 @@
         "Name": "Ivysaur",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 405,
         "Generation": 1,
         "Legendary": false
     },
@@ -22,7 +20,6 @@
         "Name": "Venusaur",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 525,
         "Generation": 1,
         "Legendary": false
     },
@@ -31,7 +28,6 @@
         "Name": "VenusaurMega Venusaur",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 625,
         "Generation": 1,
         "Legendary": false
     },
@@ -40,7 +36,6 @@
         "Name": "Charmander",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 309,
         "Generation": 1,
         "Legendary": false
     },
@@ -49,7 +44,6 @@
         "Name": "Charmeleon",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 405,
         "Generation": 1,
         "Legendary": false
     },
@@ -58,7 +52,6 @@
         "Name": "Charizard",
         "Type 1": "Fire",
         "Type 2": "Flying",
-        "Total": 534,
         "Generation": 1,
         "Legendary": false
     },
@@ -67,7 +60,6 @@
         "Name": "CharizardMega Charizard X",
         "Type 1": "Fire",
         "Type 2": "Dragon",
-        "Total": 634,
         "Generation": 1,
         "Legendary": false
     },
@@ -76,7 +68,6 @@
         "Name": "CharizardMega Charizard Y",
         "Type 1": "Fire",
         "Type 2": "Flying",
-        "Total": 634,
         "Generation": 1,
         "Legendary": false
     },
@@ -85,7 +76,6 @@
         "Name": "Squirtle",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 314,
         "Generation": 1,
         "Legendary": false
     },
@@ -94,7 +84,6 @@
         "Name": "Wartortle",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 405,
         "Generation": 1,
         "Legendary": false
     },
@@ -103,7 +92,6 @@
         "Name": "Blastoise",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 530,
         "Generation": 1,
         "Legendary": false
     },
@@ -112,7 +100,6 @@
         "Name": "BlastoiseMega Blastoise",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 630,
         "Generation": 1,
         "Legendary": false
     },
@@ -121,7 +108,6 @@
         "Name": "Caterpie",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 195,
         "Generation": 1,
         "Legendary": false
     },
@@ -130,7 +116,6 @@
         "Name": "Metapod",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 205,
         "Generation": 1,
         "Legendary": false
     },
@@ -139,7 +124,6 @@
         "Name": "Butterfree",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 395,
         "Generation": 1,
         "Legendary": false
     },
@@ -148,7 +132,6 @@
         "Name": "Weedle",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 195,
         "Generation": 1,
         "Legendary": false
     },
@@ -157,7 +140,6 @@
         "Name": "Kakuna",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 205,
         "Generation": 1,
         "Legendary": false
     },
@@ -166,7 +148,6 @@
         "Name": "Beedrill",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 395,
         "Generation": 1,
         "Legendary": false
     },
@@ -175,7 +156,6 @@
         "Name": "BeedrillMega Beedrill",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 495,
         "Generation": 1,
         "Legendary": false
     },
@@ -184,7 +164,6 @@
         "Name": "Pidgey",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 251,
         "Generation": 1,
         "Legendary": false
     },
@@ -193,7 +172,6 @@
         "Name": "Pidgeotto",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 349,
         "Generation": 1,
         "Legendary": false
     },
@@ -202,7 +180,6 @@
         "Name": "Pidgeot",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 479,
         "Generation": 1,
         "Legendary": false
     },
@@ -211,7 +188,6 @@
         "Name": "PidgeotMega Pidgeot",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 579,
         "Generation": 1,
         "Legendary": false
     },
@@ -220,7 +196,6 @@
         "Name": "Rattata",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 253,
         "Generation": 1,
         "Legendary": false
     },
@@ -229,7 +204,6 @@
         "Name": "Raticate",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 413,
         "Generation": 1,
         "Legendary": false
     },
@@ -238,7 +212,6 @@
         "Name": "Spearow",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 262,
         "Generation": 1,
         "Legendary": false
     },
@@ -247,7 +220,6 @@
         "Name": "Fearow",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 442,
         "Generation": 1,
         "Legendary": false
     },
@@ -256,7 +228,6 @@
         "Name": "Ekans",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 288,
         "Generation": 1,
         "Legendary": false
     },
@@ -265,7 +236,6 @@
         "Name": "Arbok",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 438,
         "Generation": 1,
         "Legendary": false
     },
@@ -274,7 +244,6 @@
         "Name": "Pikachu",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 320,
         "Generation": 1,
         "Legendary": false
     },
@@ -283,7 +252,6 @@
         "Name": "Raichu",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 485,
         "Generation": 1,
         "Legendary": false
     },
@@ -292,7 +260,6 @@
         "Name": "Sandshrew",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 300,
         "Generation": 1,
         "Legendary": false
     },
@@ -301,7 +268,6 @@
         "Name": "Sandslash",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 450,
         "Generation": 1,
         "Legendary": false
     },
@@ -310,7 +276,6 @@
         "Name": "Nidoran\u2640",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 275,
         "Generation": 1,
         "Legendary": false
     },
@@ -319,7 +284,6 @@
         "Name": "Nidorina",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 365,
         "Generation": 1,
         "Legendary": false
     },
@@ -328,7 +292,6 @@
         "Name": "Nidoqueen",
         "Type 1": "Poison",
         "Type 2": "Ground",
-        "Total": 505,
         "Generation": 1,
         "Legendary": false
     },
@@ -337,7 +300,6 @@
         "Name": "Nidoran\u2642",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 273,
         "Generation": 1,
         "Legendary": false
     },
@@ -346,7 +308,6 @@
         "Name": "Nidorino",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 365,
         "Generation": 1,
         "Legendary": false
     },
@@ -355,7 +316,6 @@
         "Name": "Nidoking",
         "Type 1": "Poison",
         "Type 2": "Ground",
-        "Total": 505,
         "Generation": 1,
         "Legendary": false
     },
@@ -364,7 +324,6 @@
         "Name": "Clefairy",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 323,
         "Generation": 1,
         "Legendary": false
     },
@@ -373,7 +332,6 @@
         "Name": "Clefable",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 483,
         "Generation": 1,
         "Legendary": false
     },
@@ -382,7 +340,6 @@
         "Name": "Vulpix",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 299,
         "Generation": 1,
         "Legendary": false
     },
@@ -391,7 +348,6 @@
         "Name": "Ninetales",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 505,
         "Generation": 1,
         "Legendary": false
     },
@@ -400,7 +356,6 @@
         "Name": "Jigglypuff",
         "Type 1": "Normal",
         "Type 2": "Fairy",
-        "Total": 270,
         "Generation": 1,
         "Legendary": false
     },
@@ -409,7 +364,6 @@
         "Name": "Wigglytuff",
         "Type 1": "Normal",
         "Type 2": "Fairy",
-        "Total": 435,
         "Generation": 1,
         "Legendary": false
     },
@@ -418,7 +372,6 @@
         "Name": "Zubat",
         "Type 1": "Poison",
         "Type 2": "Flying",
-        "Total": 245,
         "Generation": 1,
         "Legendary": false
     },
@@ -427,7 +380,6 @@
         "Name": "Golbat",
         "Type 1": "Poison",
         "Type 2": "Flying",
-        "Total": 455,
         "Generation": 1,
         "Legendary": false
     },
@@ -436,7 +388,6 @@
         "Name": "Oddish",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 320,
         "Generation": 1,
         "Legendary": false
     },
@@ -445,7 +396,6 @@
         "Name": "Gloom",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 395,
         "Generation": 1,
         "Legendary": false
     },
@@ -454,7 +404,6 @@
         "Name": "Vileplume",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 490,
         "Generation": 1,
         "Legendary": false
     },
@@ -463,7 +412,6 @@
         "Name": "Paras",
         "Type 1": "Bug",
         "Type 2": "Grass",
-        "Total": 285,
         "Generation": 1,
         "Legendary": false
     },
@@ -472,7 +420,6 @@
         "Name": "Parasect",
         "Type 1": "Bug",
         "Type 2": "Grass",
-        "Total": 405,
         "Generation": 1,
         "Legendary": false
     },
@@ -481,7 +428,6 @@
         "Name": "Venonat",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 305,
         "Generation": 1,
         "Legendary": false
     },
@@ -490,7 +436,6 @@
         "Name": "Venomoth",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 450,
         "Generation": 1,
         "Legendary": false
     },
@@ -499,7 +444,6 @@
         "Name": "Diglett",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 265,
         "Generation": 1,
         "Legendary": false
     },
@@ -508,7 +452,6 @@
         "Name": "Dugtrio",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 405,
         "Generation": 1,
         "Legendary": false
     },
@@ -517,7 +460,6 @@
         "Name": "Meowth",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 290,
         "Generation": 1,
         "Legendary": false
     },
@@ -526,7 +468,6 @@
         "Name": "Persian",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 440,
         "Generation": 1,
         "Legendary": false
     },
@@ -535,7 +476,6 @@
         "Name": "Psyduck",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 320,
         "Generation": 1,
         "Legendary": false
     },
@@ -544,7 +484,6 @@
         "Name": "Golduck",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 500,
         "Generation": 1,
         "Legendary": false
     },
@@ -553,7 +492,6 @@
         "Name": "Mankey",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 305,
         "Generation": 1,
         "Legendary": false
     },
@@ -562,7 +500,6 @@
         "Name": "Primeape",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 455,
         "Generation": 1,
         "Legendary": false
     },
@@ -571,7 +508,6 @@
         "Name": "Growlithe",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 350,
         "Generation": 1,
         "Legendary": false
     },
@@ -580,7 +516,6 @@
         "Name": "Arcanine",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 555,
         "Generation": 1,
         "Legendary": false
     },
@@ -589,7 +524,6 @@
         "Name": "Poliwag",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 300,
         "Generation": 1,
         "Legendary": false
     },
@@ -598,7 +532,6 @@
         "Name": "Poliwhirl",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 385,
         "Generation": 1,
         "Legendary": false
     },
@@ -607,7 +540,6 @@
         "Name": "Poliwrath",
         "Type 1": "Water",
         "Type 2": "Fighting",
-        "Total": 510,
         "Generation": 1,
         "Legendary": false
     },
@@ -616,7 +548,6 @@
         "Name": "Abra",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 310,
         "Generation": 1,
         "Legendary": false
     },
@@ -625,7 +556,6 @@
         "Name": "Kadabra",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 400,
         "Generation": 1,
         "Legendary": false
     },
@@ -634,7 +564,6 @@
         "Name": "Alakazam",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 500,
         "Generation": 1,
         "Legendary": false
     },
@@ -643,7 +572,6 @@
         "Name": "AlakazamMega Alakazam",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 590,
         "Generation": 1,
         "Legendary": false
     },
@@ -652,7 +580,6 @@
         "Name": "Machop",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 305,
         "Generation": 1,
         "Legendary": false
     },
@@ -661,7 +588,6 @@
         "Name": "Machoke",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 405,
         "Generation": 1,
         "Legendary": false
     },
@@ -670,7 +596,6 @@
         "Name": "Machamp",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 505,
         "Generation": 1,
         "Legendary": false
     },
@@ -679,7 +604,6 @@
         "Name": "Bellsprout",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 300,
         "Generation": 1,
         "Legendary": false
     },
@@ -688,7 +612,6 @@
         "Name": "Weepinbell",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 390,
         "Generation": 1,
         "Legendary": false
     },
@@ -697,7 +620,6 @@
         "Name": "Victreebel",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 490,
         "Generation": 1,
         "Legendary": false
     },
@@ -706,7 +628,6 @@
         "Name": "Tentacool",
         "Type 1": "Water",
         "Type 2": "Poison",
-        "Total": 335,
         "Generation": 1,
         "Legendary": false
     },
@@ -715,7 +636,6 @@
         "Name": "Tentacruel",
         "Type 1": "Water",
         "Type 2": "Poison",
-        "Total": 515,
         "Generation": 1,
         "Legendary": false
     },
@@ -724,7 +644,6 @@
         "Name": "Geodude",
         "Type 1": "Rock",
         "Type 2": "Ground",
-        "Total": 300,
         "Generation": 1,
         "Legendary": false
     },
@@ -733,7 +652,6 @@
         "Name": "Graveler",
         "Type 1": "Rock",
         "Type 2": "Ground",
-        "Total": 390,
         "Generation": 1,
         "Legendary": false
     },
@@ -742,7 +660,6 @@
         "Name": "Golem",
         "Type 1": "Rock",
         "Type 2": "Ground",
-        "Total": 495,
         "Generation": 1,
         "Legendary": false
     },
@@ -751,7 +668,6 @@
         "Name": "Ponyta",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 410,
         "Generation": 1,
         "Legendary": false
     },
@@ -760,7 +676,6 @@
         "Name": "Rapidash",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 500,
         "Generation": 1,
         "Legendary": false
     },
@@ -769,7 +684,6 @@
         "Name": "Slowpoke",
         "Type 1": "Water",
         "Type 2": "Psychic",
-        "Total": 315,
         "Generation": 1,
         "Legendary": false
     },
@@ -778,7 +692,6 @@
         "Name": "Slowbro",
         "Type 1": "Water",
         "Type 2": "Psychic",
-        "Total": 490,
         "Generation": 1,
         "Legendary": false
     },
@@ -787,7 +700,6 @@
         "Name": "SlowbroMega Slowbro",
         "Type 1": "Water",
         "Type 2": "Psychic",
-        "Total": 590,
         "Generation": 1,
         "Legendary": false
     },
@@ -796,7 +708,6 @@
         "Name": "Magnemite",
         "Type 1": "Electric",
         "Type 2": "Steel",
-        "Total": 325,
         "Generation": 1,
         "Legendary": false
     },
@@ -805,7 +716,6 @@
         "Name": "Magneton",
         "Type 1": "Electric",
         "Type 2": "Steel",
-        "Total": 465,
         "Generation": 1,
         "Legendary": false
     },
@@ -814,7 +724,6 @@
         "Name": "Farfetch'd",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 352,
         "Generation": 1,
         "Legendary": false
     },
@@ -823,7 +732,6 @@
         "Name": "Doduo",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 310,
         "Generation": 1,
         "Legendary": false
     },
@@ -832,7 +740,6 @@
         "Name": "Dodrio",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 460,
         "Generation": 1,
         "Legendary": false
     },
@@ -841,7 +748,6 @@
         "Name": "Seel",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 325,
         "Generation": 1,
         "Legendary": false
     },
@@ -850,7 +756,6 @@
         "Name": "Dewgong",
         "Type 1": "Water",
         "Type 2": "Ice",
-        "Total": 475,
         "Generation": 1,
         "Legendary": false
     },
@@ -859,7 +764,6 @@
         "Name": "Grimer",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 325,
         "Generation": 1,
         "Legendary": false
     },
@@ -868,7 +772,6 @@
         "Name": "Muk",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 500,
         "Generation": 1,
         "Legendary": false
     },
@@ -877,7 +780,6 @@
         "Name": "Shellder",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 305,
         "Generation": 1,
         "Legendary": false
     },
@@ -886,7 +788,6 @@
         "Name": "Cloyster",
         "Type 1": "Water",
         "Type 2": "Ice",
-        "Total": 525,
         "Generation": 1,
         "Legendary": false
     },
@@ -895,7 +796,6 @@
         "Name": "Gastly",
         "Type 1": "Ghost",
         "Type 2": "Poison",
-        "Total": 310,
         "Generation": 1,
         "Legendary": false
     },
@@ -904,7 +804,6 @@
         "Name": "Haunter",
         "Type 1": "Ghost",
         "Type 2": "Poison",
-        "Total": 405,
         "Generation": 1,
         "Legendary": false
     },
@@ -913,7 +812,6 @@
         "Name": "Gengar",
         "Type 1": "Ghost",
         "Type 2": "Poison",
-        "Total": 500,
         "Generation": 1,
         "Legendary": false
     },
@@ -922,7 +820,6 @@
         "Name": "GengarMega Gengar",
         "Type 1": "Ghost",
         "Type 2": "Poison",
-        "Total": 600,
         "Generation": 1,
         "Legendary": false
     },
@@ -931,7 +828,6 @@
         "Name": "Onix",
         "Type 1": "Rock",
         "Type 2": "Ground",
-        "Total": 385,
         "Generation": 1,
         "Legendary": false
     },
@@ -940,7 +836,6 @@
         "Name": "Drowzee",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 328,
         "Generation": 1,
         "Legendary": false
     },
@@ -949,7 +844,6 @@
         "Name": "Hypno",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 483,
         "Generation": 1,
         "Legendary": false
     },
@@ -958,7 +852,6 @@
         "Name": "Krabby",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 325,
         "Generation": 1,
         "Legendary": false
     },
@@ -967,7 +860,6 @@
         "Name": "Kingler",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 475,
         "Generation": 1,
         "Legendary": false
     },
@@ -976,7 +868,6 @@
         "Name": "Voltorb",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 330,
         "Generation": 1,
         "Legendary": false
     },
@@ -985,7 +876,6 @@
         "Name": "Electrode",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 480,
         "Generation": 1,
         "Legendary": false
     },
@@ -994,7 +884,6 @@
         "Name": "Exeggcute",
         "Type 1": "Grass",
         "Type 2": "Psychic",
-        "Total": 325,
         "Generation": 1,
         "Legendary": false
     },
@@ -1003,7 +892,6 @@
         "Name": "Exeggutor",
         "Type 1": "Grass",
         "Type 2": "Psychic",
-        "Total": 520,
         "Generation": 1,
         "Legendary": false
     },
@@ -1012,7 +900,6 @@
         "Name": "Cubone",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 320,
         "Generation": 1,
         "Legendary": false
     },
@@ -1021,7 +908,6 @@
         "Name": "Marowak",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 425,
         "Generation": 1,
         "Legendary": false
     },
@@ -1030,7 +916,6 @@
         "Name": "Hitmonlee",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 455,
         "Generation": 1,
         "Legendary": false
     },
@@ -1039,7 +924,6 @@
         "Name": "Hitmonchan",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 455,
         "Generation": 1,
         "Legendary": false
     },
@@ -1048,7 +932,6 @@
         "Name": "Lickitung",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 385,
         "Generation": 1,
         "Legendary": false
     },
@@ -1057,7 +940,6 @@
         "Name": "Koffing",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 340,
         "Generation": 1,
         "Legendary": false
     },
@@ -1066,7 +948,6 @@
         "Name": "Weezing",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 490,
         "Generation": 1,
         "Legendary": false
     },
@@ -1075,7 +956,6 @@
         "Name": "Rhyhorn",
         "Type 1": "Ground",
         "Type 2": "Rock",
-        "Total": 345,
         "Generation": 1,
         "Legendary": false
     },
@@ -1084,7 +964,6 @@
         "Name": "Rhydon",
         "Type 1": "Ground",
         "Type 2": "Rock",
-        "Total": 485,
         "Generation": 1,
         "Legendary": false
     },
@@ -1093,7 +972,6 @@
         "Name": "Chansey",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 450,
         "Generation": 1,
         "Legendary": false
     },
@@ -1102,7 +980,6 @@
         "Name": "Tangela",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 435,
         "Generation": 1,
         "Legendary": false
     },
@@ -1111,7 +988,6 @@
         "Name": "Kangaskhan",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 490,
         "Generation": 1,
         "Legendary": false
     },
@@ -1120,7 +996,6 @@
         "Name": "KangaskhanMega Kangaskhan",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 590,
         "Generation": 1,
         "Legendary": false
     },
@@ -1129,7 +1004,6 @@
         "Name": "Horsea",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 295,
         "Generation": 1,
         "Legendary": false
     },
@@ -1138,7 +1012,6 @@
         "Name": "Seadra",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 440,
         "Generation": 1,
         "Legendary": false
     },
@@ -1147,7 +1020,6 @@
         "Name": "Goldeen",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 320,
         "Generation": 1,
         "Legendary": false
     },
@@ -1156,7 +1028,6 @@
         "Name": "Seaking",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 450,
         "Generation": 1,
         "Legendary": false
     },
@@ -1165,7 +1036,6 @@
         "Name": "Staryu",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 340,
         "Generation": 1,
         "Legendary": false
     },
@@ -1174,7 +1044,6 @@
         "Name": "Starmie",
         "Type 1": "Water",
         "Type 2": "Psychic",
-        "Total": 520,
         "Generation": 1,
         "Legendary": false
     },
@@ -1183,7 +1052,6 @@
         "Name": "Mr. Mime",
         "Type 1": "Psychic",
         "Type 2": "Fairy",
-        "Total": 460,
         "Generation": 1,
         "Legendary": false
     },
@@ -1192,7 +1060,6 @@
         "Name": "Scyther",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 500,
         "Generation": 1,
         "Legendary": false
     },
@@ -1201,7 +1068,6 @@
         "Name": "Jynx",
         "Type 1": "Ice",
         "Type 2": "Psychic",
-        "Total": 455,
         "Generation": 1,
         "Legendary": false
     },
@@ -1210,7 +1076,6 @@
         "Name": "Electabuzz",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 490,
         "Generation": 1,
         "Legendary": false
     },
@@ -1219,7 +1084,6 @@
         "Name": "Magmar",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 495,
         "Generation": 1,
         "Legendary": false
     },
@@ -1228,7 +1092,6 @@
         "Name": "Pinsir",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 500,
         "Generation": 1,
         "Legendary": false
     },
@@ -1237,7 +1100,6 @@
         "Name": "PinsirMega Pinsir",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 600,
         "Generation": 1,
         "Legendary": false
     },
@@ -1246,7 +1108,6 @@
         "Name": "Tauros",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 490,
         "Generation": 1,
         "Legendary": false
     },
@@ -1255,7 +1116,6 @@
         "Name": "Magikarp",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 200,
         "Generation": 1,
         "Legendary": false
     },
@@ -1264,7 +1124,6 @@
         "Name": "Gyarados",
         "Type 1": "Water",
         "Type 2": "Flying",
-        "Total": 540,
         "Generation": 1,
         "Legendary": false
     },
@@ -1273,7 +1132,6 @@
         "Name": "GyaradosMega Gyarados",
         "Type 1": "Water",
         "Type 2": "Dark",
-        "Total": 640,
         "Generation": 1,
         "Legendary": false
     },
@@ -1282,7 +1140,6 @@
         "Name": "Lapras",
         "Type 1": "Water",
         "Type 2": "Ice",
-        "Total": 535,
         "Generation": 1,
         "Legendary": false
     },
@@ -1291,7 +1148,6 @@
         "Name": "Ditto",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 288,
         "Generation": 1,
         "Legendary": false
     },
@@ -1300,7 +1156,6 @@
         "Name": "Eevee",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 325,
         "Generation": 1,
         "Legendary": false
     },
@@ -1309,7 +1164,6 @@
         "Name": "Vaporeon",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 525,
         "Generation": 1,
         "Legendary": false
     },
@@ -1318,7 +1172,6 @@
         "Name": "Jolteon",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 525,
         "Generation": 1,
         "Legendary": false
     },
@@ -1327,7 +1180,6 @@
         "Name": "Flareon",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 525,
         "Generation": 1,
         "Legendary": false
     },
@@ -1336,7 +1188,6 @@
         "Name": "Porygon",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 395,
         "Generation": 1,
         "Legendary": false
     },
@@ -1345,7 +1196,6 @@
         "Name": "Omanyte",
         "Type 1": "Rock",
         "Type 2": "Water",
-        "Total": 355,
         "Generation": 1,
         "Legendary": false
     },
@@ -1354,7 +1204,6 @@
         "Name": "Omastar",
         "Type 1": "Rock",
         "Type 2": "Water",
-        "Total": 495,
         "Generation": 1,
         "Legendary": false
     },
@@ -1363,7 +1212,6 @@
         "Name": "Kabuto",
         "Type 1": "Rock",
         "Type 2": "Water",
-        "Total": 355,
         "Generation": 1,
         "Legendary": false
     },
@@ -1372,7 +1220,6 @@
         "Name": "Kabutops",
         "Type 1": "Rock",
         "Type 2": "Water",
-        "Total": 495,
         "Generation": 1,
         "Legendary": false
     },
@@ -1381,7 +1228,6 @@
         "Name": "Aerodactyl",
         "Type 1": "Rock",
         "Type 2": "Flying",
-        "Total": 515,
         "Generation": 1,
         "Legendary": false
     },
@@ -1390,7 +1236,6 @@
         "Name": "AerodactylMega Aerodactyl",
         "Type 1": "Rock",
         "Type 2": "Flying",
-        "Total": 615,
         "Generation": 1,
         "Legendary": false
     },
@@ -1399,7 +1244,6 @@
         "Name": "Snorlax",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 540,
         "Generation": 1,
         "Legendary": false
     },
@@ -1408,7 +1252,6 @@
         "Name": "Articuno",
         "Type 1": "Ice",
         "Type 2": "Flying",
-        "Total": 580,
         "Generation": 1,
         "Legendary": true
     },
@@ -1417,7 +1260,6 @@
         "Name": "Zapdos",
         "Type 1": "Electric",
         "Type 2": "Flying",
-        "Total": 580,
         "Generation": 1,
         "Legendary": true
     },
@@ -1426,7 +1268,6 @@
         "Name": "Moltres",
         "Type 1": "Fire",
         "Type 2": "Flying",
-        "Total": 580,
         "Generation": 1,
         "Legendary": true
     },
@@ -1435,7 +1276,6 @@
         "Name": "Dratini",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 300,
         "Generation": 1,
         "Legendary": false
     },
@@ -1444,7 +1284,6 @@
         "Name": "Dragonair",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 420,
         "Generation": 1,
         "Legendary": false
     },
@@ -1453,7 +1292,6 @@
         "Name": "Dragonite",
         "Type 1": "Dragon",
         "Type 2": "Flying",
-        "Total": 600,
         "Generation": 1,
         "Legendary": false
     },
@@ -1462,7 +1300,6 @@
         "Name": "Mewtwo",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 680,
         "Generation": 1,
         "Legendary": true
     },
@@ -1471,7 +1308,6 @@
         "Name": "MewtwoMega Mewtwo X",
         "Type 1": "Psychic",
         "Type 2": "Fighting",
-        "Total": 780,
         "Generation": 1,
         "Legendary": true
     },
@@ -1480,7 +1316,6 @@
         "Name": "MewtwoMega Mewtwo Y",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 780,
         "Generation": 1,
         "Legendary": true
     },
@@ -1489,7 +1324,6 @@
         "Name": "Mew",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 600,
         "Generation": 1,
         "Legendary": false
     },
@@ -1498,7 +1332,6 @@
         "Name": "Chikorita",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 318,
         "Generation": 2,
         "Legendary": false
     },
@@ -1507,7 +1340,6 @@
         "Name": "Bayleef",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 405,
         "Generation": 2,
         "Legendary": false
     },
@@ -1516,7 +1348,6 @@
         "Name": "Meganium",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 525,
         "Generation": 2,
         "Legendary": false
     },
@@ -1525,7 +1356,6 @@
         "Name": "Cyndaquil",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 309,
         "Generation": 2,
         "Legendary": false
     },
@@ -1534,7 +1364,6 @@
         "Name": "Quilava",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 405,
         "Generation": 2,
         "Legendary": false
     },
@@ -1543,7 +1372,6 @@
         "Name": "Typhlosion",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 534,
         "Generation": 2,
         "Legendary": false
     },
@@ -1552,7 +1380,6 @@
         "Name": "Totodile",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 314,
         "Generation": 2,
         "Legendary": false
     },
@@ -1561,7 +1388,6 @@
         "Name": "Croconaw",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 405,
         "Generation": 2,
         "Legendary": false
     },
@@ -1570,7 +1396,6 @@
         "Name": "Feraligatr",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 530,
         "Generation": 2,
         "Legendary": false
     },
@@ -1579,7 +1404,6 @@
         "Name": "Sentret",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 215,
         "Generation": 2,
         "Legendary": false
     },
@@ -1588,7 +1412,6 @@
         "Name": "Furret",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 415,
         "Generation": 2,
         "Legendary": false
     },
@@ -1597,7 +1420,6 @@
         "Name": "Hoothoot",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 262,
         "Generation": 2,
         "Legendary": false
     },
@@ -1606,7 +1428,6 @@
         "Name": "Noctowl",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 442,
         "Generation": 2,
         "Legendary": false
     },
@@ -1615,7 +1436,6 @@
         "Name": "Ledyba",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 265,
         "Generation": 2,
         "Legendary": false
     },
@@ -1624,7 +1444,6 @@
         "Name": "Ledian",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 390,
         "Generation": 2,
         "Legendary": false
     },
@@ -1633,7 +1452,6 @@
         "Name": "Spinarak",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 250,
         "Generation": 2,
         "Legendary": false
     },
@@ -1642,7 +1460,6 @@
         "Name": "Ariados",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 390,
         "Generation": 2,
         "Legendary": false
     },
@@ -1651,7 +1468,6 @@
         "Name": "Crobat",
         "Type 1": "Poison",
         "Type 2": "Flying",
-        "Total": 535,
         "Generation": 2,
         "Legendary": false
     },
@@ -1660,7 +1476,6 @@
         "Name": "Chinchou",
         "Type 1": "Water",
         "Type 2": "Electric",
-        "Total": 330,
         "Generation": 2,
         "Legendary": false
     },
@@ -1669,7 +1484,6 @@
         "Name": "Lanturn",
         "Type 1": "Water",
         "Type 2": "Electric",
-        "Total": 460,
         "Generation": 2,
         "Legendary": false
     },
@@ -1678,7 +1492,6 @@
         "Name": "Pichu",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 205,
         "Generation": 2,
         "Legendary": false
     },
@@ -1687,7 +1500,6 @@
         "Name": "Cleffa",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 218,
         "Generation": 2,
         "Legendary": false
     },
@@ -1696,7 +1508,6 @@
         "Name": "Igglybuff",
         "Type 1": "Normal",
         "Type 2": "Fairy",
-        "Total": 210,
         "Generation": 2,
         "Legendary": false
     },
@@ -1705,7 +1516,6 @@
         "Name": "Togepi",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 245,
         "Generation": 2,
         "Legendary": false
     },
@@ -1714,7 +1524,6 @@
         "Name": "Togetic",
         "Type 1": "Fairy",
         "Type 2": "Flying",
-        "Total": 405,
         "Generation": 2,
         "Legendary": false
     },
@@ -1723,7 +1532,6 @@
         "Name": "Natu",
         "Type 1": "Psychic",
         "Type 2": "Flying",
-        "Total": 320,
         "Generation": 2,
         "Legendary": false
     },
@@ -1732,7 +1540,6 @@
         "Name": "Xatu",
         "Type 1": "Psychic",
         "Type 2": "Flying",
-        "Total": 470,
         "Generation": 2,
         "Legendary": false
     },
@@ -1741,7 +1548,6 @@
         "Name": "Mareep",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 280,
         "Generation": 2,
         "Legendary": false
     },
@@ -1750,7 +1556,6 @@
         "Name": "Flaaffy",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 365,
         "Generation": 2,
         "Legendary": false
     },
@@ -1759,7 +1564,6 @@
         "Name": "Ampharos",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 510,
         "Generation": 2,
         "Legendary": false
     },
@@ -1768,7 +1572,6 @@
         "Name": "AmpharosMega Ampharos",
         "Type 1": "Electric",
         "Type 2": "Dragon",
-        "Total": 610,
         "Generation": 2,
         "Legendary": false
     },
@@ -1777,7 +1580,6 @@
         "Name": "Bellossom",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 490,
         "Generation": 2,
         "Legendary": false
     },
@@ -1786,7 +1588,6 @@
         "Name": "Marill",
         "Type 1": "Water",
         "Type 2": "Fairy",
-        "Total": 250,
         "Generation": 2,
         "Legendary": false
     },
@@ -1795,7 +1596,6 @@
         "Name": "Azumarill",
         "Type 1": "Water",
         "Type 2": "Fairy",
-        "Total": 420,
         "Generation": 2,
         "Legendary": false
     },
@@ -1804,7 +1604,6 @@
         "Name": "Sudowoodo",
         "Type 1": "Rock",
         "Type 2": null,
-        "Total": 410,
         "Generation": 2,
         "Legendary": false
     },
@@ -1813,7 +1612,6 @@
         "Name": "Politoed",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 500,
         "Generation": 2,
         "Legendary": false
     },
@@ -1822,7 +1620,6 @@
         "Name": "Hoppip",
         "Type 1": "Grass",
         "Type 2": "Flying",
-        "Total": 250,
         "Generation": 2,
         "Legendary": false
     },
@@ -1831,7 +1628,6 @@
         "Name": "Skiploom",
         "Type 1": "Grass",
         "Type 2": "Flying",
-        "Total": 340,
         "Generation": 2,
         "Legendary": false
     },
@@ -1840,7 +1636,6 @@
         "Name": "Jumpluff",
         "Type 1": "Grass",
         "Type 2": "Flying",
-        "Total": 460,
         "Generation": 2,
         "Legendary": false
     },
@@ -1849,7 +1644,6 @@
         "Name": "Aipom",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 360,
         "Generation": 2,
         "Legendary": false
     },
@@ -1858,7 +1652,6 @@
         "Name": "Sunkern",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 180,
         "Generation": 2,
         "Legendary": false
     },
@@ -1867,7 +1660,6 @@
         "Name": "Sunflora",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 425,
         "Generation": 2,
         "Legendary": false
     },
@@ -1876,7 +1668,6 @@
         "Name": "Yanma",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 390,
         "Generation": 2,
         "Legendary": false
     },
@@ -1885,7 +1676,6 @@
         "Name": "Wooper",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 210,
         "Generation": 2,
         "Legendary": false
     },
@@ -1894,7 +1684,6 @@
         "Name": "Quagsire",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 430,
         "Generation": 2,
         "Legendary": false
     },
@@ -1903,7 +1692,6 @@
         "Name": "Espeon",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 525,
         "Generation": 2,
         "Legendary": false
     },
@@ -1912,7 +1700,6 @@
         "Name": "Umbreon",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 525,
         "Generation": 2,
         "Legendary": false
     },
@@ -1921,7 +1708,6 @@
         "Name": "Murkrow",
         "Type 1": "Dark",
         "Type 2": "Flying",
-        "Total": 405,
         "Generation": 2,
         "Legendary": false
     },
@@ -1930,7 +1716,6 @@
         "Name": "Slowking",
         "Type 1": "Water",
         "Type 2": "Psychic",
-        "Total": 490,
         "Generation": 2,
         "Legendary": false
     },
@@ -1939,7 +1724,6 @@
         "Name": "Misdreavus",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 435,
         "Generation": 2,
         "Legendary": false
     },
@@ -1948,7 +1732,6 @@
         "Name": "Unown",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 336,
         "Generation": 2,
         "Legendary": false
     },
@@ -1957,7 +1740,6 @@
         "Name": "Wobbuffet",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 405,
         "Generation": 2,
         "Legendary": false
     },
@@ -1966,7 +1748,6 @@
         "Name": "Girafarig",
         "Type 1": "Normal",
         "Type 2": "Psychic",
-        "Total": 455,
         "Generation": 2,
         "Legendary": false
     },
@@ -1975,7 +1756,6 @@
         "Name": "Pineco",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 290,
         "Generation": 2,
         "Legendary": false
     },
@@ -1984,7 +1764,6 @@
         "Name": "Forretress",
         "Type 1": "Bug",
         "Type 2": "Steel",
-        "Total": 465,
         "Generation": 2,
         "Legendary": false
     },
@@ -1993,7 +1772,6 @@
         "Name": "Dunsparce",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 415,
         "Generation": 2,
         "Legendary": false
     },
@@ -2002,7 +1780,6 @@
         "Name": "Gligar",
         "Type 1": "Ground",
         "Type 2": "Flying",
-        "Total": 430,
         "Generation": 2,
         "Legendary": false
     },
@@ -2011,7 +1788,6 @@
         "Name": "Steelix",
         "Type 1": "Steel",
         "Type 2": "Ground",
-        "Total": 510,
         "Generation": 2,
         "Legendary": false
     },
@@ -2020,7 +1796,6 @@
         "Name": "SteelixMega Steelix",
         "Type 1": "Steel",
         "Type 2": "Ground",
-        "Total": 610,
         "Generation": 2,
         "Legendary": false
     },
@@ -2029,7 +1804,6 @@
         "Name": "Snubbull",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 300,
         "Generation": 2,
         "Legendary": false
     },
@@ -2038,7 +1812,6 @@
         "Name": "Granbull",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 450,
         "Generation": 2,
         "Legendary": false
     },
@@ -2047,7 +1820,6 @@
         "Name": "Qwilfish",
         "Type 1": "Water",
         "Type 2": "Poison",
-        "Total": 430,
         "Generation": 2,
         "Legendary": false
     },
@@ -2056,7 +1828,6 @@
         "Name": "Scizor",
         "Type 1": "Bug",
         "Type 2": "Steel",
-        "Total": 500,
         "Generation": 2,
         "Legendary": false
     },
@@ -2065,7 +1836,6 @@
         "Name": "ScizorMega Scizor",
         "Type 1": "Bug",
         "Type 2": "Steel",
-        "Total": 600,
         "Generation": 2,
         "Legendary": false
     },
@@ -2074,7 +1844,6 @@
         "Name": "Shuckle",
         "Type 1": "Bug",
         "Type 2": "Rock",
-        "Total": 505,
         "Generation": 2,
         "Legendary": false
     },
@@ -2083,7 +1852,6 @@
         "Name": "Heracross",
         "Type 1": "Bug",
         "Type 2": "Fighting",
-        "Total": 500,
         "Generation": 2,
         "Legendary": false
     },
@@ -2092,7 +1860,6 @@
         "Name": "HeracrossMega Heracross",
         "Type 1": "Bug",
         "Type 2": "Fighting",
-        "Total": 600,
         "Generation": 2,
         "Legendary": false
     },
@@ -2101,7 +1868,6 @@
         "Name": "Sneasel",
         "Type 1": "Dark",
         "Type 2": "Ice",
-        "Total": 430,
         "Generation": 2,
         "Legendary": false
     },
@@ -2110,7 +1876,6 @@
         "Name": "Teddiursa",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 330,
         "Generation": 2,
         "Legendary": false
     },
@@ -2119,7 +1884,6 @@
         "Name": "Ursaring",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 500,
         "Generation": 2,
         "Legendary": false
     },
@@ -2128,7 +1892,6 @@
         "Name": "Slugma",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 250,
         "Generation": 2,
         "Legendary": false
     },
@@ -2137,7 +1900,6 @@
         "Name": "Magcargo",
         "Type 1": "Fire",
         "Type 2": "Rock",
-        "Total": 410,
         "Generation": 2,
         "Legendary": false
     },
@@ -2146,7 +1908,6 @@
         "Name": "Swinub",
         "Type 1": "Ice",
         "Type 2": "Ground",
-        "Total": 250,
         "Generation": 2,
         "Legendary": false
     },
@@ -2155,7 +1916,6 @@
         "Name": "Piloswine",
         "Type 1": "Ice",
         "Type 2": "Ground",
-        "Total": 450,
         "Generation": 2,
         "Legendary": false
     },
@@ -2164,7 +1924,6 @@
         "Name": "Corsola",
         "Type 1": "Water",
         "Type 2": "Rock",
-        "Total": 380,
         "Generation": 2,
         "Legendary": false
     },
@@ -2173,7 +1932,6 @@
         "Name": "Remoraid",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 300,
         "Generation": 2,
         "Legendary": false
     },
@@ -2182,7 +1940,6 @@
         "Name": "Octillery",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 480,
         "Generation": 2,
         "Legendary": false
     },
@@ -2191,7 +1948,6 @@
         "Name": "Delibird",
         "Type 1": "Ice",
         "Type 2": "Flying",
-        "Total": 330,
         "Generation": 2,
         "Legendary": false
     },
@@ -2200,7 +1956,6 @@
         "Name": "Mantine",
         "Type 1": "Water",
         "Type 2": "Flying",
-        "Total": 465,
         "Generation": 2,
         "Legendary": false
     },
@@ -2209,7 +1964,6 @@
         "Name": "Skarmory",
         "Type 1": "Steel",
         "Type 2": "Flying",
-        "Total": 465,
         "Generation": 2,
         "Legendary": false
     },
@@ -2218,7 +1972,6 @@
         "Name": "Houndour",
         "Type 1": "Dark",
         "Type 2": "Fire",
-        "Total": 330,
         "Generation": 2,
         "Legendary": false
     },
@@ -2227,7 +1980,6 @@
         "Name": "Houndoom",
         "Type 1": "Dark",
         "Type 2": "Fire",
-        "Total": 500,
         "Generation": 2,
         "Legendary": false
     },
@@ -2236,7 +1988,6 @@
         "Name": "HoundoomMega Houndoom",
         "Type 1": "Dark",
         "Type 2": "Fire",
-        "Total": 600,
         "Generation": 2,
         "Legendary": false
     },
@@ -2245,7 +1996,6 @@
         "Name": "Kingdra",
         "Type 1": "Water",
         "Type 2": "Dragon",
-        "Total": 540,
         "Generation": 2,
         "Legendary": false
     },
@@ -2254,7 +2004,6 @@
         "Name": "Phanpy",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 330,
         "Generation": 2,
         "Legendary": false
     },
@@ -2263,7 +2012,6 @@
         "Name": "Donphan",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 500,
         "Generation": 2,
         "Legendary": false
     },
@@ -2272,7 +2020,6 @@
         "Name": "Porygon2",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 515,
         "Generation": 2,
         "Legendary": false
     },
@@ -2281,7 +2028,6 @@
         "Name": "Stantler",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 465,
         "Generation": 2,
         "Legendary": false
     },
@@ -2290,7 +2036,6 @@
         "Name": "Smeargle",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 250,
         "Generation": 2,
         "Legendary": false
     },
@@ -2299,7 +2044,6 @@
         "Name": "Tyrogue",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 210,
         "Generation": 2,
         "Legendary": false
     },
@@ -2308,7 +2052,6 @@
         "Name": "Hitmontop",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 455,
         "Generation": 2,
         "Legendary": false
     },
@@ -2317,7 +2060,6 @@
         "Name": "Smoochum",
         "Type 1": "Ice",
         "Type 2": "Psychic",
-        "Total": 305,
         "Generation": 2,
         "Legendary": false
     },
@@ -2326,7 +2068,6 @@
         "Name": "Elekid",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 360,
         "Generation": 2,
         "Legendary": false
     },
@@ -2335,7 +2076,6 @@
         "Name": "Magby",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 365,
         "Generation": 2,
         "Legendary": false
     },
@@ -2344,7 +2084,6 @@
         "Name": "Miltank",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 490,
         "Generation": 2,
         "Legendary": false
     },
@@ -2353,7 +2092,6 @@
         "Name": "Blissey",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 540,
         "Generation": 2,
         "Legendary": false
     },
@@ -2362,7 +2100,6 @@
         "Name": "Raikou",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 580,
         "Generation": 2,
         "Legendary": true
     },
@@ -2371,7 +2108,6 @@
         "Name": "Entei",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 580,
         "Generation": 2,
         "Legendary": true
     },
@@ -2380,7 +2116,6 @@
         "Name": "Suicune",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 580,
         "Generation": 2,
         "Legendary": true
     },
@@ -2389,7 +2124,6 @@
         "Name": "Larvitar",
         "Type 1": "Rock",
         "Type 2": "Ground",
-        "Total": 300,
         "Generation": 2,
         "Legendary": false
     },
@@ -2398,7 +2132,6 @@
         "Name": "Pupitar",
         "Type 1": "Rock",
         "Type 2": "Ground",
-        "Total": 410,
         "Generation": 2,
         "Legendary": false
     },
@@ -2407,7 +2140,6 @@
         "Name": "Tyranitar",
         "Type 1": "Rock",
         "Type 2": "Dark",
-        "Total": 600,
         "Generation": 2,
         "Legendary": false
     },
@@ -2416,7 +2148,6 @@
         "Name": "TyranitarMega Tyranitar",
         "Type 1": "Rock",
         "Type 2": "Dark",
-        "Total": 700,
         "Generation": 2,
         "Legendary": false
     },
@@ -2425,7 +2156,6 @@
         "Name": "Lugia",
         "Type 1": "Psychic",
         "Type 2": "Flying",
-        "Total": 680,
         "Generation": 2,
         "Legendary": true
     },
@@ -2434,7 +2164,6 @@
         "Name": "Ho-oh",
         "Type 1": "Fire",
         "Type 2": "Flying",
-        "Total": 680,
         "Generation": 2,
         "Legendary": true
     },
@@ -2443,7 +2172,6 @@
         "Name": "Celebi",
         "Type 1": "Psychic",
         "Type 2": "Grass",
-        "Total": 600,
         "Generation": 2,
         "Legendary": false
     },
@@ -2452,7 +2180,6 @@
         "Name": "Treecko",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 310,
         "Generation": 3,
         "Legendary": false
     },
@@ -2461,7 +2188,6 @@
         "Name": "Grovyle",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 405,
         "Generation": 3,
         "Legendary": false
     },
@@ -2470,7 +2196,6 @@
         "Name": "Sceptile",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 530,
         "Generation": 3,
         "Legendary": false
     },
@@ -2479,7 +2204,6 @@
         "Name": "SceptileMega Sceptile",
         "Type 1": "Grass",
         "Type 2": "Dragon",
-        "Total": 630,
         "Generation": 3,
         "Legendary": false
     },
@@ -2488,7 +2212,6 @@
         "Name": "Torchic",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 310,
         "Generation": 3,
         "Legendary": false
     },
@@ -2497,7 +2220,6 @@
         "Name": "Combusken",
         "Type 1": "Fire",
         "Type 2": "Fighting",
-        "Total": 405,
         "Generation": 3,
         "Legendary": false
     },
@@ -2506,7 +2228,6 @@
         "Name": "Blaziken",
         "Type 1": "Fire",
         "Type 2": "Fighting",
-        "Total": 530,
         "Generation": 3,
         "Legendary": false
     },
@@ -2515,7 +2236,6 @@
         "Name": "BlazikenMega Blaziken",
         "Type 1": "Fire",
         "Type 2": "Fighting",
-        "Total": 630,
         "Generation": 3,
         "Legendary": false
     },
@@ -2524,7 +2244,6 @@
         "Name": "Mudkip",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 310,
         "Generation": 3,
         "Legendary": false
     },
@@ -2533,7 +2252,6 @@
         "Name": "Marshtomp",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 405,
         "Generation": 3,
         "Legendary": false
     },
@@ -2542,7 +2260,6 @@
         "Name": "Swampert",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 535,
         "Generation": 3,
         "Legendary": false
     },
@@ -2551,7 +2268,6 @@
         "Name": "SwampertMega Swampert",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 635,
         "Generation": 3,
         "Legendary": false
     },
@@ -2560,7 +2276,6 @@
         "Name": "Poochyena",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 220,
         "Generation": 3,
         "Legendary": false
     },
@@ -2569,7 +2284,6 @@
         "Name": "Mightyena",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 420,
         "Generation": 3,
         "Legendary": false
     },
@@ -2578,7 +2292,6 @@
         "Name": "Zigzagoon",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 240,
         "Generation": 3,
         "Legendary": false
     },
@@ -2587,7 +2300,6 @@
         "Name": "Linoone",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 420,
         "Generation": 3,
         "Legendary": false
     },
@@ -2596,7 +2308,6 @@
         "Name": "Wurmple",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 195,
         "Generation": 3,
         "Legendary": false
     },
@@ -2605,7 +2316,6 @@
         "Name": "Silcoon",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 205,
         "Generation": 3,
         "Legendary": false
     },
@@ -2614,7 +2324,6 @@
         "Name": "Beautifly",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 395,
         "Generation": 3,
         "Legendary": false
     },
@@ -2623,7 +2332,6 @@
         "Name": "Cascoon",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 205,
         "Generation": 3,
         "Legendary": false
     },
@@ -2632,7 +2340,6 @@
         "Name": "Dustox",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 385,
         "Generation": 3,
         "Legendary": false
     },
@@ -2641,7 +2348,6 @@
         "Name": "Lotad",
         "Type 1": "Water",
         "Type 2": "Grass",
-        "Total": 220,
         "Generation": 3,
         "Legendary": false
     },
@@ -2650,7 +2356,6 @@
         "Name": "Lombre",
         "Type 1": "Water",
         "Type 2": "Grass",
-        "Total": 340,
         "Generation": 3,
         "Legendary": false
     },
@@ -2659,7 +2364,6 @@
         "Name": "Ludicolo",
         "Type 1": "Water",
         "Type 2": "Grass",
-        "Total": 480,
         "Generation": 3,
         "Legendary": false
     },
@@ -2668,7 +2372,6 @@
         "Name": "Seedot",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 220,
         "Generation": 3,
         "Legendary": false
     },
@@ -2677,7 +2380,6 @@
         "Name": "Nuzleaf",
         "Type 1": "Grass",
         "Type 2": "Dark",
-        "Total": 340,
         "Generation": 3,
         "Legendary": false
     },
@@ -2686,7 +2388,6 @@
         "Name": "Shiftry",
         "Type 1": "Grass",
         "Type 2": "Dark",
-        "Total": 480,
         "Generation": 3,
         "Legendary": false
     },
@@ -2695,7 +2396,6 @@
         "Name": "Taillow",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 270,
         "Generation": 3,
         "Legendary": false
     },
@@ -2704,7 +2404,6 @@
         "Name": "Swellow",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 430,
         "Generation": 3,
         "Legendary": false
     },
@@ -2713,7 +2412,6 @@
         "Name": "Wingull",
         "Type 1": "Water",
         "Type 2": "Flying",
-        "Total": 270,
         "Generation": 3,
         "Legendary": false
     },
@@ -2722,7 +2420,6 @@
         "Name": "Pelipper",
         "Type 1": "Water",
         "Type 2": "Flying",
-        "Total": 430,
         "Generation": 3,
         "Legendary": false
     },
@@ -2731,7 +2428,6 @@
         "Name": "Ralts",
         "Type 1": "Psychic",
         "Type 2": "Fairy",
-        "Total": 198,
         "Generation": 3,
         "Legendary": false
     },
@@ -2740,7 +2436,6 @@
         "Name": "Kirlia",
         "Type 1": "Psychic",
         "Type 2": "Fairy",
-        "Total": 278,
         "Generation": 3,
         "Legendary": false
     },
@@ -2749,7 +2444,6 @@
         "Name": "Gardevoir",
         "Type 1": "Psychic",
         "Type 2": "Fairy",
-        "Total": 518,
         "Generation": 3,
         "Legendary": false
     },
@@ -2758,7 +2452,6 @@
         "Name": "GardevoirMega Gardevoir",
         "Type 1": "Psychic",
         "Type 2": "Fairy",
-        "Total": 618,
         "Generation": 3,
         "Legendary": false
     },
@@ -2767,7 +2460,6 @@
         "Name": "Surskit",
         "Type 1": "Bug",
         "Type 2": "Water",
-        "Total": 269,
         "Generation": 3,
         "Legendary": false
     },
@@ -2776,7 +2468,6 @@
         "Name": "Masquerain",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 414,
         "Generation": 3,
         "Legendary": false
     },
@@ -2785,7 +2476,6 @@
         "Name": "Shroomish",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 295,
         "Generation": 3,
         "Legendary": false
     },
@@ -2794,7 +2484,6 @@
         "Name": "Breloom",
         "Type 1": "Grass",
         "Type 2": "Fighting",
-        "Total": 460,
         "Generation": 3,
         "Legendary": false
     },
@@ -2803,7 +2492,6 @@
         "Name": "Slakoth",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 280,
         "Generation": 3,
         "Legendary": false
     },
@@ -2812,7 +2500,6 @@
         "Name": "Vigoroth",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 440,
         "Generation": 3,
         "Legendary": false
     },
@@ -2821,7 +2508,6 @@
         "Name": "Slaking",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 670,
         "Generation": 3,
         "Legendary": false
     },
@@ -2830,7 +2516,6 @@
         "Name": "Nincada",
         "Type 1": "Bug",
         "Type 2": "Ground",
-        "Total": 266,
         "Generation": 3,
         "Legendary": false
     },
@@ -2839,7 +2524,6 @@
         "Name": "Ninjask",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 456,
         "Generation": 3,
         "Legendary": false
     },
@@ -2848,7 +2532,6 @@
         "Name": "Shedinja",
         "Type 1": "Bug",
         "Type 2": "Ghost",
-        "Total": 236,
         "Generation": 3,
         "Legendary": false
     },
@@ -2857,7 +2540,6 @@
         "Name": "Whismur",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 240,
         "Generation": 3,
         "Legendary": false
     },
@@ -2866,7 +2548,6 @@
         "Name": "Loudred",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 360,
         "Generation": 3,
         "Legendary": false
     },
@@ -2875,7 +2556,6 @@
         "Name": "Exploud",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 490,
         "Generation": 3,
         "Legendary": false
     },
@@ -2884,7 +2564,6 @@
         "Name": "Makuhita",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 237,
         "Generation": 3,
         "Legendary": false
     },
@@ -2893,7 +2572,6 @@
         "Name": "Hariyama",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 474,
         "Generation": 3,
         "Legendary": false
     },
@@ -2902,7 +2580,6 @@
         "Name": "Azurill",
         "Type 1": "Normal",
         "Type 2": "Fairy",
-        "Total": 190,
         "Generation": 3,
         "Legendary": false
     },
@@ -2911,7 +2588,6 @@
         "Name": "Nosepass",
         "Type 1": "Rock",
         "Type 2": null,
-        "Total": 375,
         "Generation": 3,
         "Legendary": false
     },
@@ -2920,7 +2596,6 @@
         "Name": "Skitty",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 260,
         "Generation": 3,
         "Legendary": false
     },
@@ -2929,7 +2604,6 @@
         "Name": "Delcatty",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 380,
         "Generation": 3,
         "Legendary": false
     },
@@ -2938,7 +2612,6 @@
         "Name": "Sableye",
         "Type 1": "Dark",
         "Type 2": "Ghost",
-        "Total": 380,
         "Generation": 3,
         "Legendary": false
     },
@@ -2947,7 +2620,6 @@
         "Name": "SableyeMega Sableye",
         "Type 1": "Dark",
         "Type 2": "Ghost",
-        "Total": 480,
         "Generation": 3,
         "Legendary": false
     },
@@ -2956,7 +2628,6 @@
         "Name": "Mawile",
         "Type 1": "Steel",
         "Type 2": "Fairy",
-        "Total": 380,
         "Generation": 3,
         "Legendary": false
     },
@@ -2965,7 +2636,6 @@
         "Name": "MawileMega Mawile",
         "Type 1": "Steel",
         "Type 2": "Fairy",
-        "Total": 480,
         "Generation": 3,
         "Legendary": false
     },
@@ -2974,7 +2644,6 @@
         "Name": "Aron",
         "Type 1": "Steel",
         "Type 2": "Rock",
-        "Total": 330,
         "Generation": 3,
         "Legendary": false
     },
@@ -2983,7 +2652,6 @@
         "Name": "Lairon",
         "Type 1": "Steel",
         "Type 2": "Rock",
-        "Total": 430,
         "Generation": 3,
         "Legendary": false
     },
@@ -2992,7 +2660,6 @@
         "Name": "Aggron",
         "Type 1": "Steel",
         "Type 2": "Rock",
-        "Total": 530,
         "Generation": 3,
         "Legendary": false
     },
@@ -3001,7 +2668,6 @@
         "Name": "AggronMega Aggron",
         "Type 1": "Steel",
         "Type 2": null,
-        "Total": 630,
         "Generation": 3,
         "Legendary": false
     },
@@ -3010,7 +2676,6 @@
         "Name": "Meditite",
         "Type 1": "Fighting",
         "Type 2": "Psychic",
-        "Total": 280,
         "Generation": 3,
         "Legendary": false
     },
@@ -3019,7 +2684,6 @@
         "Name": "Medicham",
         "Type 1": "Fighting",
         "Type 2": "Psychic",
-        "Total": 410,
         "Generation": 3,
         "Legendary": false
     },
@@ -3028,7 +2692,6 @@
         "Name": "MedichamMega Medicham",
         "Type 1": "Fighting",
         "Type 2": "Psychic",
-        "Total": 510,
         "Generation": 3,
         "Legendary": false
     },
@@ -3037,7 +2700,6 @@
         "Name": "Electrike",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 295,
         "Generation": 3,
         "Legendary": false
     },
@@ -3046,7 +2708,6 @@
         "Name": "Manectric",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 475,
         "Generation": 3,
         "Legendary": false
     },
@@ -3055,7 +2716,6 @@
         "Name": "ManectricMega Manectric",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 575,
         "Generation": 3,
         "Legendary": false
     },
@@ -3064,7 +2724,6 @@
         "Name": "Plusle",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 405,
         "Generation": 3,
         "Legendary": false
     },
@@ -3073,7 +2732,6 @@
         "Name": "Minun",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 405,
         "Generation": 3,
         "Legendary": false
     },
@@ -3082,7 +2740,6 @@
         "Name": "Volbeat",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 400,
         "Generation": 3,
         "Legendary": false
     },
@@ -3091,7 +2748,6 @@
         "Name": "Illumise",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 400,
         "Generation": 3,
         "Legendary": false
     },
@@ -3100,7 +2756,6 @@
         "Name": "Roselia",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 400,
         "Generation": 3,
         "Legendary": false
     },
@@ -3109,7 +2764,6 @@
         "Name": "Gulpin",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 302,
         "Generation": 3,
         "Legendary": false
     },
@@ -3118,7 +2772,6 @@
         "Name": "Swalot",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 467,
         "Generation": 3,
         "Legendary": false
     },
@@ -3127,7 +2780,6 @@
         "Name": "Carvanha",
         "Type 1": "Water",
         "Type 2": "Dark",
-        "Total": 305,
         "Generation": 3,
         "Legendary": false
     },
@@ -3136,7 +2788,6 @@
         "Name": "Sharpedo",
         "Type 1": "Water",
         "Type 2": "Dark",
-        "Total": 460,
         "Generation": 3,
         "Legendary": false
     },
@@ -3145,7 +2796,6 @@
         "Name": "SharpedoMega Sharpedo",
         "Type 1": "Water",
         "Type 2": "Dark",
-        "Total": 560,
         "Generation": 3,
         "Legendary": false
     },
@@ -3154,7 +2804,6 @@
         "Name": "Wailmer",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 400,
         "Generation": 3,
         "Legendary": false
     },
@@ -3163,7 +2812,6 @@
         "Name": "Wailord",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 500,
         "Generation": 3,
         "Legendary": false
     },
@@ -3172,7 +2820,6 @@
         "Name": "Numel",
         "Type 1": "Fire",
         "Type 2": "Ground",
-        "Total": 305,
         "Generation": 3,
         "Legendary": false
     },
@@ -3181,7 +2828,6 @@
         "Name": "Camerupt",
         "Type 1": "Fire",
         "Type 2": "Ground",
-        "Total": 460,
         "Generation": 3,
         "Legendary": false
     },
@@ -3190,7 +2836,6 @@
         "Name": "CameruptMega Camerupt",
         "Type 1": "Fire",
         "Type 2": "Ground",
-        "Total": 560,
         "Generation": 3,
         "Legendary": false
     },
@@ -3199,7 +2844,6 @@
         "Name": "Torkoal",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 470,
         "Generation": 3,
         "Legendary": false
     },
@@ -3208,7 +2852,6 @@
         "Name": "Spoink",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 330,
         "Generation": 3,
         "Legendary": false
     },
@@ -3217,7 +2860,6 @@
         "Name": "Grumpig",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 470,
         "Generation": 3,
         "Legendary": false
     },
@@ -3226,7 +2868,6 @@
         "Name": "Spinda",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 360,
         "Generation": 3,
         "Legendary": false
     },
@@ -3235,7 +2876,6 @@
         "Name": "Trapinch",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 290,
         "Generation": 3,
         "Legendary": false
     },
@@ -3244,7 +2884,6 @@
         "Name": "Vibrava",
         "Type 1": "Ground",
         "Type 2": "Dragon",
-        "Total": 340,
         "Generation": 3,
         "Legendary": false
     },
@@ -3253,7 +2892,6 @@
         "Name": "Flygon",
         "Type 1": "Ground",
         "Type 2": "Dragon",
-        "Total": 520,
         "Generation": 3,
         "Legendary": false
     },
@@ -3262,7 +2900,6 @@
         "Name": "Cacnea",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 335,
         "Generation": 3,
         "Legendary": false
     },
@@ -3271,7 +2908,6 @@
         "Name": "Cacturne",
         "Type 1": "Grass",
         "Type 2": "Dark",
-        "Total": 475,
         "Generation": 3,
         "Legendary": false
     },
@@ -3280,7 +2916,6 @@
         "Name": "Swablu",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 310,
         "Generation": 3,
         "Legendary": false
     },
@@ -3289,7 +2924,6 @@
         "Name": "Altaria",
         "Type 1": "Dragon",
         "Type 2": "Flying",
-        "Total": 490,
         "Generation": 3,
         "Legendary": false
     },
@@ -3298,7 +2932,6 @@
         "Name": "AltariaMega Altaria",
         "Type 1": "Dragon",
         "Type 2": "Fairy",
-        "Total": 590,
         "Generation": 3,
         "Legendary": false
     },
@@ -3307,7 +2940,6 @@
         "Name": "Zangoose",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 458,
         "Generation": 3,
         "Legendary": false
     },
@@ -3316,7 +2948,6 @@
         "Name": "Seviper",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 458,
         "Generation": 3,
         "Legendary": false
     },
@@ -3325,7 +2956,6 @@
         "Name": "Lunatone",
         "Type 1": "Rock",
         "Type 2": "Psychic",
-        "Total": 440,
         "Generation": 3,
         "Legendary": false
     },
@@ -3334,7 +2964,6 @@
         "Name": "Solrock",
         "Type 1": "Rock",
         "Type 2": "Psychic",
-        "Total": 440,
         "Generation": 3,
         "Legendary": false
     },
@@ -3343,7 +2972,6 @@
         "Name": "Barboach",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 288,
         "Generation": 3,
         "Legendary": false
     },
@@ -3352,7 +2980,6 @@
         "Name": "Whiscash",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 468,
         "Generation": 3,
         "Legendary": false
     },
@@ -3361,7 +2988,6 @@
         "Name": "Corphish",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 308,
         "Generation": 3,
         "Legendary": false
     },
@@ -3370,7 +2996,6 @@
         "Name": "Crawdaunt",
         "Type 1": "Water",
         "Type 2": "Dark",
-        "Total": 468,
         "Generation": 3,
         "Legendary": false
     },
@@ -3379,7 +3004,6 @@
         "Name": "Baltoy",
         "Type 1": "Ground",
         "Type 2": "Psychic",
-        "Total": 300,
         "Generation": 3,
         "Legendary": false
     },
@@ -3388,7 +3012,6 @@
         "Name": "Claydol",
         "Type 1": "Ground",
         "Type 2": "Psychic",
-        "Total": 500,
         "Generation": 3,
         "Legendary": false
     },
@@ -3397,7 +3020,6 @@
         "Name": "Lileep",
         "Type 1": "Rock",
         "Type 2": "Grass",
-        "Total": 355,
         "Generation": 3,
         "Legendary": false
     },
@@ -3406,7 +3028,6 @@
         "Name": "Cradily",
         "Type 1": "Rock",
         "Type 2": "Grass",
-        "Total": 495,
         "Generation": 3,
         "Legendary": false
     },
@@ -3415,7 +3036,6 @@
         "Name": "Anorith",
         "Type 1": "Rock",
         "Type 2": "Bug",
-        "Total": 355,
         "Generation": 3,
         "Legendary": false
     },
@@ -3424,7 +3044,6 @@
         "Name": "Armaldo",
         "Type 1": "Rock",
         "Type 2": "Bug",
-        "Total": 495,
         "Generation": 3,
         "Legendary": false
     },
@@ -3433,7 +3052,6 @@
         "Name": "Feebas",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 200,
         "Generation": 3,
         "Legendary": false
     },
@@ -3442,7 +3060,6 @@
         "Name": "Milotic",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 540,
         "Generation": 3,
         "Legendary": false
     },
@@ -3451,7 +3068,6 @@
         "Name": "Castform",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 420,
         "Generation": 3,
         "Legendary": false
     },
@@ -3460,7 +3076,6 @@
         "Name": "Kecleon",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 440,
         "Generation": 3,
         "Legendary": false
     },
@@ -3469,7 +3084,6 @@
         "Name": "Shuppet",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 295,
         "Generation": 3,
         "Legendary": false
     },
@@ -3478,7 +3092,6 @@
         "Name": "Banette",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 455,
         "Generation": 3,
         "Legendary": false
     },
@@ -3487,7 +3100,6 @@
         "Name": "BanetteMega Banette",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 555,
         "Generation": 3,
         "Legendary": false
     },
@@ -3496,7 +3108,6 @@
         "Name": "Duskull",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 295,
         "Generation": 3,
         "Legendary": false
     },
@@ -3505,7 +3116,6 @@
         "Name": "Dusclops",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 455,
         "Generation": 3,
         "Legendary": false
     },
@@ -3514,7 +3124,6 @@
         "Name": "Tropius",
         "Type 1": "Grass",
         "Type 2": "Flying",
-        "Total": 460,
         "Generation": 3,
         "Legendary": false
     },
@@ -3523,7 +3132,6 @@
         "Name": "Chimecho",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 425,
         "Generation": 3,
         "Legendary": false
     },
@@ -3532,7 +3140,6 @@
         "Name": "Absol",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 465,
         "Generation": 3,
         "Legendary": false
     },
@@ -3541,7 +3148,6 @@
         "Name": "AbsolMega Absol",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 565,
         "Generation": 3,
         "Legendary": false
     },
@@ -3550,7 +3156,6 @@
         "Name": "Wynaut",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 260,
         "Generation": 3,
         "Legendary": false
     },
@@ -3559,7 +3164,6 @@
         "Name": "Snorunt",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 300,
         "Generation": 3,
         "Legendary": false
     },
@@ -3568,7 +3172,6 @@
         "Name": "Glalie",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 480,
         "Generation": 3,
         "Legendary": false
     },
@@ -3577,7 +3180,6 @@
         "Name": "GlalieMega Glalie",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 580,
         "Generation": 3,
         "Legendary": false
     },
@@ -3586,7 +3188,6 @@
         "Name": "Spheal",
         "Type 1": "Ice",
         "Type 2": "Water",
-        "Total": 290,
         "Generation": 3,
         "Legendary": false
     },
@@ -3595,7 +3196,6 @@
         "Name": "Sealeo",
         "Type 1": "Ice",
         "Type 2": "Water",
-        "Total": 410,
         "Generation": 3,
         "Legendary": false
     },
@@ -3604,7 +3204,6 @@
         "Name": "Walrein",
         "Type 1": "Ice",
         "Type 2": "Water",
-        "Total": 530,
         "Generation": 3,
         "Legendary": false
     },
@@ -3613,7 +3212,6 @@
         "Name": "Clamperl",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 345,
         "Generation": 3,
         "Legendary": false
     },
@@ -3622,7 +3220,6 @@
         "Name": "Huntail",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 485,
         "Generation": 3,
         "Legendary": false
     },
@@ -3631,7 +3228,6 @@
         "Name": "Gorebyss",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 485,
         "Generation": 3,
         "Legendary": false
     },
@@ -3640,7 +3236,6 @@
         "Name": "Relicanth",
         "Type 1": "Water",
         "Type 2": "Rock",
-        "Total": 485,
         "Generation": 3,
         "Legendary": false
     },
@@ -3649,7 +3244,6 @@
         "Name": "Luvdisc",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 330,
         "Generation": 3,
         "Legendary": false
     },
@@ -3658,7 +3252,6 @@
         "Name": "Bagon",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 300,
         "Generation": 3,
         "Legendary": false
     },
@@ -3667,7 +3260,6 @@
         "Name": "Shelgon",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 420,
         "Generation": 3,
         "Legendary": false
     },
@@ -3676,7 +3268,6 @@
         "Name": "Salamence",
         "Type 1": "Dragon",
         "Type 2": "Flying",
-        "Total": 600,
         "Generation": 3,
         "Legendary": false
     },
@@ -3685,7 +3276,6 @@
         "Name": "SalamenceMega Salamence",
         "Type 1": "Dragon",
         "Type 2": "Flying",
-        "Total": 700,
         "Generation": 3,
         "Legendary": false
     },
@@ -3694,7 +3284,6 @@
         "Name": "Beldum",
         "Type 1": "Steel",
         "Type 2": "Psychic",
-        "Total": 300,
         "Generation": 3,
         "Legendary": false
     },
@@ -3703,7 +3292,6 @@
         "Name": "Metang",
         "Type 1": "Steel",
         "Type 2": "Psychic",
-        "Total": 420,
         "Generation": 3,
         "Legendary": false
     },
@@ -3712,7 +3300,6 @@
         "Name": "Metagross",
         "Type 1": "Steel",
         "Type 2": "Psychic",
-        "Total": 600,
         "Generation": 3,
         "Legendary": false
     },
@@ -3721,7 +3308,6 @@
         "Name": "MetagrossMega Metagross",
         "Type 1": "Steel",
         "Type 2": "Psychic",
-        "Total": 700,
         "Generation": 3,
         "Legendary": false
     },
@@ -3730,7 +3316,6 @@
         "Name": "Regirock",
         "Type 1": "Rock",
         "Type 2": null,
-        "Total": 580,
         "Generation": 3,
         "Legendary": true
     },
@@ -3739,7 +3324,6 @@
         "Name": "Regice",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 580,
         "Generation": 3,
         "Legendary": true
     },
@@ -3748,7 +3332,6 @@
         "Name": "Registeel",
         "Type 1": "Steel",
         "Type 2": null,
-        "Total": 580,
         "Generation": 3,
         "Legendary": true
     },
@@ -3757,7 +3340,6 @@
         "Name": "Latias",
         "Type 1": "Dragon",
         "Type 2": "Psychic",
-        "Total": 600,
         "Generation": 3,
         "Legendary": true
     },
@@ -3766,7 +3348,6 @@
         "Name": "LatiasMega Latias",
         "Type 1": "Dragon",
         "Type 2": "Psychic",
-        "Total": 700,
         "Generation": 3,
         "Legendary": true
     },
@@ -3775,7 +3356,6 @@
         "Name": "Latios",
         "Type 1": "Dragon",
         "Type 2": "Psychic",
-        "Total": 600,
         "Generation": 3,
         "Legendary": true
     },
@@ -3784,7 +3364,6 @@
         "Name": "LatiosMega Latios",
         "Type 1": "Dragon",
         "Type 2": "Psychic",
-        "Total": 700,
         "Generation": 3,
         "Legendary": true
     },
@@ -3793,7 +3372,6 @@
         "Name": "Kyogre",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 670,
         "Generation": 3,
         "Legendary": true
     },
@@ -3802,7 +3380,6 @@
         "Name": "KyogrePrimal Kyogre",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 770,
         "Generation": 3,
         "Legendary": true
     },
@@ -3811,7 +3388,6 @@
         "Name": "Groudon",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 670,
         "Generation": 3,
         "Legendary": true
     },
@@ -3820,7 +3396,6 @@
         "Name": "GroudonPrimal Groudon",
         "Type 1": "Ground",
         "Type 2": "Fire",
-        "Total": 770,
         "Generation": 3,
         "Legendary": true
     },
@@ -3829,7 +3404,6 @@
         "Name": "Rayquaza",
         "Type 1": "Dragon",
         "Type 2": "Flying",
-        "Total": 680,
         "Generation": 3,
         "Legendary": true
     },
@@ -3838,7 +3412,6 @@
         "Name": "RayquazaMega Rayquaza",
         "Type 1": "Dragon",
         "Type 2": "Flying",
-        "Total": 780,
         "Generation": 3,
         "Legendary": true
     },
@@ -3847,7 +3420,6 @@
         "Name": "Jirachi",
         "Type 1": "Steel",
         "Type 2": "Psychic",
-        "Total": 600,
         "Generation": 3,
         "Legendary": true
     },
@@ -3856,7 +3428,6 @@
         "Name": "DeoxysNormal Forme",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 600,
         "Generation": 3,
         "Legendary": true
     },
@@ -3865,7 +3436,6 @@
         "Name": "DeoxysAttack Forme",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 600,
         "Generation": 3,
         "Legendary": true
     },
@@ -3874,7 +3444,6 @@
         "Name": "DeoxysDefense Forme",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 600,
         "Generation": 3,
         "Legendary": true
     },
@@ -3883,7 +3452,6 @@
         "Name": "DeoxysSpeed Forme",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 600,
         "Generation": 3,
         "Legendary": true
     },
@@ -3892,7 +3460,6 @@
         "Name": "Turtwig",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 318,
         "Generation": 4,
         "Legendary": false
     },
@@ -3901,7 +3468,6 @@
         "Name": "Grotle",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 405,
         "Generation": 4,
         "Legendary": false
     },
@@ -3910,7 +3476,6 @@
         "Name": "Torterra",
         "Type 1": "Grass",
         "Type 2": "Ground",
-        "Total": 525,
         "Generation": 4,
         "Legendary": false
     },
@@ -3919,7 +3484,6 @@
         "Name": "Chimchar",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 309,
         "Generation": 4,
         "Legendary": false
     },
@@ -3928,7 +3492,6 @@
         "Name": "Monferno",
         "Type 1": "Fire",
         "Type 2": "Fighting",
-        "Total": 405,
         "Generation": 4,
         "Legendary": false
     },
@@ -3937,7 +3500,6 @@
         "Name": "Infernape",
         "Type 1": "Fire",
         "Type 2": "Fighting",
-        "Total": 534,
         "Generation": 4,
         "Legendary": false
     },
@@ -3946,7 +3508,6 @@
         "Name": "Piplup",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 314,
         "Generation": 4,
         "Legendary": false
     },
@@ -3955,7 +3516,6 @@
         "Name": "Prinplup",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 405,
         "Generation": 4,
         "Legendary": false
     },
@@ -3964,7 +3524,6 @@
         "Name": "Empoleon",
         "Type 1": "Water",
         "Type 2": "Steel",
-        "Total": 530,
         "Generation": 4,
         "Legendary": false
     },
@@ -3973,7 +3532,6 @@
         "Name": "Starly",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 245,
         "Generation": 4,
         "Legendary": false
     },
@@ -3982,7 +3540,6 @@
         "Name": "Staravia",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 340,
         "Generation": 4,
         "Legendary": false
     },
@@ -3991,7 +3548,6 @@
         "Name": "Staraptor",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 485,
         "Generation": 4,
         "Legendary": false
     },
@@ -4000,7 +3556,6 @@
         "Name": "Bidoof",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 250,
         "Generation": 4,
         "Legendary": false
     },
@@ -4009,7 +3564,6 @@
         "Name": "Bibarel",
         "Type 1": "Normal",
         "Type 2": "Water",
-        "Total": 410,
         "Generation": 4,
         "Legendary": false
     },
@@ -4018,7 +3572,6 @@
         "Name": "Kricketot",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 194,
         "Generation": 4,
         "Legendary": false
     },
@@ -4027,7 +3580,6 @@
         "Name": "Kricketune",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 384,
         "Generation": 4,
         "Legendary": false
     },
@@ -4036,7 +3588,6 @@
         "Name": "Shinx",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 263,
         "Generation": 4,
         "Legendary": false
     },
@@ -4045,7 +3596,6 @@
         "Name": "Luxio",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 363,
         "Generation": 4,
         "Legendary": false
     },
@@ -4054,7 +3604,6 @@
         "Name": "Luxray",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 523,
         "Generation": 4,
         "Legendary": false
     },
@@ -4063,7 +3612,6 @@
         "Name": "Budew",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 280,
         "Generation": 4,
         "Legendary": false
     },
@@ -4072,7 +3620,6 @@
         "Name": "Roserade",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 515,
         "Generation": 4,
         "Legendary": false
     },
@@ -4081,7 +3628,6 @@
         "Name": "Cranidos",
         "Type 1": "Rock",
         "Type 2": null,
-        "Total": 350,
         "Generation": 4,
         "Legendary": false
     },
@@ -4090,7 +3636,6 @@
         "Name": "Rampardos",
         "Type 1": "Rock",
         "Type 2": null,
-        "Total": 495,
         "Generation": 4,
         "Legendary": false
     },
@@ -4099,7 +3644,6 @@
         "Name": "Shieldon",
         "Type 1": "Rock",
         "Type 2": "Steel",
-        "Total": 350,
         "Generation": 4,
         "Legendary": false
     },
@@ -4108,7 +3652,6 @@
         "Name": "Bastiodon",
         "Type 1": "Rock",
         "Type 2": "Steel",
-        "Total": 495,
         "Generation": 4,
         "Legendary": false
     },
@@ -4117,7 +3660,6 @@
         "Name": "Burmy",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 224,
         "Generation": 4,
         "Legendary": false
     },
@@ -4126,7 +3668,6 @@
         "Name": "WormadamPlant Cloak",
         "Type 1": "Bug",
         "Type 2": "Grass",
-        "Total": 424,
         "Generation": 4,
         "Legendary": false
     },
@@ -4135,7 +3676,6 @@
         "Name": "WormadamSandy Cloak",
         "Type 1": "Bug",
         "Type 2": "Ground",
-        "Total": 424,
         "Generation": 4,
         "Legendary": false
     },
@@ -4144,7 +3684,6 @@
         "Name": "WormadamTrash Cloak",
         "Type 1": "Bug",
         "Type 2": "Steel",
-        "Total": 424,
         "Generation": 4,
         "Legendary": false
     },
@@ -4153,7 +3692,6 @@
         "Name": "Mothim",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 424,
         "Generation": 4,
         "Legendary": false
     },
@@ -4162,7 +3700,6 @@
         "Name": "Combee",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 244,
         "Generation": 4,
         "Legendary": false
     },
@@ -4171,7 +3708,6 @@
         "Name": "Vespiquen",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 474,
         "Generation": 4,
         "Legendary": false
     },
@@ -4180,7 +3716,6 @@
         "Name": "Pachirisu",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 405,
         "Generation": 4,
         "Legendary": false
     },
@@ -4189,7 +3724,6 @@
         "Name": "Buizel",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 330,
         "Generation": 4,
         "Legendary": false
     },
@@ -4198,7 +3732,6 @@
         "Name": "Floatzel",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 495,
         "Generation": 4,
         "Legendary": false
     },
@@ -4207,7 +3740,6 @@
         "Name": "Cherubi",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 275,
         "Generation": 4,
         "Legendary": false
     },
@@ -4216,7 +3748,6 @@
         "Name": "Cherrim",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 450,
         "Generation": 4,
         "Legendary": false
     },
@@ -4225,7 +3756,6 @@
         "Name": "Shellos",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 325,
         "Generation": 4,
         "Legendary": false
     },
@@ -4234,7 +3764,6 @@
         "Name": "Gastrodon",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 475,
         "Generation": 4,
         "Legendary": false
     },
@@ -4243,7 +3772,6 @@
         "Name": "Ambipom",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 482,
         "Generation": 4,
         "Legendary": false
     },
@@ -4252,7 +3780,6 @@
         "Name": "Drifloon",
         "Type 1": "Ghost",
         "Type 2": "Flying",
-        "Total": 348,
         "Generation": 4,
         "Legendary": false
     },
@@ -4261,7 +3788,6 @@
         "Name": "Drifblim",
         "Type 1": "Ghost",
         "Type 2": "Flying",
-        "Total": 498,
         "Generation": 4,
         "Legendary": false
     },
@@ -4270,7 +3796,6 @@
         "Name": "Buneary",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 350,
         "Generation": 4,
         "Legendary": false
     },
@@ -4279,7 +3804,6 @@
         "Name": "Lopunny",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 480,
         "Generation": 4,
         "Legendary": false
     },
@@ -4288,7 +3812,6 @@
         "Name": "LopunnyMega Lopunny",
         "Type 1": "Normal",
         "Type 2": "Fighting",
-        "Total": 580,
         "Generation": 4,
         "Legendary": false
     },
@@ -4297,7 +3820,6 @@
         "Name": "Mismagius",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 495,
         "Generation": 4,
         "Legendary": false
     },
@@ -4306,7 +3828,6 @@
         "Name": "Honchkrow",
         "Type 1": "Dark",
         "Type 2": "Flying",
-        "Total": 505,
         "Generation": 4,
         "Legendary": false
     },
@@ -4315,7 +3836,6 @@
         "Name": "Glameow",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 310,
         "Generation": 4,
         "Legendary": false
     },
@@ -4324,7 +3844,6 @@
         "Name": "Purugly",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 452,
         "Generation": 4,
         "Legendary": false
     },
@@ -4333,7 +3852,6 @@
         "Name": "Chingling",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 285,
         "Generation": 4,
         "Legendary": false
     },
@@ -4342,7 +3860,6 @@
         "Name": "Stunky",
         "Type 1": "Poison",
         "Type 2": "Dark",
-        "Total": 329,
         "Generation": 4,
         "Legendary": false
     },
@@ -4351,7 +3868,6 @@
         "Name": "Skuntank",
         "Type 1": "Poison",
         "Type 2": "Dark",
-        "Total": 479,
         "Generation": 4,
         "Legendary": false
     },
@@ -4360,7 +3876,6 @@
         "Name": "Bronzor",
         "Type 1": "Steel",
         "Type 2": "Psychic",
-        "Total": 300,
         "Generation": 4,
         "Legendary": false
     },
@@ -4369,7 +3884,6 @@
         "Name": "Bronzong",
         "Type 1": "Steel",
         "Type 2": "Psychic",
-        "Total": 500,
         "Generation": 4,
         "Legendary": false
     },
@@ -4378,7 +3892,6 @@
         "Name": "Bonsly",
         "Type 1": "Rock",
         "Type 2": null,
-        "Total": 290,
         "Generation": 4,
         "Legendary": false
     },
@@ -4387,7 +3900,6 @@
         "Name": "Mime Jr.",
         "Type 1": "Psychic",
         "Type 2": "Fairy",
-        "Total": 310,
         "Generation": 4,
         "Legendary": false
     },
@@ -4396,7 +3908,6 @@
         "Name": "Happiny",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 220,
         "Generation": 4,
         "Legendary": false
     },
@@ -4405,7 +3916,6 @@
         "Name": "Chatot",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 411,
         "Generation": 4,
         "Legendary": false
     },
@@ -4414,7 +3924,6 @@
         "Name": "Spiritomb",
         "Type 1": "Ghost",
         "Type 2": "Dark",
-        "Total": 485,
         "Generation": 4,
         "Legendary": false
     },
@@ -4423,7 +3932,6 @@
         "Name": "Gible",
         "Type 1": "Dragon",
         "Type 2": "Ground",
-        "Total": 300,
         "Generation": 4,
         "Legendary": false
     },
@@ -4432,7 +3940,6 @@
         "Name": "Gabite",
         "Type 1": "Dragon",
         "Type 2": "Ground",
-        "Total": 410,
         "Generation": 4,
         "Legendary": false
     },
@@ -4441,7 +3948,6 @@
         "Name": "Garchomp",
         "Type 1": "Dragon",
         "Type 2": "Ground",
-        "Total": 600,
         "Generation": 4,
         "Legendary": false
     },
@@ -4450,7 +3956,6 @@
         "Name": "GarchompMega Garchomp",
         "Type 1": "Dragon",
         "Type 2": "Ground",
-        "Total": 700,
         "Generation": 4,
         "Legendary": false
     },
@@ -4459,7 +3964,6 @@
         "Name": "Munchlax",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 390,
         "Generation": 4,
         "Legendary": false
     },
@@ -4468,7 +3972,6 @@
         "Name": "Riolu",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 285,
         "Generation": 4,
         "Legendary": false
     },
@@ -4477,7 +3980,6 @@
         "Name": "Lucario",
         "Type 1": "Fighting",
         "Type 2": "Steel",
-        "Total": 525,
         "Generation": 4,
         "Legendary": false
     },
@@ -4486,7 +3988,6 @@
         "Name": "LucarioMega Lucario",
         "Type 1": "Fighting",
         "Type 2": "Steel",
-        "Total": 625,
         "Generation": 4,
         "Legendary": false
     },
@@ -4495,7 +3996,6 @@
         "Name": "Hippopotas",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 330,
         "Generation": 4,
         "Legendary": false
     },
@@ -4504,7 +4004,6 @@
         "Name": "Hippowdon",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 525,
         "Generation": 4,
         "Legendary": false
     },
@@ -4513,7 +4012,6 @@
         "Name": "Skorupi",
         "Type 1": "Poison",
         "Type 2": "Bug",
-        "Total": 330,
         "Generation": 4,
         "Legendary": false
     },
@@ -4522,7 +4020,6 @@
         "Name": "Drapion",
         "Type 1": "Poison",
         "Type 2": "Dark",
-        "Total": 500,
         "Generation": 4,
         "Legendary": false
     },
@@ -4531,7 +4028,6 @@
         "Name": "Croagunk",
         "Type 1": "Poison",
         "Type 2": "Fighting",
-        "Total": 300,
         "Generation": 4,
         "Legendary": false
     },
@@ -4540,7 +4036,6 @@
         "Name": "Toxicroak",
         "Type 1": "Poison",
         "Type 2": "Fighting",
-        "Total": 490,
         "Generation": 4,
         "Legendary": false
     },
@@ -4549,7 +4044,6 @@
         "Name": "Carnivine",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 454,
         "Generation": 4,
         "Legendary": false
     },
@@ -4558,7 +4052,6 @@
         "Name": "Finneon",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 330,
         "Generation": 4,
         "Legendary": false
     },
@@ -4567,7 +4060,6 @@
         "Name": "Lumineon",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 460,
         "Generation": 4,
         "Legendary": false
     },
@@ -4576,7 +4068,6 @@
         "Name": "Mantyke",
         "Type 1": "Water",
         "Type 2": "Flying",
-        "Total": 345,
         "Generation": 4,
         "Legendary": false
     },
@@ -4585,7 +4076,6 @@
         "Name": "Snover",
         "Type 1": "Grass",
         "Type 2": "Ice",
-        "Total": 334,
         "Generation": 4,
         "Legendary": false
     },
@@ -4594,7 +4084,6 @@
         "Name": "Abomasnow",
         "Type 1": "Grass",
         "Type 2": "Ice",
-        "Total": 494,
         "Generation": 4,
         "Legendary": false
     },
@@ -4603,7 +4092,6 @@
         "Name": "AbomasnowMega Abomasnow",
         "Type 1": "Grass",
         "Type 2": "Ice",
-        "Total": 594,
         "Generation": 4,
         "Legendary": false
     },
@@ -4612,7 +4100,6 @@
         "Name": "Weavile",
         "Type 1": "Dark",
         "Type 2": "Ice",
-        "Total": 510,
         "Generation": 4,
         "Legendary": false
     },
@@ -4621,7 +4108,6 @@
         "Name": "Magnezone",
         "Type 1": "Electric",
         "Type 2": "Steel",
-        "Total": 535,
         "Generation": 4,
         "Legendary": false
     },
@@ -4630,7 +4116,6 @@
         "Name": "Lickilicky",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 515,
         "Generation": 4,
         "Legendary": false
     },
@@ -4639,7 +4124,6 @@
         "Name": "Rhyperior",
         "Type 1": "Ground",
         "Type 2": "Rock",
-        "Total": 535,
         "Generation": 4,
         "Legendary": false
     },
@@ -4648,7 +4132,6 @@
         "Name": "Tangrowth",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 535,
         "Generation": 4,
         "Legendary": false
     },
@@ -4657,7 +4140,6 @@
         "Name": "Electivire",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 540,
         "Generation": 4,
         "Legendary": false
     },
@@ -4666,7 +4148,6 @@
         "Name": "Magmortar",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 540,
         "Generation": 4,
         "Legendary": false
     },
@@ -4675,7 +4156,6 @@
         "Name": "Togekiss",
         "Type 1": "Fairy",
         "Type 2": "Flying",
-        "Total": 545,
         "Generation": 4,
         "Legendary": false
     },
@@ -4684,7 +4164,6 @@
         "Name": "Yanmega",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 515,
         "Generation": 4,
         "Legendary": false
     },
@@ -4693,7 +4172,6 @@
         "Name": "Leafeon",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 525,
         "Generation": 4,
         "Legendary": false
     },
@@ -4702,7 +4180,6 @@
         "Name": "Glaceon",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 525,
         "Generation": 4,
         "Legendary": false
     },
@@ -4711,7 +4188,6 @@
         "Name": "Gliscor",
         "Type 1": "Ground",
         "Type 2": "Flying",
-        "Total": 510,
         "Generation": 4,
         "Legendary": false
     },
@@ -4720,7 +4196,6 @@
         "Name": "Mamoswine",
         "Type 1": "Ice",
         "Type 2": "Ground",
-        "Total": 530,
         "Generation": 4,
         "Legendary": false
     },
@@ -4729,7 +4204,6 @@
         "Name": "Porygon-Z",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 535,
         "Generation": 4,
         "Legendary": false
     },
@@ -4738,7 +4212,6 @@
         "Name": "Gallade",
         "Type 1": "Psychic",
         "Type 2": "Fighting",
-        "Total": 518,
         "Generation": 4,
         "Legendary": false
     },
@@ -4747,7 +4220,6 @@
         "Name": "GalladeMega Gallade",
         "Type 1": "Psychic",
         "Type 2": "Fighting",
-        "Total": 618,
         "Generation": 4,
         "Legendary": false
     },
@@ -4756,7 +4228,6 @@
         "Name": "Probopass",
         "Type 1": "Rock",
         "Type 2": "Steel",
-        "Total": 525,
         "Generation": 4,
         "Legendary": false
     },
@@ -4765,7 +4236,6 @@
         "Name": "Dusknoir",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 525,
         "Generation": 4,
         "Legendary": false
     },
@@ -4774,7 +4244,6 @@
         "Name": "Froslass",
         "Type 1": "Ice",
         "Type 2": "Ghost",
-        "Total": 480,
         "Generation": 4,
         "Legendary": false
     },
@@ -4783,7 +4252,6 @@
         "Name": "Rotom",
         "Type 1": "Electric",
         "Type 2": "Ghost",
-        "Total": 440,
         "Generation": 4,
         "Legendary": false
     },
@@ -4792,7 +4260,6 @@
         "Name": "RotomHeat Rotom",
         "Type 1": "Electric",
         "Type 2": "Fire",
-        "Total": 520,
         "Generation": 4,
         "Legendary": false
     },
@@ -4801,7 +4268,6 @@
         "Name": "RotomWash Rotom",
         "Type 1": "Electric",
         "Type 2": "Water",
-        "Total": 520,
         "Generation": 4,
         "Legendary": false
     },
@@ -4810,7 +4276,6 @@
         "Name": "RotomFrost Rotom",
         "Type 1": "Electric",
         "Type 2": "Ice",
-        "Total": 520,
         "Generation": 4,
         "Legendary": false
     },
@@ -4819,7 +4284,6 @@
         "Name": "RotomFan Rotom",
         "Type 1": "Electric",
         "Type 2": "Flying",
-        "Total": 520,
         "Generation": 4,
         "Legendary": false
     },
@@ -4828,7 +4292,6 @@
         "Name": "RotomMow Rotom",
         "Type 1": "Electric",
         "Type 2": "Grass",
-        "Total": 520,
         "Generation": 4,
         "Legendary": false
     },
@@ -4837,7 +4300,6 @@
         "Name": "Uxie",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 580,
         "Generation": 4,
         "Legendary": true
     },
@@ -4846,7 +4308,6 @@
         "Name": "Mesprit",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 580,
         "Generation": 4,
         "Legendary": true
     },
@@ -4855,7 +4316,6 @@
         "Name": "Azelf",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 580,
         "Generation": 4,
         "Legendary": true
     },
@@ -4864,7 +4324,6 @@
         "Name": "Dialga",
         "Type 1": "Steel",
         "Type 2": "Dragon",
-        "Total": 680,
         "Generation": 4,
         "Legendary": true
     },
@@ -4873,7 +4332,6 @@
         "Name": "Palkia",
         "Type 1": "Water",
         "Type 2": "Dragon",
-        "Total": 680,
         "Generation": 4,
         "Legendary": true
     },
@@ -4882,7 +4340,6 @@
         "Name": "Heatran",
         "Type 1": "Fire",
         "Type 2": "Steel",
-        "Total": 600,
         "Generation": 4,
         "Legendary": true
     },
@@ -4891,7 +4348,6 @@
         "Name": "Regigigas",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 670,
         "Generation": 4,
         "Legendary": true
     },
@@ -4900,7 +4356,6 @@
         "Name": "GiratinaAltered Forme",
         "Type 1": "Ghost",
         "Type 2": "Dragon",
-        "Total": 680,
         "Generation": 4,
         "Legendary": true
     },
@@ -4909,7 +4364,6 @@
         "Name": "GiratinaOrigin Forme",
         "Type 1": "Ghost",
         "Type 2": "Dragon",
-        "Total": 680,
         "Generation": 4,
         "Legendary": true
     },
@@ -4918,7 +4372,6 @@
         "Name": "Cresselia",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 600,
         "Generation": 4,
         "Legendary": false
     },
@@ -4927,7 +4380,6 @@
         "Name": "Phione",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 480,
         "Generation": 4,
         "Legendary": false
     },
@@ -4936,7 +4388,6 @@
         "Name": "Manaphy",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 600,
         "Generation": 4,
         "Legendary": false
     },
@@ -4945,7 +4396,6 @@
         "Name": "Darkrai",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 600,
         "Generation": 4,
         "Legendary": true
     },
@@ -4954,7 +4404,6 @@
         "Name": "ShayminLand Forme",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 600,
         "Generation": 4,
         "Legendary": true
     },
@@ -4963,7 +4412,6 @@
         "Name": "ShayminSky Forme",
         "Type 1": "Grass",
         "Type 2": "Flying",
-        "Total": 600,
         "Generation": 4,
         "Legendary": true
     },
@@ -4972,7 +4420,6 @@
         "Name": "Arceus",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 720,
         "Generation": 4,
         "Legendary": true
     },
@@ -4981,7 +4428,6 @@
         "Name": "Victini",
         "Type 1": "Psychic",
         "Type 2": "Fire",
-        "Total": 600,
         "Generation": 5,
         "Legendary": true
     },
@@ -4990,7 +4436,6 @@
         "Name": "Snivy",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 308,
         "Generation": 5,
         "Legendary": false
     },
@@ -4999,7 +4444,6 @@
         "Name": "Servine",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 413,
         "Generation": 5,
         "Legendary": false
     },
@@ -5008,7 +4452,6 @@
         "Name": "Serperior",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 528,
         "Generation": 5,
         "Legendary": false
     },
@@ -5017,7 +4460,6 @@
         "Name": "Tepig",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 308,
         "Generation": 5,
         "Legendary": false
     },
@@ -5026,7 +4468,6 @@
         "Name": "Pignite",
         "Type 1": "Fire",
         "Type 2": "Fighting",
-        "Total": 418,
         "Generation": 5,
         "Legendary": false
     },
@@ -5035,7 +4476,6 @@
         "Name": "Emboar",
         "Type 1": "Fire",
         "Type 2": "Fighting",
-        "Total": 528,
         "Generation": 5,
         "Legendary": false
     },
@@ -5044,7 +4484,6 @@
         "Name": "Oshawott",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 308,
         "Generation": 5,
         "Legendary": false
     },
@@ -5053,7 +4492,6 @@
         "Name": "Dewott",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 413,
         "Generation": 5,
         "Legendary": false
     },
@@ -5062,7 +4500,6 @@
         "Name": "Samurott",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 528,
         "Generation": 5,
         "Legendary": false
     },
@@ -5071,7 +4508,6 @@
         "Name": "Patrat",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 255,
         "Generation": 5,
         "Legendary": false
     },
@@ -5080,7 +4516,6 @@
         "Name": "Watchog",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 420,
         "Generation": 5,
         "Legendary": false
     },
@@ -5089,7 +4524,6 @@
         "Name": "Lillipup",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 275,
         "Generation": 5,
         "Legendary": false
     },
@@ -5098,7 +4532,6 @@
         "Name": "Herdier",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 370,
         "Generation": 5,
         "Legendary": false
     },
@@ -5107,7 +4540,6 @@
         "Name": "Stoutland",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 500,
         "Generation": 5,
         "Legendary": false
     },
@@ -5116,7 +4548,6 @@
         "Name": "Purrloin",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 281,
         "Generation": 5,
         "Legendary": false
     },
@@ -5125,7 +4556,6 @@
         "Name": "Liepard",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 446,
         "Generation": 5,
         "Legendary": false
     },
@@ -5134,7 +4564,6 @@
         "Name": "Pansage",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 316,
         "Generation": 5,
         "Legendary": false
     },
@@ -5143,7 +4572,6 @@
         "Name": "Simisage",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 498,
         "Generation": 5,
         "Legendary": false
     },
@@ -5152,7 +4580,6 @@
         "Name": "Pansear",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 316,
         "Generation": 5,
         "Legendary": false
     },
@@ -5161,7 +4588,6 @@
         "Name": "Simisear",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 498,
         "Generation": 5,
         "Legendary": false
     },
@@ -5170,7 +4596,6 @@
         "Name": "Panpour",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 316,
         "Generation": 5,
         "Legendary": false
     },
@@ -5179,7 +4604,6 @@
         "Name": "Simipour",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 498,
         "Generation": 5,
         "Legendary": false
     },
@@ -5188,7 +4612,6 @@
         "Name": "Munna",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 292,
         "Generation": 5,
         "Legendary": false
     },
@@ -5197,7 +4620,6 @@
         "Name": "Musharna",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 487,
         "Generation": 5,
         "Legendary": false
     },
@@ -5206,7 +4628,6 @@
         "Name": "Pidove",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 264,
         "Generation": 5,
         "Legendary": false
     },
@@ -5215,7 +4636,6 @@
         "Name": "Tranquill",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 358,
         "Generation": 5,
         "Legendary": false
     },
@@ -5224,7 +4644,6 @@
         "Name": "Unfezant",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 488,
         "Generation": 5,
         "Legendary": false
     },
@@ -5233,7 +4652,6 @@
         "Name": "Blitzle",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 295,
         "Generation": 5,
         "Legendary": false
     },
@@ -5242,7 +4660,6 @@
         "Name": "Zebstrika",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 497,
         "Generation": 5,
         "Legendary": false
     },
@@ -5251,7 +4668,6 @@
         "Name": "Roggenrola",
         "Type 1": "Rock",
         "Type 2": null,
-        "Total": 280,
         "Generation": 5,
         "Legendary": false
     },
@@ -5260,7 +4676,6 @@
         "Name": "Boldore",
         "Type 1": "Rock",
         "Type 2": null,
-        "Total": 390,
         "Generation": 5,
         "Legendary": false
     },
@@ -5269,7 +4684,6 @@
         "Name": "Gigalith",
         "Type 1": "Rock",
         "Type 2": null,
-        "Total": 515,
         "Generation": 5,
         "Legendary": false
     },
@@ -5278,7 +4692,6 @@
         "Name": "Woobat",
         "Type 1": "Psychic",
         "Type 2": "Flying",
-        "Total": 313,
         "Generation": 5,
         "Legendary": false
     },
@@ -5287,7 +4700,6 @@
         "Name": "Swoobat",
         "Type 1": "Psychic",
         "Type 2": "Flying",
-        "Total": 425,
         "Generation": 5,
         "Legendary": false
     },
@@ -5296,7 +4708,6 @@
         "Name": "Drilbur",
         "Type 1": "Ground",
         "Type 2": null,
-        "Total": 328,
         "Generation": 5,
         "Legendary": false
     },
@@ -5305,7 +4716,6 @@
         "Name": "Excadrill",
         "Type 1": "Ground",
         "Type 2": "Steel",
-        "Total": 508,
         "Generation": 5,
         "Legendary": false
     },
@@ -5314,7 +4724,6 @@
         "Name": "Audino",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 445,
         "Generation": 5,
         "Legendary": false
     },
@@ -5323,7 +4732,6 @@
         "Name": "AudinoMega Audino",
         "Type 1": "Normal",
         "Type 2": "Fairy",
-        "Total": 545,
         "Generation": 5,
         "Legendary": false
     },
@@ -5332,7 +4740,6 @@
         "Name": "Timburr",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 305,
         "Generation": 5,
         "Legendary": false
     },
@@ -5341,7 +4748,6 @@
         "Name": "Gurdurr",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 405,
         "Generation": 5,
         "Legendary": false
     },
@@ -5350,7 +4756,6 @@
         "Name": "Conkeldurr",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 505,
         "Generation": 5,
         "Legendary": false
     },
@@ -5359,7 +4764,6 @@
         "Name": "Tympole",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 294,
         "Generation": 5,
         "Legendary": false
     },
@@ -5368,7 +4772,6 @@
         "Name": "Palpitoad",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 384,
         "Generation": 5,
         "Legendary": false
     },
@@ -5377,7 +4780,6 @@
         "Name": "Seismitoad",
         "Type 1": "Water",
         "Type 2": "Ground",
-        "Total": 509,
         "Generation": 5,
         "Legendary": false
     },
@@ -5386,7 +4788,6 @@
         "Name": "Throh",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 465,
         "Generation": 5,
         "Legendary": false
     },
@@ -5395,7 +4796,6 @@
         "Name": "Sawk",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 465,
         "Generation": 5,
         "Legendary": false
     },
@@ -5404,7 +4804,6 @@
         "Name": "Sewaddle",
         "Type 1": "Bug",
         "Type 2": "Grass",
-        "Total": 310,
         "Generation": 5,
         "Legendary": false
     },
@@ -5413,7 +4812,6 @@
         "Name": "Swadloon",
         "Type 1": "Bug",
         "Type 2": "Grass",
-        "Total": 380,
         "Generation": 5,
         "Legendary": false
     },
@@ -5422,7 +4820,6 @@
         "Name": "Leavanny",
         "Type 1": "Bug",
         "Type 2": "Grass",
-        "Total": 500,
         "Generation": 5,
         "Legendary": false
     },
@@ -5431,7 +4828,6 @@
         "Name": "Venipede",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 260,
         "Generation": 5,
         "Legendary": false
     },
@@ -5440,7 +4836,6 @@
         "Name": "Whirlipede",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 360,
         "Generation": 5,
         "Legendary": false
     },
@@ -5449,7 +4844,6 @@
         "Name": "Scolipede",
         "Type 1": "Bug",
         "Type 2": "Poison",
-        "Total": 485,
         "Generation": 5,
         "Legendary": false
     },
@@ -5458,7 +4852,6 @@
         "Name": "Cottonee",
         "Type 1": "Grass",
         "Type 2": "Fairy",
-        "Total": 280,
         "Generation": 5,
         "Legendary": false
     },
@@ -5467,7 +4860,6 @@
         "Name": "Whimsicott",
         "Type 1": "Grass",
         "Type 2": "Fairy",
-        "Total": 480,
         "Generation": 5,
         "Legendary": false
     },
@@ -5476,7 +4868,6 @@
         "Name": "Petilil",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 280,
         "Generation": 5,
         "Legendary": false
     },
@@ -5485,7 +4876,6 @@
         "Name": "Lilligant",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 480,
         "Generation": 5,
         "Legendary": false
     },
@@ -5494,7 +4884,6 @@
         "Name": "Basculin",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 460,
         "Generation": 5,
         "Legendary": false
     },
@@ -5503,7 +4892,6 @@
         "Name": "Sandile",
         "Type 1": "Ground",
         "Type 2": "Dark",
-        "Total": 292,
         "Generation": 5,
         "Legendary": false
     },
@@ -5512,7 +4900,6 @@
         "Name": "Krokorok",
         "Type 1": "Ground",
         "Type 2": "Dark",
-        "Total": 351,
         "Generation": 5,
         "Legendary": false
     },
@@ -5521,7 +4908,6 @@
         "Name": "Krookodile",
         "Type 1": "Ground",
         "Type 2": "Dark",
-        "Total": 519,
         "Generation": 5,
         "Legendary": false
     },
@@ -5530,7 +4916,6 @@
         "Name": "Darumaka",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 315,
         "Generation": 5,
         "Legendary": false
     },
@@ -5539,7 +4924,6 @@
         "Name": "DarmanitanStandard Mode",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 480,
         "Generation": 5,
         "Legendary": false
     },
@@ -5548,7 +4932,6 @@
         "Name": "DarmanitanZen Mode",
         "Type 1": "Fire",
         "Type 2": "Psychic",
-        "Total": 540,
         "Generation": 5,
         "Legendary": false
     },
@@ -5557,7 +4940,6 @@
         "Name": "Maractus",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 461,
         "Generation": 5,
         "Legendary": false
     },
@@ -5566,7 +4948,6 @@
         "Name": "Dwebble",
         "Type 1": "Bug",
         "Type 2": "Rock",
-        "Total": 325,
         "Generation": 5,
         "Legendary": false
     },
@@ -5575,7 +4956,6 @@
         "Name": "Crustle",
         "Type 1": "Bug",
         "Type 2": "Rock",
-        "Total": 475,
         "Generation": 5,
         "Legendary": false
     },
@@ -5584,7 +4964,6 @@
         "Name": "Scraggy",
         "Type 1": "Dark",
         "Type 2": "Fighting",
-        "Total": 348,
         "Generation": 5,
         "Legendary": false
     },
@@ -5593,7 +4972,6 @@
         "Name": "Scrafty",
         "Type 1": "Dark",
         "Type 2": "Fighting",
-        "Total": 488,
         "Generation": 5,
         "Legendary": false
     },
@@ -5602,7 +4980,6 @@
         "Name": "Sigilyph",
         "Type 1": "Psychic",
         "Type 2": "Flying",
-        "Total": 490,
         "Generation": 5,
         "Legendary": false
     },
@@ -5611,7 +4988,6 @@
         "Name": "Yamask",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 303,
         "Generation": 5,
         "Legendary": false
     },
@@ -5620,7 +4996,6 @@
         "Name": "Cofagrigus",
         "Type 1": "Ghost",
         "Type 2": null,
-        "Total": 483,
         "Generation": 5,
         "Legendary": false
     },
@@ -5629,7 +5004,6 @@
         "Name": "Tirtouga",
         "Type 1": "Water",
         "Type 2": "Rock",
-        "Total": 355,
         "Generation": 5,
         "Legendary": false
     },
@@ -5638,7 +5012,6 @@
         "Name": "Carracosta",
         "Type 1": "Water",
         "Type 2": "Rock",
-        "Total": 495,
         "Generation": 5,
         "Legendary": false
     },
@@ -5647,7 +5020,6 @@
         "Name": "Archen",
         "Type 1": "Rock",
         "Type 2": "Flying",
-        "Total": 401,
         "Generation": 5,
         "Legendary": false
     },
@@ -5656,7 +5028,6 @@
         "Name": "Archeops",
         "Type 1": "Rock",
         "Type 2": "Flying",
-        "Total": 567,
         "Generation": 5,
         "Legendary": false
     },
@@ -5665,7 +5036,6 @@
         "Name": "Trubbish",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 329,
         "Generation": 5,
         "Legendary": false
     },
@@ -5674,7 +5044,6 @@
         "Name": "Garbodor",
         "Type 1": "Poison",
         "Type 2": null,
-        "Total": 474,
         "Generation": 5,
         "Legendary": false
     },
@@ -5683,7 +5052,6 @@
         "Name": "Zorua",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 330,
         "Generation": 5,
         "Legendary": false
     },
@@ -5692,7 +5060,6 @@
         "Name": "Zoroark",
         "Type 1": "Dark",
         "Type 2": null,
-        "Total": 510,
         "Generation": 5,
         "Legendary": false
     },
@@ -5701,7 +5068,6 @@
         "Name": "Minccino",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 300,
         "Generation": 5,
         "Legendary": false
     },
@@ -5710,7 +5076,6 @@
         "Name": "Cinccino",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 470,
         "Generation": 5,
         "Legendary": false
     },
@@ -5719,7 +5084,6 @@
         "Name": "Gothita",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 290,
         "Generation": 5,
         "Legendary": false
     },
@@ -5728,7 +5092,6 @@
         "Name": "Gothorita",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 390,
         "Generation": 5,
         "Legendary": false
     },
@@ -5737,7 +5100,6 @@
         "Name": "Gothitelle",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 490,
         "Generation": 5,
         "Legendary": false
     },
@@ -5746,7 +5108,6 @@
         "Name": "Solosis",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 290,
         "Generation": 5,
         "Legendary": false
     },
@@ -5755,7 +5116,6 @@
         "Name": "Duosion",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 370,
         "Generation": 5,
         "Legendary": false
     },
@@ -5764,7 +5124,6 @@
         "Name": "Reuniclus",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 490,
         "Generation": 5,
         "Legendary": false
     },
@@ -5773,7 +5132,6 @@
         "Name": "Ducklett",
         "Type 1": "Water",
         "Type 2": "Flying",
-        "Total": 305,
         "Generation": 5,
         "Legendary": false
     },
@@ -5782,7 +5140,6 @@
         "Name": "Swanna",
         "Type 1": "Water",
         "Type 2": "Flying",
-        "Total": 473,
         "Generation": 5,
         "Legendary": false
     },
@@ -5791,7 +5148,6 @@
         "Name": "Vanillite",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 305,
         "Generation": 5,
         "Legendary": false
     },
@@ -5800,7 +5156,6 @@
         "Name": "Vanillish",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 395,
         "Generation": 5,
         "Legendary": false
     },
@@ -5809,7 +5164,6 @@
         "Name": "Vanilluxe",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 535,
         "Generation": 5,
         "Legendary": false
     },
@@ -5818,7 +5172,6 @@
         "Name": "Deerling",
         "Type 1": "Normal",
         "Type 2": "Grass",
-        "Total": 335,
         "Generation": 5,
         "Legendary": false
     },
@@ -5827,7 +5180,6 @@
         "Name": "Sawsbuck",
         "Type 1": "Normal",
         "Type 2": "Grass",
-        "Total": 475,
         "Generation": 5,
         "Legendary": false
     },
@@ -5836,7 +5188,6 @@
         "Name": "Emolga",
         "Type 1": "Electric",
         "Type 2": "Flying",
-        "Total": 428,
         "Generation": 5,
         "Legendary": false
     },
@@ -5845,7 +5196,6 @@
         "Name": "Karrablast",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 315,
         "Generation": 5,
         "Legendary": false
     },
@@ -5854,7 +5204,6 @@
         "Name": "Escavalier",
         "Type 1": "Bug",
         "Type 2": "Steel",
-        "Total": 495,
         "Generation": 5,
         "Legendary": false
     },
@@ -5863,7 +5212,6 @@
         "Name": "Foongus",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 294,
         "Generation": 5,
         "Legendary": false
     },
@@ -5872,7 +5220,6 @@
         "Name": "Amoonguss",
         "Type 1": "Grass",
         "Type 2": "Poison",
-        "Total": 464,
         "Generation": 5,
         "Legendary": false
     },
@@ -5881,7 +5228,6 @@
         "Name": "Frillish",
         "Type 1": "Water",
         "Type 2": "Ghost",
-        "Total": 335,
         "Generation": 5,
         "Legendary": false
     },
@@ -5890,7 +5236,6 @@
         "Name": "Jellicent",
         "Type 1": "Water",
         "Type 2": "Ghost",
-        "Total": 480,
         "Generation": 5,
         "Legendary": false
     },
@@ -5899,7 +5244,6 @@
         "Name": "Alomomola",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 470,
         "Generation": 5,
         "Legendary": false
     },
@@ -5908,7 +5252,6 @@
         "Name": "Joltik",
         "Type 1": "Bug",
         "Type 2": "Electric",
-        "Total": 319,
         "Generation": 5,
         "Legendary": false
     },
@@ -5917,7 +5260,6 @@
         "Name": "Galvantula",
         "Type 1": "Bug",
         "Type 2": "Electric",
-        "Total": 472,
         "Generation": 5,
         "Legendary": false
     },
@@ -5926,7 +5268,6 @@
         "Name": "Ferroseed",
         "Type 1": "Grass",
         "Type 2": "Steel",
-        "Total": 305,
         "Generation": 5,
         "Legendary": false
     },
@@ -5935,7 +5276,6 @@
         "Name": "Ferrothorn",
         "Type 1": "Grass",
         "Type 2": "Steel",
-        "Total": 489,
         "Generation": 5,
         "Legendary": false
     },
@@ -5944,7 +5284,6 @@
         "Name": "Klink",
         "Type 1": "Steel",
         "Type 2": null,
-        "Total": 300,
         "Generation": 5,
         "Legendary": false
     },
@@ -5953,7 +5292,6 @@
         "Name": "Klang",
         "Type 1": "Steel",
         "Type 2": null,
-        "Total": 440,
         "Generation": 5,
         "Legendary": false
     },
@@ -5962,7 +5300,6 @@
         "Name": "Klinklang",
         "Type 1": "Steel",
         "Type 2": null,
-        "Total": 520,
         "Generation": 5,
         "Legendary": false
     },
@@ -5971,7 +5308,6 @@
         "Name": "Tynamo",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 275,
         "Generation": 5,
         "Legendary": false
     },
@@ -5980,7 +5316,6 @@
         "Name": "Eelektrik",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 405,
         "Generation": 5,
         "Legendary": false
     },
@@ -5989,7 +5324,6 @@
         "Name": "Eelektross",
         "Type 1": "Electric",
         "Type 2": null,
-        "Total": 515,
         "Generation": 5,
         "Legendary": false
     },
@@ -5998,7 +5332,6 @@
         "Name": "Elgyem",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 335,
         "Generation": 5,
         "Legendary": false
     },
@@ -6007,7 +5340,6 @@
         "Name": "Beheeyem",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 485,
         "Generation": 5,
         "Legendary": false
     },
@@ -6016,7 +5348,6 @@
         "Name": "Litwick",
         "Type 1": "Ghost",
         "Type 2": "Fire",
-        "Total": 275,
         "Generation": 5,
         "Legendary": false
     },
@@ -6025,7 +5356,6 @@
         "Name": "Lampent",
         "Type 1": "Ghost",
         "Type 2": "Fire",
-        "Total": 370,
         "Generation": 5,
         "Legendary": false
     },
@@ -6034,7 +5364,6 @@
         "Name": "Chandelure",
         "Type 1": "Ghost",
         "Type 2": "Fire",
-        "Total": 520,
         "Generation": 5,
         "Legendary": false
     },
@@ -6043,7 +5372,6 @@
         "Name": "Axew",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 320,
         "Generation": 5,
         "Legendary": false
     },
@@ -6052,7 +5380,6 @@
         "Name": "Fraxure",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 410,
         "Generation": 5,
         "Legendary": false
     },
@@ -6061,7 +5388,6 @@
         "Name": "Haxorus",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 540,
         "Generation": 5,
         "Legendary": false
     },
@@ -6070,7 +5396,6 @@
         "Name": "Cubchoo",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 305,
         "Generation": 5,
         "Legendary": false
     },
@@ -6079,7 +5404,6 @@
         "Name": "Beartic",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 485,
         "Generation": 5,
         "Legendary": false
     },
@@ -6088,7 +5412,6 @@
         "Name": "Cryogonal",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 485,
         "Generation": 5,
         "Legendary": false
     },
@@ -6097,7 +5420,6 @@
         "Name": "Shelmet",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 305,
         "Generation": 5,
         "Legendary": false
     },
@@ -6106,7 +5428,6 @@
         "Name": "Accelgor",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 495,
         "Generation": 5,
         "Legendary": false
     },
@@ -6115,7 +5436,6 @@
         "Name": "Stunfisk",
         "Type 1": "Ground",
         "Type 2": "Electric",
-        "Total": 471,
         "Generation": 5,
         "Legendary": false
     },
@@ -6124,7 +5444,6 @@
         "Name": "Mienfoo",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 350,
         "Generation": 5,
         "Legendary": false
     },
@@ -6133,7 +5452,6 @@
         "Name": "Mienshao",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 510,
         "Generation": 5,
         "Legendary": false
     },
@@ -6142,7 +5460,6 @@
         "Name": "Druddigon",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 485,
         "Generation": 5,
         "Legendary": false
     },
@@ -6151,7 +5468,6 @@
         "Name": "Golett",
         "Type 1": "Ground",
         "Type 2": "Ghost",
-        "Total": 303,
         "Generation": 5,
         "Legendary": false
     },
@@ -6160,7 +5476,6 @@
         "Name": "Golurk",
         "Type 1": "Ground",
         "Type 2": "Ghost",
-        "Total": 483,
         "Generation": 5,
         "Legendary": false
     },
@@ -6169,7 +5484,6 @@
         "Name": "Pawniard",
         "Type 1": "Dark",
         "Type 2": "Steel",
-        "Total": 340,
         "Generation": 5,
         "Legendary": false
     },
@@ -6178,7 +5492,6 @@
         "Name": "Bisharp",
         "Type 1": "Dark",
         "Type 2": "Steel",
-        "Total": 490,
         "Generation": 5,
         "Legendary": false
     },
@@ -6187,7 +5500,6 @@
         "Name": "Bouffalant",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 490,
         "Generation": 5,
         "Legendary": false
     },
@@ -6196,7 +5508,6 @@
         "Name": "Rufflet",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 350,
         "Generation": 5,
         "Legendary": false
     },
@@ -6205,7 +5516,6 @@
         "Name": "Braviary",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 510,
         "Generation": 5,
         "Legendary": false
     },
@@ -6214,7 +5524,6 @@
         "Name": "Vullaby",
         "Type 1": "Dark",
         "Type 2": "Flying",
-        "Total": 370,
         "Generation": 5,
         "Legendary": false
     },
@@ -6223,7 +5532,6 @@
         "Name": "Mandibuzz",
         "Type 1": "Dark",
         "Type 2": "Flying",
-        "Total": 510,
         "Generation": 5,
         "Legendary": false
     },
@@ -6232,7 +5540,6 @@
         "Name": "Heatmor",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 484,
         "Generation": 5,
         "Legendary": false
     },
@@ -6241,7 +5548,6 @@
         "Name": "Durant",
         "Type 1": "Bug",
         "Type 2": "Steel",
-        "Total": 484,
         "Generation": 5,
         "Legendary": false
     },
@@ -6250,7 +5556,6 @@
         "Name": "Deino",
         "Type 1": "Dark",
         "Type 2": "Dragon",
-        "Total": 300,
         "Generation": 5,
         "Legendary": false
     },
@@ -6259,7 +5564,6 @@
         "Name": "Zweilous",
         "Type 1": "Dark",
         "Type 2": "Dragon",
-        "Total": 420,
         "Generation": 5,
         "Legendary": false
     },
@@ -6268,7 +5572,6 @@
         "Name": "Hydreigon",
         "Type 1": "Dark",
         "Type 2": "Dragon",
-        "Total": 600,
         "Generation": 5,
         "Legendary": false
     },
@@ -6277,7 +5580,6 @@
         "Name": "Larvesta",
         "Type 1": "Bug",
         "Type 2": "Fire",
-        "Total": 360,
         "Generation": 5,
         "Legendary": false
     },
@@ -6286,7 +5588,6 @@
         "Name": "Volcarona",
         "Type 1": "Bug",
         "Type 2": "Fire",
-        "Total": 550,
         "Generation": 5,
         "Legendary": false
     },
@@ -6295,7 +5596,6 @@
         "Name": "Cobalion",
         "Type 1": "Steel",
         "Type 2": "Fighting",
-        "Total": 580,
         "Generation": 5,
         "Legendary": true
     },
@@ -6304,7 +5604,6 @@
         "Name": "Terrakion",
         "Type 1": "Rock",
         "Type 2": "Fighting",
-        "Total": 580,
         "Generation": 5,
         "Legendary": true
     },
@@ -6313,7 +5612,6 @@
         "Name": "Virizion",
         "Type 1": "Grass",
         "Type 2": "Fighting",
-        "Total": 580,
         "Generation": 5,
         "Legendary": true
     },
@@ -6322,7 +5620,6 @@
         "Name": "TornadusIncarnate Forme",
         "Type 1": "Flying",
         "Type 2": null,
-        "Total": 580,
         "Generation": 5,
         "Legendary": true
     },
@@ -6331,7 +5628,6 @@
         "Name": "TornadusTherian Forme",
         "Type 1": "Flying",
         "Type 2": null,
-        "Total": 580,
         "Generation": 5,
         "Legendary": true
     },
@@ -6340,7 +5636,6 @@
         "Name": "ThundurusIncarnate Forme",
         "Type 1": "Electric",
         "Type 2": "Flying",
-        "Total": 580,
         "Generation": 5,
         "Legendary": true
     },
@@ -6349,7 +5644,6 @@
         "Name": "ThundurusTherian Forme",
         "Type 1": "Electric",
         "Type 2": "Flying",
-        "Total": 580,
         "Generation": 5,
         "Legendary": true
     },
@@ -6358,7 +5652,6 @@
         "Name": "Reshiram",
         "Type 1": "Dragon",
         "Type 2": "Fire",
-        "Total": 680,
         "Generation": 5,
         "Legendary": true
     },
@@ -6367,7 +5660,6 @@
         "Name": "Zekrom",
         "Type 1": "Dragon",
         "Type 2": "Electric",
-        "Total": 680,
         "Generation": 5,
         "Legendary": true
     },
@@ -6376,7 +5668,6 @@
         "Name": "LandorusIncarnate Forme",
         "Type 1": "Ground",
         "Type 2": "Flying",
-        "Total": 600,
         "Generation": 5,
         "Legendary": true
     },
@@ -6385,7 +5676,6 @@
         "Name": "LandorusTherian Forme",
         "Type 1": "Ground",
         "Type 2": "Flying",
-        "Total": 600,
         "Generation": 5,
         "Legendary": true
     },
@@ -6394,7 +5684,6 @@
         "Name": "Kyurem",
         "Type 1": "Dragon",
         "Type 2": "Ice",
-        "Total": 660,
         "Generation": 5,
         "Legendary": true
     },
@@ -6403,7 +5692,6 @@
         "Name": "KyuremBlack Kyurem",
         "Type 1": "Dragon",
         "Type 2": "Ice",
-        "Total": 700,
         "Generation": 5,
         "Legendary": true
     },
@@ -6412,7 +5700,6 @@
         "Name": "KyuremWhite Kyurem",
         "Type 1": "Dragon",
         "Type 2": "Ice",
-        "Total": 700,
         "Generation": 5,
         "Legendary": true
     },
@@ -6421,7 +5708,6 @@
         "Name": "KeldeoOrdinary Forme",
         "Type 1": "Water",
         "Type 2": "Fighting",
-        "Total": 580,
         "Generation": 5,
         "Legendary": false
     },
@@ -6430,7 +5716,6 @@
         "Name": "KeldeoResolute Forme",
         "Type 1": "Water",
         "Type 2": "Fighting",
-        "Total": 580,
         "Generation": 5,
         "Legendary": false
     },
@@ -6439,7 +5724,6 @@
         "Name": "MeloettaAria Forme",
         "Type 1": "Normal",
         "Type 2": "Psychic",
-        "Total": 600,
         "Generation": 5,
         "Legendary": false
     },
@@ -6448,7 +5732,6 @@
         "Name": "MeloettaPirouette Forme",
         "Type 1": "Normal",
         "Type 2": "Fighting",
-        "Total": 600,
         "Generation": 5,
         "Legendary": false
     },
@@ -6457,7 +5740,6 @@
         "Name": "Genesect",
         "Type 1": "Bug",
         "Type 2": "Steel",
-        "Total": 600,
         "Generation": 5,
         "Legendary": false
     },
@@ -6466,7 +5748,6 @@
         "Name": "Chespin",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 313,
         "Generation": 6,
         "Legendary": false
     },
@@ -6475,7 +5756,6 @@
         "Name": "Quilladin",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 405,
         "Generation": 6,
         "Legendary": false
     },
@@ -6484,7 +5764,6 @@
         "Name": "Chesnaught",
         "Type 1": "Grass",
         "Type 2": "Fighting",
-        "Total": 530,
         "Generation": 6,
         "Legendary": false
     },
@@ -6493,7 +5772,6 @@
         "Name": "Fennekin",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 307,
         "Generation": 6,
         "Legendary": false
     },
@@ -6502,7 +5780,6 @@
         "Name": "Braixen",
         "Type 1": "Fire",
         "Type 2": null,
-        "Total": 409,
         "Generation": 6,
         "Legendary": false
     },
@@ -6511,7 +5788,6 @@
         "Name": "Delphox",
         "Type 1": "Fire",
         "Type 2": "Psychic",
-        "Total": 534,
         "Generation": 6,
         "Legendary": false
     },
@@ -6520,7 +5796,6 @@
         "Name": "Froakie",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 314,
         "Generation": 6,
         "Legendary": false
     },
@@ -6529,7 +5804,6 @@
         "Name": "Frogadier",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 405,
         "Generation": 6,
         "Legendary": false
     },
@@ -6538,7 +5812,6 @@
         "Name": "Greninja",
         "Type 1": "Water",
         "Type 2": "Dark",
-        "Total": 530,
         "Generation": 6,
         "Legendary": false
     },
@@ -6547,7 +5820,6 @@
         "Name": "Bunnelby",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 237,
         "Generation": 6,
         "Legendary": false
     },
@@ -6556,7 +5828,6 @@
         "Name": "Diggersby",
         "Type 1": "Normal",
         "Type 2": "Ground",
-        "Total": 423,
         "Generation": 6,
         "Legendary": false
     },
@@ -6565,7 +5836,6 @@
         "Name": "Fletchling",
         "Type 1": "Normal",
         "Type 2": "Flying",
-        "Total": 278,
         "Generation": 6,
         "Legendary": false
     },
@@ -6574,7 +5844,6 @@
         "Name": "Fletchinder",
         "Type 1": "Fire",
         "Type 2": "Flying",
-        "Total": 382,
         "Generation": 6,
         "Legendary": false
     },
@@ -6583,7 +5852,6 @@
         "Name": "Talonflame",
         "Type 1": "Fire",
         "Type 2": "Flying",
-        "Total": 499,
         "Generation": 6,
         "Legendary": false
     },
@@ -6592,7 +5860,6 @@
         "Name": "Scatterbug",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 200,
         "Generation": 6,
         "Legendary": false
     },
@@ -6601,7 +5868,6 @@
         "Name": "Spewpa",
         "Type 1": "Bug",
         "Type 2": null,
-        "Total": 213,
         "Generation": 6,
         "Legendary": false
     },
@@ -6610,7 +5876,6 @@
         "Name": "Vivillon",
         "Type 1": "Bug",
         "Type 2": "Flying",
-        "Total": 411,
         "Generation": 6,
         "Legendary": false
     },
@@ -6619,7 +5884,6 @@
         "Name": "Litleo",
         "Type 1": "Fire",
         "Type 2": "Normal",
-        "Total": 369,
         "Generation": 6,
         "Legendary": false
     },
@@ -6628,7 +5892,6 @@
         "Name": "Pyroar",
         "Type 1": "Fire",
         "Type 2": "Normal",
-        "Total": 507,
         "Generation": 6,
         "Legendary": false
     },
@@ -6637,7 +5900,6 @@
         "Name": "Flab\u00e9b\u00e9",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 303,
         "Generation": 6,
         "Legendary": false
     },
@@ -6646,7 +5908,6 @@
         "Name": "Floette",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 371,
         "Generation": 6,
         "Legendary": false
     },
@@ -6655,7 +5916,6 @@
         "Name": "Florges",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 552,
         "Generation": 6,
         "Legendary": false
     },
@@ -6664,7 +5924,6 @@
         "Name": "Skiddo",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 350,
         "Generation": 6,
         "Legendary": false
     },
@@ -6673,7 +5932,6 @@
         "Name": "Gogoat",
         "Type 1": "Grass",
         "Type 2": null,
-        "Total": 531,
         "Generation": 6,
         "Legendary": false
     },
@@ -6682,7 +5940,6 @@
         "Name": "Pancham",
         "Type 1": "Fighting",
         "Type 2": null,
-        "Total": 348,
         "Generation": 6,
         "Legendary": false
     },
@@ -6691,7 +5948,6 @@
         "Name": "Pangoro",
         "Type 1": "Fighting",
         "Type 2": "Dark",
-        "Total": 495,
         "Generation": 6,
         "Legendary": false
     },
@@ -6700,7 +5956,6 @@
         "Name": "Furfrou",
         "Type 1": "Normal",
         "Type 2": null,
-        "Total": 472,
         "Generation": 6,
         "Legendary": false
     },
@@ -6709,7 +5964,6 @@
         "Name": "Espurr",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 355,
         "Generation": 6,
         "Legendary": false
     },
@@ -6718,7 +5972,6 @@
         "Name": "MeowsticMale",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 466,
         "Generation": 6,
         "Legendary": false
     },
@@ -6727,7 +5980,6 @@
         "Name": "MeowsticFemale",
         "Type 1": "Psychic",
         "Type 2": null,
-        "Total": 466,
         "Generation": 6,
         "Legendary": false
     },
@@ -6736,7 +5988,6 @@
         "Name": "Honedge",
         "Type 1": "Steel",
         "Type 2": "Ghost",
-        "Total": 325,
         "Generation": 6,
         "Legendary": false
     },
@@ -6745,7 +5996,6 @@
         "Name": "Doublade",
         "Type 1": "Steel",
         "Type 2": "Ghost",
-        "Total": 448,
         "Generation": 6,
         "Legendary": false
     },
@@ -6754,7 +6004,6 @@
         "Name": "AegislashBlade Forme",
         "Type 1": "Steel",
         "Type 2": "Ghost",
-        "Total": 520,
         "Generation": 6,
         "Legendary": false
     },
@@ -6763,7 +6012,6 @@
         "Name": "AegislashShield Forme",
         "Type 1": "Steel",
         "Type 2": "Ghost",
-        "Total": 520,
         "Generation": 6,
         "Legendary": false
     },
@@ -6772,7 +6020,6 @@
         "Name": "Spritzee",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 341,
         "Generation": 6,
         "Legendary": false
     },
@@ -6781,7 +6028,6 @@
         "Name": "Aromatisse",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 462,
         "Generation": 6,
         "Legendary": false
     },
@@ -6790,7 +6036,6 @@
         "Name": "Swirlix",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 341,
         "Generation": 6,
         "Legendary": false
     },
@@ -6799,7 +6044,6 @@
         "Name": "Slurpuff",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 480,
         "Generation": 6,
         "Legendary": false
     },
@@ -6808,7 +6052,6 @@
         "Name": "Inkay",
         "Type 1": "Dark",
         "Type 2": "Psychic",
-        "Total": 288,
         "Generation": 6,
         "Legendary": false
     },
@@ -6817,7 +6060,6 @@
         "Name": "Malamar",
         "Type 1": "Dark",
         "Type 2": "Psychic",
-        "Total": 482,
         "Generation": 6,
         "Legendary": false
     },
@@ -6826,7 +6068,6 @@
         "Name": "Binacle",
         "Type 1": "Rock",
         "Type 2": "Water",
-        "Total": 306,
         "Generation": 6,
         "Legendary": false
     },
@@ -6835,7 +6076,6 @@
         "Name": "Barbaracle",
         "Type 1": "Rock",
         "Type 2": "Water",
-        "Total": 500,
         "Generation": 6,
         "Legendary": false
     },
@@ -6844,7 +6084,6 @@
         "Name": "Skrelp",
         "Type 1": "Poison",
         "Type 2": "Water",
-        "Total": 320,
         "Generation": 6,
         "Legendary": false
     },
@@ -6853,7 +6092,6 @@
         "Name": "Dragalge",
         "Type 1": "Poison",
         "Type 2": "Dragon",
-        "Total": 494,
         "Generation": 6,
         "Legendary": false
     },
@@ -6862,7 +6100,6 @@
         "Name": "Clauncher",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 330,
         "Generation": 6,
         "Legendary": false
     },
@@ -6871,7 +6108,6 @@
         "Name": "Clawitzer",
         "Type 1": "Water",
         "Type 2": null,
-        "Total": 500,
         "Generation": 6,
         "Legendary": false
     },
@@ -6880,7 +6116,6 @@
         "Name": "Helioptile",
         "Type 1": "Electric",
         "Type 2": "Normal",
-        "Total": 289,
         "Generation": 6,
         "Legendary": false
     },
@@ -6889,7 +6124,6 @@
         "Name": "Heliolisk",
         "Type 1": "Electric",
         "Type 2": "Normal",
-        "Total": 481,
         "Generation": 6,
         "Legendary": false
     },
@@ -6898,7 +6132,6 @@
         "Name": "Tyrunt",
         "Type 1": "Rock",
         "Type 2": "Dragon",
-        "Total": 362,
         "Generation": 6,
         "Legendary": false
     },
@@ -6907,7 +6140,6 @@
         "Name": "Tyrantrum",
         "Type 1": "Rock",
         "Type 2": "Dragon",
-        "Total": 521,
         "Generation": 6,
         "Legendary": false
     },
@@ -6916,7 +6148,6 @@
         "Name": "Amaura",
         "Type 1": "Rock",
         "Type 2": "Ice",
-        "Total": 362,
         "Generation": 6,
         "Legendary": false
     },
@@ -6925,7 +6156,6 @@
         "Name": "Aurorus",
         "Type 1": "Rock",
         "Type 2": "Ice",
-        "Total": 521,
         "Generation": 6,
         "Legendary": false
     },
@@ -6934,7 +6164,6 @@
         "Name": "Sylveon",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 525,
         "Generation": 6,
         "Legendary": false
     },
@@ -6943,7 +6172,6 @@
         "Name": "Hawlucha",
         "Type 1": "Fighting",
         "Type 2": "Flying",
-        "Total": 500,
         "Generation": 6,
         "Legendary": false
     },
@@ -6952,7 +6180,6 @@
         "Name": "Dedenne",
         "Type 1": "Electric",
         "Type 2": "Fairy",
-        "Total": 431,
         "Generation": 6,
         "Legendary": false
     },
@@ -6961,7 +6188,6 @@
         "Name": "Carbink",
         "Type 1": "Rock",
         "Type 2": "Fairy",
-        "Total": 500,
         "Generation": 6,
         "Legendary": false
     },
@@ -6970,7 +6196,6 @@
         "Name": "Goomy",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 300,
         "Generation": 6,
         "Legendary": false
     },
@@ -6979,7 +6204,6 @@
         "Name": "Sliggoo",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 452,
         "Generation": 6,
         "Legendary": false
     },
@@ -6988,7 +6212,6 @@
         "Name": "Goodra",
         "Type 1": "Dragon",
         "Type 2": null,
-        "Total": 600,
         "Generation": 6,
         "Legendary": false
     },
@@ -6997,7 +6220,6 @@
         "Name": "Klefki",
         "Type 1": "Steel",
         "Type 2": "Fairy",
-        "Total": 470,
         "Generation": 6,
         "Legendary": false
     },
@@ -7006,7 +6228,6 @@
         "Name": "Phantump",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 309,
         "Generation": 6,
         "Legendary": false
     },
@@ -7015,7 +6236,6 @@
         "Name": "Trevenant",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 474,
         "Generation": 6,
         "Legendary": false
     },
@@ -7024,7 +6244,6 @@
         "Name": "PumpkabooAverage Size",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 335,
         "Generation": 6,
         "Legendary": false
     },
@@ -7033,7 +6252,6 @@
         "Name": "PumpkabooSmall Size",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 335,
         "Generation": 6,
         "Legendary": false
     },
@@ -7042,7 +6260,6 @@
         "Name": "PumpkabooLarge Size",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 335,
         "Generation": 6,
         "Legendary": false
     },
@@ -7051,7 +6268,6 @@
         "Name": "PumpkabooSuper Size",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 335,
         "Generation": 6,
         "Legendary": false
     },
@@ -7060,7 +6276,6 @@
         "Name": "GourgeistAverage Size",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 494,
         "Generation": 6,
         "Legendary": false
     },
@@ -7069,7 +6284,6 @@
         "Name": "GourgeistSmall Size",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 494,
         "Generation": 6,
         "Legendary": false
     },
@@ -7078,7 +6292,6 @@
         "Name": "GourgeistLarge Size",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 494,
         "Generation": 6,
         "Legendary": false
     },
@@ -7087,7 +6300,6 @@
         "Name": "GourgeistSuper Size",
         "Type 1": "Ghost",
         "Type 2": "Grass",
-        "Total": 494,
         "Generation": 6,
         "Legendary": false
     },
@@ -7096,7 +6308,6 @@
         "Name": "Bergmite",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 304,
         "Generation": 6,
         "Legendary": false
     },
@@ -7105,7 +6316,6 @@
         "Name": "Avalugg",
         "Type 1": "Ice",
         "Type 2": null,
-        "Total": 514,
         "Generation": 6,
         "Legendary": false
     },
@@ -7114,7 +6324,6 @@
         "Name": "Noibat",
         "Type 1": "Flying",
         "Type 2": "Dragon",
-        "Total": 245,
         "Generation": 6,
         "Legendary": false
     },
@@ -7123,7 +6332,6 @@
         "Name": "Noivern",
         "Type 1": "Flying",
         "Type 2": "Dragon",
-        "Total": 535,
         "Generation": 6,
         "Legendary": false
     },
@@ -7132,7 +6340,6 @@
         "Name": "Xerneas",
         "Type 1": "Fairy",
         "Type 2": null,
-        "Total": 680,
         "Generation": 6,
         "Legendary": true
     },
@@ -7141,7 +6348,6 @@
         "Name": "Yveltal",
         "Type 1": "Dark",
         "Type 2": "Flying",
-        "Total": 680,
         "Generation": 6,
         "Legendary": true
     },
@@ -7150,7 +6356,6 @@
         "Name": "Zygarde50% Forme",
         "Type 1": "Dragon",
         "Type 2": "Ground",
-        "Total": 600,
         "Generation": 6,
         "Legendary": true
     },
@@ -7159,7 +6364,6 @@
         "Name": "Diancie",
         "Type 1": "Rock",
         "Type 2": "Fairy",
-        "Total": 600,
         "Generation": 6,
         "Legendary": true
     },
@@ -7168,7 +6372,6 @@
         "Name": "DiancieMega Diancie",
         "Type 1": "Rock",
         "Type 2": "Fairy",
-        "Total": 700,
         "Generation": 6,
         "Legendary": true
     },
@@ -7177,7 +6380,6 @@
         "Name": "HoopaHoopa Confined",
         "Type 1": "Psychic",
         "Type 2": "Ghost",
-        "Total": 600,
         "Generation": 6,
         "Legendary": true
     },
@@ -7186,7 +6388,6 @@
         "Name": "HoopaHoopa Unbound",
         "Type 1": "Psychic",
         "Type 2": "Dark",
-        "Total": 680,
         "Generation": 6,
         "Legendary": true
     },
@@ -7195,7 +6396,6 @@
         "Name": "Volcanion",
         "Type 1": "Fire",
         "Type 2": "Water",
-        "Total": 600,
         "Generation": 6,
         "Legendary": true
     }

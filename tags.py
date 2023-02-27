@@ -6,7 +6,7 @@ import csv
 
 
 df = pd.read_csv(r'C:\Users\Tototime\Desktop\Project_DataMining\data\Pokemon.csv')
-df_selected = df.loc[:, ['#','Name', 'Type 1', 'Type 2', 'Total', 'Generation', 'Legendary']]
+df_selected = df.loc[:, ['#','Name', 'Type 1', 'Type 2', 'Generation', 'Legendary']]
 
 #change # by id
 df_selected.rename(columns={'#': 'id'}, inplace=True)
@@ -22,6 +22,8 @@ with open('tags.json', 'w') as f:
 
 with open('database.json', 'r') as f:
     data_d = json.load(f)
+
+
 
 # Charger les données de tags.json dans data_d["tags"]
 for key in data_d:
