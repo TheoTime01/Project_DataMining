@@ -20,12 +20,12 @@ def load(filename):
 # Fonction de filtrage en fonction des préférences utilisateur
 def filter_images(images, color, legendary):
     filtered_images = []
-    img=[]
     for image in images.values():
-                if image["color"]["couleur dominante"] == color:
-                    tags=image["tags"]["Legendary"]
-                    if not(tags^legendary):
-                        filtered_images.append(image.get("tags"))
+        if image.get("color", {}).get("couleur dominante") == color:
+            tags = image.get("tags", {})
+            if bool(tags.get("Legendary")) == bool(legendary):
+                image["color"]["couleur dominante"] = color
+                filtered_images.append(image)
     return filtered_images
 
 
@@ -44,7 +44,7 @@ img,test=load("database.json")
 favorite_t=["Favorite","NotFavorite"]
 all_user={}
 
-for i in range(500):#100 utilisateurs
+for i in range(500):#500 utilisateurs
     result=[]
     data=get_user_preferences(img)
     for k in range(len(data)):
