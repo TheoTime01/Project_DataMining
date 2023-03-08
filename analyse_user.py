@@ -55,7 +55,7 @@ img,test=load("database.json")
 favorite_t=["favorite","notfavorite"]
 all_user={}
 
-for i in range(1000):#500 utilisateurs
+for i in range(100):#100 utilisateurs
     result=[]
     data=get_user_preferences(img,color_t)
     if len(data)==0:
