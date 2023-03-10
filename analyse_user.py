@@ -2,75 +2,73 @@ import json
 from random import randint, choice
 import os
 
-# Fonction pour charger les caractéristiques d'une image
-def load(filename):
-    train={}
-    test={}
-    with open(filename, "r") as f:
-        data=json.load(f)
-    for i in data:
-        if data[i]["id"]<598:
-            train[i]=data[i] #85% des données
-        else:
-            test[i]=data[i] #15% des données
-    return train,test
-
-
-
 # Fonction de filtrage en fonction des préférences utilisateur
-def filter_images(images, color, legendary):
+def filter_images(images, Type1, Type2, legendary):
     filtered_images = []
     for image in images.values():
-        couleur = image["couleur dominante"]
+        color = image["couleur dominante"]
+        type1 = image["tags"]["Type 1"]
+        type2 = image["tags"]["Type 2"]
         legendaire = image["tags"]["Legendary"]
         tags= image["tags"]
-        tags["color"]=color # ajouter color dans tags
-        # ajouter la lettre du debut du nom du pokemon dans tags
-        tags["first_letter"]=tags["Name"][0]
-        if couleur == color and not(legendaire^legendary):
+        if (type1 == Type1 or type2 == Type1) and (type1 == Type2 or type2 == Type2) and not(legendaire^legendary):
+            tags["color"]=color
+            tags["first_letter"]=tags["Name"][0]
             filtered_images.append(tags)
     return filtered_images
 
-# Fonction de génération des préférences utilisateur
-def get_user_preferences(images,color_t):
-    legendary_t=[True,False]
-    color = color_t[randint(0, len(color_t)-1)]
-    legendary = legendary_t[randint(0, len(legendary_t)-1)]
-    filtered_images = filter_images(images, color, legendary)
-    return filtered_images
-
 # récuperation des nom couleurs dans database.json
+data_t={}
 with open("database.json", "r") as f:
     data=json.load(f)
+    for i in data:
+        data_t[data[i]["id"]]=data[i]
 
-color_t=[]
-for i in data:
-    if data[i]["couleur dominante"] not in color_t:
-        color_t.append(data[i]["couleur dominante"])
+Type_t=[]
+for i in data_t:
+    if data_t[i]["tags"]["Type 1"] not in Type_t:
+        Type_t.append(data_t[i]["tags"]["Type 1"])
+    if data_t[i]["tags"]["Type 2"] not in Type_t:
+        Type_t.append(data_t[i]["tags"]["Type 2"])
 
+legendary_t=[True, False]
 
 #simulation de l'utilisateur
-img,test=load("database.json")
 
 favorite_t=["favorite","notfavorite"]
 all_user={}
+nb_user=100
+i=0
 
-for i in range(100):#100 utilisateurs
+while i<nb_user:
     result=[]
-    data=get_user_preferences(img,color_t)
-    if len(data)==0:
+    Type1=choice(Type_t)
+    Type2=choice(Type_t)
+    legendary=choice(legendary_t)
+    data=filter_images(data_t, Type1, Type2, legendary)
+    if len(data)>0:
+        for k in range(len(data)):
+            result.append(favorite_t[randint(0, len(favorite_t)-1)])
+        all_user[i]={"data":data, "result":result}
+        i+=1
+    else:
         continue
 
-    for k in range(len(data)):
-        result.append(favorite_t[randint(0, len(favorite_t)-1)])
-    all_user[i]={'data':data,'result':result}
-    
+pok=[]
+like=[]
 
-#sauvegarde des données
+for i in all_user:
+    for k in range(len(all_user[i]["data"])):
+        pok.append(all_user[i]["data"][k])
+        like.append(all_user[i]["result"][k])
+
+user={"data":pok, "result":like}
+
+
+# sauvegarde des données utilisateur
 with open("user.json", "w") as f:
-    json.dump(all_user, f, indent=4)
+    json.dump(user, f, indent=4)
 
-#sauvegarder les données de test dans un fichier json
-with open("test.json", "w") as f:
-    json.dump(test, f, indent=4)
+
+
 
