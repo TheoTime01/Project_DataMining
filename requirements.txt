@@ -1,2 +1,10 @@
 kaggle
-opendatasets
+numpy
+pandas
+matplotlib
+scikit-learn
+graphviz 
+pydotplus
+pickle
+tensorflow
+ann_visualizer
