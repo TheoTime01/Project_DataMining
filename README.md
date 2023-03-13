@@ -42,5 +42,4 @@ For the recommendation system task, I will build the recommendation system using
 # Pokemon Image Classification
 1. https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset?select=pokemon_jpg
 2. https://www.kaggle.com/datasets/abcsds/pokemon?resource=download
-3. https://www.kaggle.com/datasets/avi1023/color-names
   
