@@ -37,8 +37,8 @@ For the source of images and data we used Kaggle a web platform that offers data
 
 example of pokemon:
 
-<src="img/1.jpg" alt="pokemon" style="zoom:50%;" />
-<src="img/1_data.jpg" alt="pokemon" style="zoom:50%;" width="256" height="256" />
+![img](img/1.jpg)
+![img](img/1_data.jpg)
 
 
 ## III - Data size and information stored on the images
@@ -73,13 +73,16 @@ Its advantages include good accuracy, ability to handle missing data and robustn
 We have realized 5 trees in our model.
 
 Here are the trees obtained with our training data: 
-- Tree 1
+- Tree 1 :
+
 ![img1](img/arbre1.png)
 
-- Tree 2 
+- Tree 2 :
+  
 ![img2](img/arbre2.png)
 
-- Tree 5
+- Tree 5 :
+
 ![img3](img/arbre5.png)
 
 
