@@ -38,6 +38,7 @@ For the source of images and data we used Kaggle a web platform that offers data
 example of pokemon:
 
 ![img](img/1.jpg)
+
 ![img](img/1_data.jpg)
 
 
