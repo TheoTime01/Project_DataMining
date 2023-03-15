@@ -37,8 +37,8 @@ For the source of images and data we used Kaggle a web platform that offers data
 
 example of pokemon:
 
-![img](img/1.jpg)
-![img](img/1_data.jpg =256x256)
+<src="img/1.jpg" alt="pokemon" style="zoom:50%;" />
+<src="img/1_data.jpg" alt="pokemon" style="zoom:50%;" width="256" height="256" />
 
 
 ## III - Data size and information stored on the images
@@ -59,8 +59,8 @@ Here is the tree obtained with our training data:
 ![img](img/decisiontree.png)
 
 The metrics obtained are : 
-_Accuracy_ : 0.8142023346303502
-_F1 score_ : 0.7921653971708378
+- _Accuracy_ : 0.8142023346303502
+- _F1 score_ : 0.7921653971708378
 
 confusion matrix : 
 
@@ -73,14 +73,14 @@ Its advantages include good accuracy, ability to handle missing data and robustn
 We have realized 5 trees in our model.
 
 Here are the trees obtained with our training data: 
-Tree 1
-![img](img/arbre1.png)
+- Tree 1
+![img1](img/arbre1.png)
 
-Tree 2 
-![img](img/arbre2.png)
+- Tree 2 
+![img2](img/arbre2.png)
 
-Tree 5
-![img](img/arbre5.png)
+- Tree 5
+![img3](img/arbre5.png)
 
 
 The obtained metrics are : 
