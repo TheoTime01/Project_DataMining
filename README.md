@@ -26,18 +26,19 @@ The main objective of this project is to realize a recommendation system based o
 The user specifies if he likes or not depending on the questions he is asked, after some selections the system will recommend to the user other pokemon according to his previous choices.
 
 ## II- Source of data, images and their license:
-For the source of images and data we used Kaggle a web platform that offers datasets to train in web science. It is on this platform that we got the images of Pokémon as well as the complementary data like their color, type etc. The data used are under the CC0: Public Domain license. Concerning the images, they all have a size of 256x256 pixels and each one has related information.
-The id (the number of the pokemon)
-the image format (Jpeg)
-the size of the image
-orientation (landscape or portrait)
-the date of creation of the image
-and different tags containing : Type 1 and 2, name, generation, and whether it is a legendary pokémon or not.
-The dominant color of the pokémon.
-example of pokémon:
+For the source of images and data we used Kaggle a web platform that offers datasets to train in web science. It is on this platform that we got the images of pokemon as well as the complementary data like their color, type etc. The data used are under the CC0: Public Domain license. Concerning the images, they all have a size of 256x256 pixels and each one has related information in a json file. The information contained in the json file is as follows:
+- The id (the number of the pokemon)
+- the image format (Jpeg)
+- the size of the image
+- orientation (landscape or portrait)
+- the date of creation of the image
+- different tags containing : Type 1, Type 2, name, generation, and whether it is a legendary pokemon or not.
+- The dominant color of the pokemon.
+
+example of pokemon:
 
 ![img](img/1.jpg)
-![img](img/1_data.jpg)
+![img](img/1_data.jpg =256x256)
 
 
 ## III - Data size and information stored on the images
@@ -72,19 +73,19 @@ Its advantages include good accuracy, ability to handle missing data and robustn
 We have realized 5 trees in our model.
 
 Here are the trees obtained with our training data: 
-- Tree 1
+Tree 1
 ![img](img/arbre1.png)
 
-- Tree 2 
+Tree 2 
 ![img](img/arbre2.png)
 
-- Tree 5
+Tree 5
 ![img](img/arbre5.png)
 
 
 The obtained metrics are : 
-_Accuracy_: 0.8114355231143552
-_F1 score_: 0.8114218475952252
+- _Accuracy_: 0.8114355231143552
+- _F1 score_: 0.8114218475952252
 
 confusion matrix : 
 
@@ -125,7 +126,7 @@ The possible improvements would be:
   - https://github.com/johnsamuelwrites/DataMining
 
 - **Data used**:
-  - https://www.kaggle.com/datasets/kvpratama pokemon-images-dataset?select=pokemon_jpg
+  - https://www.kaggle.com/datasets/kvpratamapokemon-images-dataset?select=pokemon_jpg
   - https://www.kaggle.com/datasets/abcsds/pokemon?resource=download
 
 - **Others**:
