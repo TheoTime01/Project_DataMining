@@ -1,45 +1,135 @@
-# Project_DataMining
-![Project-Architecture](Project-Architecture.png)
+# Project Data Mining
+## Authors:
+- **Theotime P** - [TheoTime01](https://github.com/TheoTime01)
+- **Lorenzo T** - [Lorenzo-Tuzio](https://github.com/Lorenzo-Tuzio)
+
+![img](img/Project-Architecture.png)
 
 ## Table of Contents
-- [Project\_DataMining](#project_datamining)
+- [Project Data Mining](#project-data-mining)
+  - [Authors:](#authors)
   - [Table of Contents](#table-of-contents)
-  - [Project Description](#project-description)
-  - [Data Collection](#data-collection)
-  - [Labeling and Annotation](#labeling-and-annotation)
-  - [Data Analyses](#data-analyses)
-  - [Data Visualization](#data-visualization)
-  - [Recommendation System](#recommendation-system)
-- [Pokemon Image Classification](#pokemon-image-classification)
+  - [I- Objectives of the project:](#i--objectives-of-the-project)
+  - [II- Source of data, images and their license:](#ii--source-of-data-images-and-their-license)
+  - [III - Data size and information stored on the images](#iii---data-size-and-information-stored-on-the-images)
+  - [IV- Data mining and/or machine learning models used](#iv--data-mining-andor-machine-learning-models-used)
+    - [A) Decision Tree](#a-decision-tree)
+    - [B) Random Forest](#b-random-forest)
+    - [C) Neural networks](#c-neural-networks)
+    - [Conclusion](#conclusion)
+  - [V- Self Evaluation:](#v--self-evaluation)
+  - [V- Bibliography:](#v--bibliography)
 
-## Project Description
-My goal is to implement a well-commented recommender system in Python and write a project report. The system should be capable of recommending images based on the user's preferences. I have three practical sessions to build this system, during which I will ensure that all tasks related to data acquisition, annotation, analysis, and visualization are automated.
 
-The main tasks of the project are as follows:
+## I- Objectives of the project:
+The main objective of this project is to realize a recommendation system based on a user's preferences. All this project is coded in python via jupyter. We are using json format database coupled with csv file for image related information. For our recommendation system, we chose the **theme of Pokemon**. 
+The user specifies if he likes or not depending on the questions he is asked, after some selections the system will recommend to the user other pokemon according to his previous choices.
 
-- Data Collection
-- Labeling and Annotation
-- Data Analyses
-- Data Visualization
-- Recommendation System
-- Tests
-- Report
+## II- Source of data, images and their license:
+For the source of images and data we used Kaggle a web platform that offers datasets to train in web science. It is on this platform that we got the images of Pokémon as well as the complementary data like their color, type etc. The data used are under the CC0: Public Domain license. Concerning the images, they all have a size of 256x256 pixels and each one has related information.
+The id (the number of the pokemon)
+the image format (Jpeg)
+the size of the image
+orientation (landscape or portrait)
+the date of creation of the image
+and different tags containing : Type 1 and 2, name, generation, and whether it is a legendary pokémon or not.
+The dominant color of the pokémon.
+example of pokémon:
 
-## Data Collection
-For the data collection task, I will create a folder called "images" and download open-licensed images to it, with a minimum of 100 images. I will save metadata about each image, such as image size, image format (.jpeg, .png, etc.), image orientation (landscape, portrait, square, etc.), creation date, camera model, and more, in one or more JSON files. I will look for sources that provide additional information like tags, categories, and other metadata.
+![img](img/1.jpg)
+![img](img/1_data.jpg)
 
-## Labeling and Annotation
-In the labeling and annotation task, I will label and annotate images, and save additional information about each image. I may analyze the images using clustering algorithms to find predominant colors. I will try to obtain additional information like predominant colors and tags. I may ask users to tag the images with color names, #cat, #flower, #sunflower, rose, etc. I will explore automating the process of processing user tags.
 
-## Data Analyses
-For the data analyses task, I will ask users to select some images and add tags, and use that information to build a user-preference profile. I will collect information about the user's favorite colors, image orientation, image sizes, and tags, among other things. I will use different types of classifiers and clustering algorithms to obtain more information about each image.
+## III - Data size and information stored on the images
+We have 2 sets of data :
+- a 32.0 Mb image file containing 819 images
+- a csv file containing information specific to each pokemon
 
-## Data Visualization
-In the data visualization task, I will visualize the different characteristics of all the downloaded images, such as the number of images available for each year, the number of images available for different types like image size, image orientation, camera models, and color characteristics. I will also add functionality to let users visualize information related to their own user profile.
+A first program allows us to get all the metadata of each image, which are stored in a json file. Then, by comparing the name of an image and its equivalent in the CSV file, we can retrieve the name, the types, the generation of the pokemon and if it is legendary or not. 
 
-## Recommendation System
-For the recommendation system task, I will build the recommendation system using a collaborative filtering, content-based, or hybrid approach. I will build a user-preference profile for each user, based on the information I have collected about their favorite images. I will evaluate the limitations of my proposed approach.
-# Pokemon Image Classification
-1. https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset?select=pokemon_jpg
-2. https://www.kaggle.com/datasets/abcsds/pokemon?resource=download
-  
+Then, using **MiniBatchKMeans**, we can retrieve the majority color present on the image, which we then convert into hexadecimal. Finally we get the name of the color with the functions of the webcolors library.
+
+## IV- Data mining and/or machine learning models used
+### A) Decision Tree
+A decision tree is a classification and regression algorithm that uses a tree approach. It is easy to interpret, can handle missing data and process both qualitative and quantitative data. It has a high performance in terms of speed and accuracy of prediction. However, it can be sensitive to input data, unstable, and have difficulty handling high-dimensional data. There is also a risk of overlearning, where the decision tree overlearns the training data and can perform poorly on new da
+
+Here is the tree obtained with our training data: 
+
+![img](img/decisiontree.png)
+
+The metrics obtained are : 
+_Accuracy_ : 0.8142023346303502
+_F1 score_ : 0.7921653971708378
+
+confusion matrix : 
+
+![img](img/decisiontreecm.png)
+
+### B) Random Forest
+Random Forest is an ensemble-based machine learning algorithm that combines multiple decision trees to improve the accuracy and robustness of predictions. 
+It randomly selects samples from the dataset to build decision trees, then combines their results to produce accurate and robust predictions. 
+Its advantages include good accuracy, ability to handle missing data and robustness to overlearning, while its disadvantages include increased complexity and potentially inferior performance in the case of very high dimensionality data or highly correlated variables. 
+We have realized 5 trees in our model.
+
+Here are the trees obtained with our training data: 
+- Tree 1
+![img](img/arbre1.png)
+
+- Tree 2 
+![img](img/arbre2.png)
+
+- Tree 5
+![img](img/arbre5.png)
+
+
+The obtained metrics are : 
+_Accuracy_: 0.8114355231143552
+_F1 score_: 0.8114218475952252
+
+confusion matrix : 
+
+![img](img/arbrecm.png)
+
+### C) Neural networks
+
+A neural network is a deep learning algorithm that is inspired by the functioning of the human brain. It consists of a large number of artificial neurons organized in layers, where each neuron is connected to neurons in a previous layer and a subsequent layer. 
+
+Data is fed into the network by the input layer, and output is produced by the output layer. The neural network learns from the data by adjusting the weights of the connections between neurons to minimize the prediction error. 
+
+Its advantages include a great ability to model complex relationships between inputs and outputs, as well as a great flexibility to handle different types of data. 
+
+Its disadvantages include increased complexity, computational requirements, and increased difficulty in interpreting the learned models.
+
+Here is the network obtained with our training data:
+
+![img](img/model.png)
+
+The resulting metrics are :
+
+![img](img/model2.png)
+
+### Conclusion
+
+Except for our neural network, our Random Forest and Decision Tree models are quite reliable because they are accurate (greater than 0.8) and are built using the most important features to identify a pokemon. However, the generated trees are very large, which means that the models may be over-fitted to the training data and would not generalize properly to the new data.
+## V- Self Evaluation:
+
+All our code is functional, we meet all the criteria of the topic and we tried to make 3 different models (Random Forest, Decision Tree and Neural Network). For our evaluation we think we have met all the objectives.
+
+The possible improvements would be:
+- to have a more complex neural network 
+- to have a more accurate recognition of the dominant colors of the images
+- To have a smaller Decision Tree and Random Forest to increase in precision by trying to focus only on some criteria more important than the others.
+
+## V- Bibliography:
+- **Github**:
+  - https://github.com/johnsamuelwrites/DataMining
+
+- **Data used**:
+  - https://www.kaggle.com/datasets/kvpratama pokemon-images-dataset?select=pokemon_jpg
+  - https://www.kaggle.com/datasets/abcsds/pokemon?resource=download
+
+- **Others**:
+  - https://stackoverflow.com/questions/75140979/valueerror-invalid-literal-for-int-with-base-10-using-ann-visualizer
+  - https://datascience.stackexchange.com/questions/12851/how-do-you-visualize-neural-network-architectures
+  - https://stackoverflow.com/questions/75140979/valueerror-invalid-literal-for-int-with-base-10-using-ann-visualizer
+  - https://stackoverflow.com/questions/61192374/interpreting-k-means-cluster-centers-output
